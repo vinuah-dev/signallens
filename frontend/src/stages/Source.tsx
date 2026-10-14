@@ -2,6 +2,7 @@ import { useEffect, useMemo, useRef, useState, type DragEvent } from "react";
 import { ApiError, api } from "../api/client";
 import type { ColumnProfile, Dataset, Kind, RowsPage } from "../api/types";
 import { Histogram, Sparkbars } from "../charts/Histogram";
+import { HeroLens } from "../components/HeroLens";
 import { Button, IssueList, KindBadge, Meter, Notice, Pulse, SectionHead, Segmented, Tip, Toggle } from "../components/ui";
 import { bytes, cell, delimiterName, num, pct, plural } from "../lib/format";
 import { checkFile } from "../lib/validate";
@@ -64,14 +65,36 @@ function Intake() {
 
   return (
     <div className="stage stage-source">
-      <div className="intro">
-        <h1 className="display">
-          Point the lens at <em>your</em> data.
-        </h1>
-        <p className="lede">
-          Upload a table where one column is the thing you want to predict. SignalLens profiles every column, trains real
-          scikit-learn classifiers on a held-out split, and shows what drives each prediction.
-        </p>
+      <div className="hero">
+        <div>
+          <h1 className="display">
+            Point the lens at <em>your</em> data.
+          </h1>
+          <p className="lede">
+            Upload a table where one column is the thing you want to predict. SignalLens profiles every column, trains real
+            scikit-learn classifiers on a held-out split, and shows what drives each prediction.
+          </p>
+          <ol className="promise">
+            <li>
+              <span className="promise-n">01</span>
+              <strong>Profile</strong>
+              <span>types, gaps and distributions of every column</span>
+            </li>
+            <li>
+              <span className="promise-n">02</span>
+              <strong>Train &amp; compare</strong>
+              <span>four models, scored on rows they never saw</span>
+            </li>
+            <li>
+              <span className="promise-n">03</span>
+              <strong>Explain &amp; probe</strong>
+              <span>what the model relies on, and live what-ifs</span>
+            </li>
+          </ol>
+        </div>
+        <div className="hero-art">
+          <HeroLens />
+        </div>
       </div>
 
       <div
@@ -129,9 +152,16 @@ function Intake() {
         <ul className="sample-list">
           {samples.map((s) => (
             <li key={s.key}>
+              <div className="sample-shape" aria-hidden="true">
+                <span className="sample-rows">{s.rows.toLocaleString()}</span>
+                <span className="sample-x">rows × {s.columns} cols</span>
+              </div>
               <div className="sample-text">
                 <strong>{s.title}</strong>
                 <p>{s.blurb}</p>
+                <p className="sample-target">
+                  predicts <code>{s.target}</code>
+                </p>
                 <div className="tags">
                   {s.tags.map((t) => (
                     <span key={t} className="tag">

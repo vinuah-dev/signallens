@@ -3,6 +3,7 @@
 from __future__ import annotations
 
 import uuid
+from functools import cache
 from pathlib import Path
 
 import pandas as pd
@@ -29,18 +30,21 @@ SAMPLES = {
         "title": "Iris flowers",
         "blurb": "150 flowers, 4 measurements, 3 species. Clean and balanced — a good first run.",
         "tags": ["multiclass", "numeric", "clean"],
+        "target": "species",
     },
     "breast_cancer": {
         "file": "breast_cancer.csv",
         "title": "Breast cancer diagnosis",
         "blurb": "569 tumour biopsies, 30 cell measurements, benign vs malignant.",
         "tags": ["binary", "numeric", "many features"],
+        "target": "diagnosis",
     },
     "customer_churn": {
         "file": "customer_churn.csv",
         "title": "Customer churn (synthetic)",
         "blurb": "1,800 generated subscribers with gaps, categories, an ID, a date, imbalance and one leaky column.",
         "tags": ["binary", "mixed types", "missing values", "imbalanced"],
+        "target": "churned",
     },
 }
 
@@ -95,13 +99,21 @@ def limits() -> dict:
     }
 
 
+@cache
+def _sample_shape(filename: str) -> tuple[int, int]:
+    df = pd.read_csv(SAMPLES_DIR / filename)
+    return int(df.shape[0]), int(df.shape[1])
+
+
 @router.get("/samples")
 def samples() -> list[dict]:
     out = []
     for key, s in SAMPLES.items():
         path = SAMPLES_DIR / s["file"]
         if path.exists():
-            out.append({"key": key, **{k: v for k, v in s.items() if k != "file"}, "bytes": path.stat().st_size})
+            rows, columns = _sample_shape(s["file"])
+            meta = {k: v for k, v in s.items() if k != "file"}
+            out.append({"key": key, **meta, "bytes": path.stat().st_size, "rows": rows, "columns": columns})
     return out
 
 

@@ -76,6 +76,9 @@ export interface Sample {
   blurb: string;
   tags: string[];
   bytes: number;
+  rows: number;
+  columns: number;
+  target: string;
 }
 
 export interface Limits {
