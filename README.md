@@ -23,6 +23,16 @@ Every number in the UI comes from a model trained on the uploaded data. There ar
 
 Requirements: Python 3.11+ and Node 18+.
 
+**One command** (from the repo root):
+
+```bash
+npm start
+```
+
+On Windows you can also double-click `start.cmd` or run `.\start.cmd`. If PowerShell says "running scripts is disabled", use `.\start.cmd` or `npm.cmd start`; that error comes from npm's PowerShell wrapper being blocked by the execution policy. The first run creates `backend/.venv` and installs the Python and npm packages. Every run then starts the API on :8000 and the frontend on :5173 with labelled output. Open http://localhost:5173 and press Ctrl+C to stop both servers. The script is `scripts/dev.mjs`; it uses only Node built-ins.
+
+**Or run the two servers by hand:**
+
 ```bash
 # 1. API (http://127.0.0.1:8000)
 cd backend
@@ -80,6 +90,7 @@ signallens/
 │   ├── components/ui.tsx         buttons, tooltips, glossary terms, notices, toggles
 │   └── lib/                      formatting, client-side validation, glossary, palette
 ├── docs/TESTING_LOG.md           issues found during testing and how they were fixed
+├── scripts/dev.mjs               `npm start`: first-run setup, then API + frontend together
 ├── Dockerfile                    builds the frontend, serves everything from one container
 └── render.yaml                   one-click Render deployment
 ```

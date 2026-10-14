@@ -1,0 +1,12 @@
+{
+  "name": "signallens",
+  "private": true,
+  "description": "Runs the SignalLens API and frontend together. See scripts/dev.mjs.",
+  "scripts": {
+    "start": "node scripts/dev.mjs",
+    "dev": "node scripts/dev.mjs"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
