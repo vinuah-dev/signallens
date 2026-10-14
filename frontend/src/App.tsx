@@ -100,11 +100,16 @@ function Workbench() {
       <header className="masthead">
         <Wordmark />
         <span className="masthead-tag">an instrument for looking inside classifiers</span>
-        {dataset && (
-          <Button size="sm" variant="quiet" className="masthead-reset" onClick={() => dispatch({ type: "dataset/cleared" })}>
-            New dataset
-          </Button>
-        )}
+        <div className="masthead-actions">
+          {dataset && (
+            <Button size="sm" variant="quiet" onClick={() => dispatch({ type: "dataset/cleared" })}>
+              New dataset
+            </Button>
+          )}
+          <a className="masthead-link" href="https://github.com/vinuah-dev/signallens" target="_blank" rel="noreferrer">
+            <span className="masthead-link-long">Source on </span>GitHub ↗
+          </a>
+        </div>
       </header>
 
       <div className="shell">

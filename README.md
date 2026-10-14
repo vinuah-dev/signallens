@@ -2,7 +2,7 @@
 
 Upload a CSV, choose what to predict, train real scikit-learn classifiers, and see how well they work, what they rely on and how each prediction responds to its inputs.
 
-> **Live app:** _add your deployed URL here_ · **Demo video:** _add link here_
+> **Repository:** https://github.com/vinuah-dev/signallens · **Live app:** _add your deployed URL here_ · **Demo video:** _add link here_
 
 SignalLens takes you through six steps, shown as a rail on the left of the app:
 
