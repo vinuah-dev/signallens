@@ -1,0 +1,9 @@
+# Render Blueprint: New → Blueprint → pick this repo.
+services:
+  - type: web
+    name: signallens
+    runtime: docker
+    plan: free
+    dockerfilePath: ./Dockerfile
+    healthCheckPath: /api/health
+    autoDeploy: true

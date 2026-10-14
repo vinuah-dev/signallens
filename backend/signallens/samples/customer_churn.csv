@@ -1,0 +1,1801 @@
+customer_id,signup_date,contract,payment_method,internet_service,senior_citizen,tenure_months,monthly_charges,total_charges,support_tickets,cancellation_reason,churned
+C100000,2020-07-31,one-year,electronic check,fiber,No,72,105.47,7529.08,0,N/A,No
+C100001,2025-11-02,two-year,electronic check,fiber,No,8,54.36,450.46,3,competitor offer,Yes
+C100002,2025-12-02,one-year,electronic check,dsl,No,7,45.02,297.64,1,N/A,No
+C100003,2023-09-14,month-to-month,bank transfer,dsl,No,34,122.49,4101.88,1,competitor offer,Yes
+C100004,2025-10-03,month-to-month,bank transfer,none,Yes,9,32.33,300.16,3,N/A,No
+C100005,2023-03-18,two-year,card,fiber,No,40,60.3,2466.86,1,N/A,No
+C100006,2025-02-05,month-to-month,card,fiber,No,17,78.14,1293.28,2,N/A,No
+C100007,2023-11-13,two-year,card,dsl,No,32,52.91,1679.72,1,N/A,No
+C100008,2022-11-18,one-year,mailed check,none,Yes,44,18.0,758.2,1,N/A,No
+C100009,2024-04-11,month-to-month,mailed check,dsl,Yes,27,56.64,1590.97,2,N/A,No
+C100010,2022-09-19,month-to-month,bank transfer,dsl,No,46,65.45,2974.41,1,N/A,No
+C100011,2025-10-03,month-to-month,electronic check,fiber,No,9,83.59,780.64,2,moved,Yes
+C100012,2025-11-02,month-to-month,,none,Yes,8,48.09,393.9,2,competitor offer,Yes
+C100013,2024-04-11,month-to-month,card,fiber,No,27,44.64,1174.73,1,N/A,No
+C100014,2025-11-02,month-to-month,bank transfer,dsl,Yes,8,32.02,255.21,0,N/A,No
+C100015,2024-09-08,one-year,mailed check,dsl,No,22,83.78,1879.02,2,N/A,No
+C100016,2023-09-14,two-year,bank transfer,,No,34,55.87,1925.12,1,N/A,No
+C100017,2024-08-09,one-year,electronic check,dsl,No,23,93.46,2246.46,3,moved,Yes
+C100018,2023-12-13,one-year,mailed check,fiber,No,31,90.79,2907.85,2,N/A,No
+C100019,2024-02-11,two-year,card,fiber,No,29,51.97,1522.32,1,N/A,No
+C100020,2026-05-31,month-to-month,electronic check,none,No,1,48.06,49.06,3,price,Yes
+C100021,2024-12-07,month-to-month,card,dsl,No,19,42.99,800.4,2,N/A,No
+C100022,2025-04-06,one-year,electronic check,fiber,No,15,89.79,1324.3,0,N/A,No
+C100023,2021-09-24,month-to-month,electronic check,fiber,No,58,111.74,6598.97,1,competitor offer,Yes
+C100024,2021-12-23,month-to-month,electronic check,dsl,Yes,55,113.75,6321.64,1,N/A,No
+C100025,2025-05-06,month-to-month,mailed check,dsl,No,14,64.34,872.29,1,N/A,No
+C100026,2022-11-18,month-to-month,electronic check,dsl,No,44,81.71,3589.34,3,N/A,No
+C100027,2024-12-07,two-year,mailed check,fiber,No,19,90.71,1684.56,2,N/A,No
+C100028,2023-06-16,one-year,card,dsl,Yes,37,83.81,3052.98,3,N/A,No
+C100029,2025-12-02,month-to-month,bank transfer,none,No,7,18.0,130.83,0,N/A,No
+C100030,2023-05-17,month-to-month,card,dsl,No,38,57.11,2112.02,3,N/A,No
+C100031,2023-04-17,month-to-month,card,dsl,No,39,72.49,2775.29,4,N/A,No
+C100032,2026-01-31,month-to-month,bank transfer,none,Yes,5,46.53,236.66,1,N/A,No
+C100033,2023-11-13,month-to-month,electronic check,dsl,Yes,32,48.85,1567.81,1,N/A,No
+C100034,2021-09-24,one-year,electronic check,dsl,Yes,58,84.58,4933.4,0,N/A,No
+C100035,2024-09-08,month-to-month,card,fiber,No,22,108.88,2296.6,2,service quality,Yes
+C100036,2022-03-23,month-to-month,mailed check,dsl,No,52,67.49,3509.56,2,N/A,No
+C100037,2025-09-03,month-to-month,card,dsl,Yes,10,60.77,601.63,0,N/A,No
+C100038,2025-10-03,two-year,card,none,No,9,27.84,unknown,0,N/A,No
+C100039,2025-12-02,month-to-month,electronic check,fiber,Yes,7,87.05,599.9,1,competitor offer,Yes
+C100040,2022-11-18,month-to-month,mailed check,fiber,No,44,110.6,4828.94,3,N/A,No
+C100041,2026-05-01,two-year,electronic check,dsl,Yes,2,99.83,204.71,1,N/A,No
+C100042,2023-04-17,month-to-month,bank transfer,dsl,No,39,55.28,2275.7,0,N/A,No
+C100043,2024-12-07,two-year,bank transfer,fiber,No,19,62.88,1199.65,0,N/A,No
+C100044,2023-01-17,one-year,electronic check,dsl,No,42,47.99,2104.31,2,N/A,No
+C100045,2024-03-12,one-year,bank transfer,fiber,No,28,106.18,2985.59,2,N/A,No
+C100046,2024-08-09,month-to-month,electronic check,none,No,23,40.93,901.67,0,N/A,No
+C100047,2023-05-17,month-to-month,electronic check,fiber,No,38,90.67,3454.6,4,service quality,Yes
+C100048,2022-09-19,month-to-month,bank transfer,fiber,No,46,94.81,4527.96,2,N/A,No
+C100049,2022-04-22,two-year,mailed check,,No,51,74.42,3953.59,0,N/A,No
+C100050,2022-06-21,month-to-month,bank transfer,fiber,No,49,81.15,3878.34,3,N/A,No
+C100051,2023-02-16,one-year,electronic check,fiber,No,41,60.4,2639.7,1,N/A,No
+C100052,2025-05-06,month-to-month,electronic check,fiber,No,14,69.96,959.45,3,price,Yes
+C100053,2024-11-07,month-to-month,bank transfer,fiber,No,20,86.67,1698.38,3,N/A,No
+C100054,2026-01-31,month-to-month,bank transfer,fiber,No,5,92.79,457.39,0,service quality,Yes
+C100055,2024-12-07,month-to-month,electronic check,fiber,No,19,75.57,1497.78,0,competitor offer,Yes
+C100056,2024-11-07,two-year,bank transfer,dsl,Yes,20,56.53,1144.96,1,N/A,No
+C100057,2021-10-24,month-to-month,card,fiber,No,57,114.81,6724.25,1,N/A,No
+C100058,2020-07-31,two-year,mailed check,dsl,Yes,72,55.38,3734.45,3,N/A,No
+C100059,2025-11-02,one-year,mailed check,none,No,8,40.93,327.3,0,N/A,No
+C100060,2026-03-02,one-year,card,dsl,No,4,58.74,234.45,1,N/A,No
+C100061,2025-07-05,one-year,mailed check,fiber,No,12,64.53,790.92,2,N/A,No
+C100062,2024-04-11,one-year,bank transfer,none,No,27,18.0,479.94,1,N/A,No
+C100063,2020-07-31,month-to-month,card,fiber,No,72,71.8,5354.7,2,N/A,No
+C100064,2025-12-02,month-to-month,electronic check,fiber,Yes,7,,449.18,,price,Yes
+C100065,2026-01-01,month-to-month,bank transfer,dsl,No,6,85.05,490.23,2,N/A,No
+C100066,2025-12-02,month-to-month,electronic check,dsl,Yes,7,40.02,267.13,1,price,Yes
+C100067,2022-01-22,month-to-month,electronic check,fiber,No,54,74.61,4181.66,0,N/A,No
+C100068,2025-06-05,two-year,bank transfer,fiber,Yes,13,98.68,1312.6,2,N/A,No
+C100069,2025-01-06,month-to-month,card,dsl,No,18,63.38,1116.34,1,N/A,No
+C100070,2025-11-02,one-year,electronic check,dsl,Yes,8,77.07,637.07,0,N/A,No
+C100071,2023-09-14,month-to-month,electronic check,fiber,No,34,102.74,3480.17,3,N/A,No
+C100072,2025-02-05,two-year,mailed check,fiber,No,17,46.53,789.22,2,N/A,No
+C100073,2024-08-09,one-year,card,fiber,No,23,74.64,1646.03,0,N/A,No
+C100074,2025-07-05,month-to-month,electronic check,fiber,No,12,62.28,736.4,3,moved,Yes
+C100075,2025-05-06,two-year,mailed check,dsl,No,14,96.29,1354.06,0,N/A,No
+C100076,2022-03-23,two-year,bank transfer,dsl,No,52,63.27,3313.78,1,N/A,No
+C100077,2025-05-06,two-year,bank transfer,fiber,No,14,95.1,1311.42,1,N/A,No
+C100078,2023-06-16,one-year,bank transfer,dsl,Yes,37,104.14,3969.39,1,N/A,No
+C100079,2025-03-07,month-to-month,card,dsl,No,16,57.91,966.49,0,N/A,No
+C100080,2025-11-02,month-to-month,card,dsl,No,8,67.59,528.74,1,moved,Yes
+C100081,2024-02-11,two-year,bank transfer,fiber,No,29,93.1,2734.96,1,N/A,No
+C100082,2025-09-03,one-year,card,none,No,10,29.9,286.18,3,N/A,No
+C100083,2024-07-10,month-to-month,electronic check,fiber,No,24,112.13,2727.04,3,price,Yes
+C100084,2022-08-20,two-year,bank transfer,,No,47,84.28,3855.67,1,N/A,No
+C100085,2025-01-06,one-year,electronic check,fiber,No,18,106.43,1909.77,2,N/A,No
+C100086,2025-06-05,one-year,card,fiber,No,13,85.0,1112.06,3,N/A,No
+C100087,2022-06-21,month-to-month,bank transfer,dsl,No,49,58.21,2836.2,0,N/A,No
+C100088,2024-11-07,month-to-month,electronic check,dsl,No,20,57.93,1195.34,2,price,Yes
+C100089,2025-07-05,month-to-month,bank transfer,none,Yes,12,27.71,325.5,1,N/A,No
+C100090,2024-08-09,month-to-month,electronic check,none,No,23,18.0,408.98,2,N/A,No
+C100091,2023-05-17,two-year,bank transfer,fiber,Yes,38,92.04,3535.54,1,N/A,No
+C100092,2023-08-15,month-to-month,electronic check,dsl,No,35,84.14,2946.26,2,price,Yes
+C100093,2024-01-12,month-to-month,mailed check,dsl,No,30,65.67,1987.46,0,N/A,No
+C100094,2023-10-14,month-to-month,card,fiber,No,33,72.78,2390.6,3,price,Yes
+C100095,2024-09-08,one-year,bank transfer,dsl,No,22,66.72,1435.69,2,N/A,No
+C100096,2025-12-02,month-to-month,electronic check,none,No,7,40.94,292.51,3,N/A,No
+C100097,2024-08-09,month-to-month,card,fiber,No,23,91.22,2105.93,,price,Yes
+C100098,2026-03-02,month-to-month,mailed check,fiber,No,4,,510.38,2,N/A,No
+C100099,2023-11-13,month-to-month,bank transfer,fiber,No,32,64.71,2153.78,4,N/A,No
+C100100,2025-10-03,two-year,card,fiber,No,9,92.04,821.14,2,N/A,No
+C100101,2025-12-02,one-year,electronic check,fiber,No,7,99.33,681.46,0,N/A,No
+C100102,2021-05-27,month-to-month,electronic check,fiber,No,62,85.63,5247.4,2,N/A,No
+C100103,2024-04-11,month-to-month,electronic check,dsl,No,27,60.62,1608.47,1,competitor offer,Yes
+C100104,2024-05-11,two-year,mailed check,dsl,No,26,42.95,1054.13,0,N/A,No
+C100105,2025-02-05,month-to-month,card,dsl,No,17,52.59,937.92,1,N/A,No
+C100106,2024-07-10,one-year,bank transfer,fiber,Yes,24,99.66,2424.0,2,N/A,No
+C100107,2025-07-05,one-year,electronic check,fiber,No,12,116.35,1492.65,2,service quality,Yes
+C100108,2025-04-06,month-to-month,,none,No,15,21.2,313.35,1,N/A,No
+C100109,2024-08-09,month-to-month,electronic check,fiber,No,23,94.4,2211.85,1,N/A,No
+C100110,2024-08-09,one-year,electronic check,none,Yes,23,47.48,1102.46,3,N/A,No
+C100111,2026-05-31,two-year,bank transfer,fiber,Yes,1,106.39,106.35,1,N/A,No
+C100112,2021-11-23,month-to-month,electronic check,dsl,No,56,,4113.7,,N/A,No
+C100113,2025-07-05,two-year,electronic check,dsl,No,12,75.74,910.47,0,N/A,No
+C100114,2023-01-17,month-to-month,mailed check,fiber,Yes,42,103.83,4358.28,0,N/A,No
+C100115,2022-04-22,one-year,electronic check,fiber,Yes,51,57.87,2970.02,0,N/A,No
+C100116,2024-02-11,two-year,electronic check,fiber,No,29,84.89,2306.82,1,N/A,No
+C100117,2025-04-06,month-to-month,mailed check,fiber,No,15,44.48,654.45,4,N/A,No
+C100118,2023-09-14,month-to-month,card,fiber,Yes,34,39.87,1328.98,0,N/A,No
+C100119,2025-03-07,two-year,electronic check,fiber,Yes,16,65.49,1099.54,,N/A,No
+C100120,2025-11-02,month-to-month,bank transfer,fiber,No,8,49.51,403.46,1,N/A,No
+C100121,2026-05-31,one-year,electronic check,dsl,Yes,1,77.14,79.02,1,N/A,No
+C100122,2023-06-16,one-year,card,fiber,Yes,37,105.98,3999.06,4,N/A,No
+C100123,2024-06-10,month-to-month,bank transfer,fiber,Yes,25,77.03,1918.29,2,price,Yes
+C100124,2021-08-25,one-year,electronic check,dsl,No,59,62.75,3885.28,1,N/A,No
+C100125,2024-10-08,month-to-month,card,dsl,No,21,60.62,1267.54,0,N/A,No
+C100126,2024-03-12,month-to-month,card,fiber,No,28,78.0,2098.48,2,N/A,No
+C100127,2024-06-10,month-to-month,bank transfer,none,No,25,38.83,990.07,0,N/A,No
+C100128,2025-01-06,month-to-month,mailed check,fiber,No,18,91.63,1708.39,2,N/A,No
+C100129,2023-10-14,month-to-month,card,none,No,33,25.53,846.48,2,N/A,No
+C100130,2023-09-14,two-year,electronic check,fiber,Yes,34,66.31,unknown,0,N/A,No
+C100131,2023-09-14,one-year,card,fiber,No,34,72.23,2528.15,2,moved,Yes
+C100132,2025-09-03,month-to-month,bank transfer,fiber,No,10,101.62,1062.91,0,price,Yes
+C100133,2025-01-06,month-to-month,electronic check,none,No,18,26.46,485.14,3,competitor offer,Yes
+C100134,2020-07-31,two-year,electronic check,fiber,No,72,116.04,8775.55,1,N/A,No
+C100135,2024-05-11,month-to-month,mailed check,dsl,No,26,60.42,1586.87,2,price,Yes
+C100136,2025-06-05,two-year,mailed check,dsl,No,13,96.17,1328.15,1,N/A,No
+C100137,2026-01-31,month-to-month,card,fiber,No,5,57.28,275.53,1,price,Yes
+C100138,2022-01-22,month-to-month,electronic check,fiber,No,54,68.38,3800.0,1,N/A,No
+C100139,2022-09-19,two-year,electronic check,fiber,No,46,94.4,4386.32,2,N/A,No
+C100140,2024-01-12,one-year,bank transfer,dsl,No,30,76.64,2311.33,1,N/A,No
+C100141,2025-03-07,one-year,electronic check,dsl,No,16,62.3,961.76,1,N/A,No
+C100142,2023-07-16,month-to-month,mailed check,fiber,No,36,129.05,4798.46,0,N/A,No
+C100143,2022-06-21,two-year,bank transfer,none,Yes,49,,1824.16,0,N/A,No
+C100144,2024-06-10,month-to-month,mailed check,dsl,No,25,72.19,1756.28,1,N/A,No
+C100145,2024-08-09,two-year,card,fiber,No,23,71.14,1609.38,2,N/A,No
+C100146,2025-03-07,month-to-month,card,dsl,No,16,102.5,1632.03,0,N/A,No
+C100147,2024-09-08,month-to-month,electronic check,fiber,Yes,22,,2271.55,1,price,Yes
+C100148,2025-09-03,month-to-month,bank transfer,dsl,Yes,10,74.92,730.95,1,N/A,No
+C100149,2024-03-12,two-year,electronic check,fiber,No,28,47.49,1296.76,1,N/A,No
+C100150,2025-09-03,month-to-month,bank transfer,dsl,Yes,10,,748.31,2,N/A,No
+C100151,2025-06-05,two-year,card,fiber,Yes,13,73.42,954.25,1,competitor offer,Yes
+C100152,2025-11-02,one-year,electronic check,fiber,No,8,92.46,783.05,1,N/A,No
+C100153,2026-01-01,one-year,electronic check,none,No,6,55.99,332.47,0,N/A,No
+C100154,2024-07-10,one-year,card,dsl,No,24,49.17,1207.61,0,N/A,No
+C100155,2020-09-29,two-year,card,fiber,No,70,88.56,6522.43,3,N/A,No
+C100156,2026-04-01,month-to-month,electronic check,dsl,No,3,85.2,254.6,0,competitor offer,Yes
+C100157,2024-09-08,month-to-month,mailed check,none,No,22,39.35,891.94,1,N/A,No
+C100158,2026-03-02,month-to-month,mailed check,fiber,Yes,4,76.47,309.12,,competitor offer,Yes
+C100159,2024-10-08,month-to-month,bank transfer,none,No,21,18.0,379.28,1,N/A,No
+C100160,2026-03-02,month-to-month,bank transfer,fiber,No,4,68.94,289.04,3,moved,Yes
+C100161,2024-10-08,two-year,bank transfer,dsl,No,21,37.65,769.48,2,N/A,No
+C100162,2025-04-06,two-year,card,fiber,No,15,,1559.02,2,N/A,No
+C100163,2024-07-10,month-to-month,bank transfer,fiber,No,24,86.04,1963.29,2,service quality,Yes
+C100164,2024-02-11,one-year,card,dsl,No,29,38.86,1125.1,0,N/A,No
+C100165,2024-11-07,month-to-month,card,dsl,No,20,65.61,1351.9,0,N/A,No
+C100166,2024-10-08,one-year,bank transfer,fiber,Yes,21,55.2,1152.83,1,N/A,No
+C100167,2025-08-04,one-year,card,,No,11,18.0,203.05,0,N/A,No
+C100168,2025-06-05,month-to-month,bank transfer,none,No,13,62.42,795.2,2,competitor offer,Yes
+C100169,2025-02-05,two-year,electronic check,fiber,No,17,109.6,1928.04,0,N/A,No
+C100170,2024-10-08,month-to-month,electronic check,fiber,No,21,51.13,1072.2,1,N/A,No
+C100171,2024-04-11,one-year,mailed check,,Yes,27,49.85,1329.89,,N/A,No
+C100172,2024-01-12,one-year,mailed check,fiber,No,30,88.26,2777.84,6,service quality,Yes
+C100173,2026-01-01,month-to-month,,fiber,No,6,75.24,452.13,0,service quality,Yes
+C100174,2022-11-18,month-to-month,mailed check,dsl,No,44,46.81,2097.42,0,N/A,No
+C100175,2024-02-11,month-to-month,bank transfer,dsl,No,29,,1584.8,1,N/A,No
+C100176,2024-10-08,one-year,electronic check,none,No,21,30.38,652.08,1,N/A,No
+C100177,2024-09-08,two-year,card,none,No,22,23.48,519.31,1,N/A,No
+C100178,2025-10-03,one-year,bank transfer,dsl,No,9,70.34,612.27,2,N/A,No
+C100179,2023-10-14,month-to-month,mailed check,fiber,No,33,78.57,2618.63,3,competitor offer,Yes
+C100180,2026-05-31,two-year,electronic check,none,No,1,18.89,19.18,1,N/A,No
+C100181,2026-05-01,two-year,bank transfer,dsl,No,2,66.21,134.14,1,N/A,No
+C100182,2023-07-16,two-year,electronic check,fiber,No,36,47.01,1684.29,2,N/A,No
+C100183,2025-07-05,month-to-month,bank transfer,none,No,12,67.55,854.42,2,moved,Yes
+C100184,2025-01-06,two-year,electronic check,fiber,Yes,18,45.29,799.59,2,N/A,No
+C100185,2025-08-04,month-to-month,card,,No,11,63.83,705.88,1,N/A,No
+C100186,2023-08-15,month-to-month,card,,No,35,73.15,2580.46,0,N/A,No
+C100187,2025-10-03,month-to-month,card,none,No,9,44.8,391.34,3,N/A,No
+C100188,2024-09-08,month-to-month,card,dsl,No,22,71.4,1519.74,1,moved,Yes
+C100189,2024-01-12,month-to-month,mailed check,none,No,30,63.51,1945.18,0,N/A,No
+C100190,2021-05-27,month-to-month,card,fiber,No,62,58.84,3725.59,2,N/A,No
+C100191,2022-09-19,one-year,card,fiber,No,46,82.12,3799.54,2,N/A,No
+C100192,2024-08-09,month-to-month,electronic check,fiber,No,23,86.87,1909.25,1,service quality,Yes
+C100193,2023-04-17,one-year,electronic check,dsl,Yes,39,54.7,2119.29,0,N/A,No
+C100194,2025-04-06,month-to-month,electronic check,fiber,Yes,15,70.55,1067.46,3,service quality,Yes
+C100195,2024-09-08,one-year,bank transfer,fiber,Yes,22,111.99,2512.26,0,competitor offer,Yes
+C100196,2023-05-17,month-to-month,card,fiber,No,38,67.93,2674.3,1,N/A,No
+C100197,2021-11-23,month-to-month,mailed check,dsl,No,56,55.08,3130.42,,N/A,No
+C100198,2025-12-02,two-year,card,,No,7,77.54,558.81,2,N/A,No
+C100199,2025-03-07,month-to-month,card,dsl,Yes,16,60.93,1023.24,2,N/A,No
+C100200,2023-11-13,two-year,card,dsl,Yes,32,69.17,2068.51,0,N/A,No
+C100201,2023-08-15,one-year,bank transfer,none,No,35,31.05,1119.72,0,N/A,No
+C100202,2024-03-12,one-year,mailed check,dsl,No,28,73.82,2044.61,0,N/A,No
+C100203,2024-11-07,month-to-month,electronic check,dsl,Yes,20,68.58,1393.05,2,moved,Yes
+C100204,2025-10-03,one-year,electronic check,fiber,No,9,94.15,853.95,3,moved,Yes
+C100205,2025-12-02,month-to-month,bank transfer,fiber,No,7,113.73,774.1,1,service quality,Yes
+C100206,2023-12-13,two-year,electronic check,fiber,No,31,65.0,1966.13,1,N/A,No
+C100207,2025-05-06,two-year,electronic check,fiber,Yes,14,119.88,1702.3,2,N/A,No
+C100208,2024-12-07,two-year,bank transfer,fiber,No,19,73.69,1395.29,3,N/A,No
+C100209,2025-07-05,month-to-month,card,fiber,No,12,98.2,1205.25,0,competitor offer,Yes
+C100210,2025-04-06,month-to-month,card,dsl,No,15,69.09,1026.64,1,N/A,No
+C100211,2025-09-03,month-to-month,electronic check,fiber,No,10,77.04,819.31,1,price,Yes
+C100212,2025-02-05,month-to-month,electronic check,none,No,17,18.0,304.28,0,N/A,No
+C100213,2025-01-06,one-year,electronic check,dsl,No,18,100.97,1929.02,0,N/A,No
+C100214,2023-12-13,one-year,card,fiber,No,31,66.92,2032.71,1,N/A,No
+C100215,2025-09-03,month-to-month,mailed check,fiber,No,10,66.23,674.09,0,N/A,No
+C100216,2026-04-01,two-year,bank transfer,fiber,No,3,106.88,331.56,1,N/A,No
+C100217,2025-03-07,one-year,mailed check,fiber,No,16,85.19,1313.95,1,moved,Yes
+C100218,2024-04-11,month-to-month,electronic check,dsl,No,27,107.29,2821.1,0,N/A,No
+C100219,2025-05-06,one-year,bank transfer,fiber,No,14,120.47,1709.11,1,N/A,No
+C100220,2023-04-17,two-year,electronic check,fiber,No,39,99.08,3998.11,2,N/A,No
+C100221,2024-09-08,month-to-month,electronic check,dsl,No,22,71.06,1627.33,3,price,Yes
+C100222,2025-09-03,one-year,electronic check,fiber,No,10,100.26,1020.24,3,N/A,No
+C100223,2023-07-16,one-year,card,dsl,No,36,36.62,1360.23,1,N/A,No
+C100224,2024-03-12,one-year,electronic check,dsl,No,28,69.28,1878.12,0,N/A,No
+C100225,2025-01-06,month-to-month,bank transfer,dsl,No,18,68.75,1224.45,2,N/A,No
+C100226,2025-11-02,one-year,card,fiber,Yes,8,,610.62,4,N/A,No
+C100227,2026-04-01,one-year,card,fiber,No,3,,263.43,2,N/A,No
+C100228,2023-12-13,two-year,bank transfer,dsl,Yes,31,33.48,1032.37,2,N/A,No
+C100229,2023-05-17,two-year,card,fiber,No,38,103.29,3735.26,2,N/A,No
+C100230,2023-11-13,month-to-month,electronic check,dsl,No,32,93.73,2987.81,0,N/A,No
+C100231,2024-07-10,one-year,card,fiber,No,24,55.11,1264.26,2,N/A,No
+C100232,2025-03-07,two-year,card,fiber,No,16,86.68,1403.43,0,N/A,No
+C100233,2021-04-27,two-year,mailed check,fiber,No,63,,7718.07,3,N/A,No
+C100234,2024-04-11,month-to-month,bank transfer,dsl,No,27,74.67,2037.43,1,N/A,No
+C100235,2022-08-20,month-to-month,bank transfer,dsl,No,47,42.9,2029.17,1,N/A,No
+C100236,2024-11-07,one-year,card,dsl,No,20,43.85,868.28,1,N/A,No
+C100237,2023-07-16,month-to-month,card,fiber,Yes,36,102.16,3741.58,3,N/A,No
+C100238,2023-04-17,one-year,bank transfer,dsl,No,39,105.63,3994.57,1,N/A,No
+C100239,2025-08-04,two-year,electronic check,dsl,No,11,41.71,453.43,1,N/A,No
+C100240,2026-01-01,month-to-month,card,fiber,No,6,84.29,537.9,2,N/A,No
+C100241,2023-10-14,month-to-month,electronic check,dsl,No,33,48.48,1542.26,0,N/A,No
+C100242,2022-12-18,month-to-month,mailed check,dsl,No,43,59.24,2509.74,2,N/A,No
+C100243,2023-09-14,one-year,electronic check,fiber,Yes,34,,2948.98,0,N/A,No
+C100244,2025-03-07,month-to-month,bank transfer,fiber,No,16,82.55,1369.46,3,competitor offer,Yes
+C100245,2026-01-31,month-to-month,card,dsl,Yes,5,50.46,250.95,0,N/A,No
+C100246,2025-07-05,month-to-month,card,fiber,No,12,129.48,1499.18,2,competitor offer,Yes
+C100247,2022-10-19,one-year,bank transfer,fiber,No,45,79.99,3474.96,0,N/A,No
+C100248,2023-03-18,two-year,mailed check,dsl,No,40,61.48,2540.97,1,N/A,No
+C100249,2025-02-05,month-to-month,card,none,No,17,59.7,1035.94,0,N/A,No
+C100250,2023-04-17,month-to-month,electronic check,fiber,No,39,,3344.36,1,N/A,No
+C100251,2024-12-07,month-to-month,electronic check,fiber,Yes,19,79.02,1500.63,3,N/A,No
+C100252,2025-09-03,month-to-month,card,dsl,Yes,10,86.18,885.2,0,N/A,No
+C100253,2024-09-08,month-to-month,card,none,No,22,18.0,411.47,2,N/A,No
+C100254,2025-07-05,month-to-month,electronic check,fiber,Yes,12,99.79,1221.95,3,price,Yes
+C100255,2023-02-16,month-to-month,electronic check,dsl,Yes,41,87.95,3444.47,2,N/A,No
+C100256,2025-07-05,month-to-month,bank transfer,fiber,No,12,97.91,1109.88,2,N/A,No
+C100257,2024-05-11,one-year,mailed check,dsl,No,26,61.54,1534.67,0,N/A,No
+C100258,2022-06-21,one-year,card,fiber,No,49,83.26,4115.87,0,N/A,No
+C100259,2024-10-08,month-to-month,bank transfer,dsl,Yes,21,27.95,562.35,0,N/A,No
+C100260,2025-08-04,month-to-month,card,fiber,No,11,80.59,859.87,1,competitor offer,Yes
+C100261,2022-12-18,one-year,electronic check,dsl,No,43,71.75,3091.55,0,N/A,No
+C100262,2023-12-13,month-to-month,card,,No,31,102.36,3096.22,2,N/A,No
+C100263,2022-06-21,month-to-month,card,fiber,No,49,86.53,4088.08,1,N/A,No
+C100264,2024-11-07,month-to-month,electronic check,fiber,No,20,74.94,1541.59,1,service quality,Yes
+C100265,2024-01-12,month-to-month,bank transfer,fiber,No,30,65.14,1983.63,1,N/A,No
+C100266,2024-11-07,two-year,electronic check,fiber,No,20,82.43,1687.38,2,N/A,No
+C100267,2023-10-14,month-to-month,electronic check,fiber,No,33,86.36,2927.75,2,service quality,Yes
+C100268,2024-08-09,month-to-month,electronic check,dsl,No,23,91.81,2200.92,1,N/A,No
+C100269,2025-03-07,two-year,card,fiber,No,16,83.62,1337.38,1,N/A,No
+C100270,2025-11-02,one-year,electronic check,dsl,No,8,54.51,434.04,1,N/A,No
+C100271,2025-07-05,month-to-month,card,dsl,No,12,63.08,719.18,4,competitor offer,Yes
+C100272,2025-03-07,month-to-month,card,dsl,No,16,54.89,872.64,2,N/A,No
+C100273,2024-01-12,two-year,bank transfer,dsl,No,30,60.3,1778.83,2,N/A,No
+C100274,2023-11-13,month-to-month,card,none,Yes,32,18.0,593.64,2,N/A,No
+C100275,2024-12-07,one-year,card,dsl,No,19,30.71,595.07,0,N/A,No
+C100276,2023-03-18,month-to-month,electronic check,fiber,No,40,57.4,2394.47,3,N/A,No
+C100277,2020-11-28,one-year,electronic check,dsl,No,68,75.56,5301.69,2,N/A,No
+C100278,2025-03-07,one-year,bank transfer,fiber,No,16,,1352.55,2,N/A,No
+C100279,2023-07-16,two-year,bank transfer,dsl,No,36,68.61,2508.56,1,N/A,No
+C100280,2024-01-12,one-year,card,fiber,No,30,108.72,3275.93,3,service quality,Yes
+C100281,2024-03-12,month-to-month,bank transfer,dsl,No,28,42.71,1183.16,1,N/A,No
+C100282,2024-07-10,month-to-month,electronic check,fiber,No,24,108.29,2598.42,0,N/A,No
+C100283,2026-05-31,month-to-month,mailed check,none,No,1,43.77,42.58,4,competitor offer,Yes
+C100284,2022-09-19,one-year,,,No,46,67.86,3157.52,0,N/A,No
+C100285,2026-05-01,month-to-month,mailed check,dsl,No,2,97.8,195.18,3,service quality,Yes
+C100286,2024-04-11,month-to-month,mailed check,dsl,No,27,34.35,873.41,1,N/A,No
+C100287,2023-03-18,month-to-month,bank transfer,fiber,Yes,40,58.87,2172.03,3,N/A,No
+C100288,2023-09-14,one-year,electronic check,dsl,No,34,60.86,2026.16,0,N/A,No
+C100289,2025-10-03,two-year,electronic check,,No,9,92.21,818.83,,service quality,Yes
+C100290,2025-12-02,month-to-month,electronic check,,No,7,79.22,549.78,0,price,Yes
+C100291,2024-07-10,month-to-month,card,fiber,No,24,36.93,919.42,0,N/A,No
+C100292,2026-03-02,one-year,electronic check,fiber,No,4,76.89,302.01,3,competitor offer,Yes
+C100293,2021-10-24,one-year,mailed check,dsl,No,57,63.55,3489.95,0,N/A,No
+C100294,2021-03-28,one-year,card,fiber,No,64,130.0,8411.6,1,N/A,No
+C100295,2024-11-07,two-year,bank transfer,fiber,No,20,113.26,2330.5,,N/A,No
+C100296,2024-12-07,two-year,card,fiber,No,19,86.06,1712.58,0,N/A,No
+C100297,2024-05-11,two-year,electronic check,dsl,No,26,41.66,1051.54,0,N/A,No
+C100298,2020-07-31,one-year,electronic check,dsl,No,72,72.81,5204.04,1,N/A,No
+C100299,2025-10-03,month-to-month,card,dsl,No,9,40.02,355.75,1,service quality,Yes
+C100300,2025-08-04,one-year,electronic check,dsl,No,11,69.78,800.88,1,N/A,No
+C100301,2023-12-13,month-to-month,electronic check,dsl,No,31,73.34,2319.06,0,N/A,No
+C100302,2025-04-06,one-year,card,dsl,No,15,56.66,850.41,0,N/A,No
+C100303,2023-02-16,one-year,bank transfer,dsl,No,41,70.79,2962.59,0,N/A,No
+C100304,2020-07-31,one-year,electronic check,fiber,No,72,76.19,5428.72,1,N/A,No
+C100305,2023-04-17,month-to-month,bank transfer,dsl,No,39,52.96,2053.13,0,N/A,No
+C100306,2025-06-05,month-to-month,bank transfer,none,No,13,68.71,892.23,1,N/A,No
+C100307,2024-06-10,month-to-month,mailed check,dsl,No,25,77.99,1921.39,3,N/A,No
+C100308,2025-01-06,month-to-month,electronic check,dsl,Yes,18,58.69,1048.59,0,N/A,No
+C100309,2025-11-02,two-year,bank transfer,none,Yes,8,18.69,unknown,0,N/A,No
+C100310,2023-06-16,month-to-month,card,fiber,No,37,87.21,3248.56,4,N/A,No
+C100311,2021-12-23,month-to-month,card,fiber,No,55,95.67,5484.97,1,N/A,No
+C100312,2023-08-15,month-to-month,mailed check,dsl,No,35,83.85,3006.86,0,N/A,No
+C100313,2020-08-30,one-year,electronic check,none,Yes,71,67.37,4772.04,2,N/A,No
+C100314,2025-08-04,month-to-month,electronic check,fiber,No,11,93.38,962.21,3,moved,Yes
+C100315,2024-11-07,two-year,electronic check,fiber,No,20,,1130.24,0,N/A,No
+C100316,2026-01-01,two-year,electronic check,fiber,No,6,127.44,753.36,4,service quality,Yes
+C100317,2024-06-10,month-to-month,bank transfer,dsl,Yes,25,90.55,2238.06,0,N/A,No
+C100318,2021-11-23,month-to-month,electronic check,fiber,No,56,101.4,5462.76,4,moved,Yes
+C100319,2024-09-08,one-year,bank transfer,dsl,No,22,94.38,2053.16,0,N/A,No
+C100320,2025-02-05,two-year,bank transfer,dsl,No,17,33.01,562.77,1,N/A,No
+C100321,2023-04-17,month-to-month,bank transfer,fiber,Yes,39,75.24,2879.72,1,moved,Yes
+C100322,2022-01-22,one-year,electronic check,none,No,54,24.23,1302.47,1,N/A,No
+C100323,2024-04-11,two-year,card,fiber,No,27,109.17,2938.18,3,N/A,No
+C100324,2024-10-08,two-year,card,dsl,No,21,39.71,816.64,1,N/A,No
+C100325,2021-12-23,month-to-month,card,fiber,No,55,76.34,4092.39,2,N/A,No
+C100326,2023-10-14,month-to-month,card,fiber,No,33,116.29,3821.21,4,price,Yes
+C100327,2021-10-24,two-year,mailed check,fiber,No,57,97.39,5590.49,3,N/A,No
+C100328,2025-06-05,month-to-month,electronic check,fiber,No,13,74.97,944.91,0,competitor offer,Yes
+C100329,2024-08-09,month-to-month,electronic check,fiber,No,23,124.14,2686.28,1,price,Yes
+C100330,2025-05-06,one-year,bank transfer,fiber,Yes,14,54.47,741.18,5,price,Yes
+C100331,2026-01-31,month-to-month,card,fiber,Yes,5,93.15,472.18,0,competitor offer,Yes
+C100332,2025-10-03,one-year,bank transfer,fiber,Yes,9,78.37,672.2,1,N/A,No
+C100333,2023-09-14,month-to-month,mailed check,fiber,Yes,34,94.39,3292.01,4,moved,Yes
+C100334,2022-12-18,two-year,bank transfer,dsl,Yes,43,59.32,2506.01,1,N/A,No
+C100335,2025-01-06,month-to-month,electronic check,none,No,18,,324.92,2,moved,Yes
+C100336,2025-03-07,one-year,bank transfer,fiber,No,16,87.93,1374.59,3,moved,Yes
+C100337,2021-11-23,month-to-month,card,none,No,56,18.0,1023.97,,N/A,No
+C100338,2025-06-05,month-to-month,electronic check,dsl,No,13,76.81,999.13,1,N/A,No
+C100339,2023-08-15,month-to-month,bank transfer,fiber,Yes,35,,2698.65,6,competitor offer,Yes
+C100340,2025-11-02,month-to-month,bank transfer,,No,8,103.3,779.67,2,price,Yes
+C100341,2026-03-02,month-to-month,,,No,4,25.58,104.34,2,N/A,No
+C100342,2024-05-11,one-year,electronic check,fiber,No,26,68.7,1698.7,0,N/A,No
+C100343,2024-10-08,month-to-month,bank transfer,fiber,Yes,21,91.94,1910.58,0,service quality,Yes
+C100344,2025-06-05,month-to-month,electronic check,dsl,No,13,92.06,1213.41,0,service quality,Yes
+C100345,2026-01-31,two-year,card,,No,5,20.34,101.05,1,N/A,No
+C100346,2024-03-12,two-year,electronic check,,No,28,37.86,1074.22,0,N/A,No
+C100347,2025-08-04,two-year,bank transfer,dsl,No,11,78.85,870.7,0,N/A,No
+C100348,2020-07-31,month-to-month,bank transfer,fiber,No,72,52.44,3781.89,0,N/A,No
+C100349,2023-09-14,month-to-month,mailed check,fiber,No,34,64.16,2128.89,4,competitor offer,Yes
+C100350,2025-05-06,month-to-month,electronic check,fiber,Yes,14,97.21,1398.69,1,N/A,No
+C100351,2025-11-02,month-to-month,electronic check,dsl,No,8,47.33,390.42,1,N/A,No
+C100352,2024-09-08,month-to-month,bank transfer,none,No,22,21.42,463.57,1,N/A,No
+C100353,2025-06-05,month-to-month,electronic check,fiber,No,13,120.5,1524.94,3,price,Yes
+C100354,2025-12-02,month-to-month,bank transfer,fiber,No,7,62.8,441.73,1,N/A,No
+C100355,2023-07-16,month-to-month,mailed check,fiber,No,36,64.52,2270.34,2,N/A,No
+C100356,2025-07-05,two-year,mailed check,fiber,No,12,33.06,397.88,1,N/A,No
+C100357,2023-09-14,month-to-month,electronic check,dsl,No,34,41.49,1442.11,0,N/A,No
+C100358,2025-05-06,month-to-month,electronic check,none,Yes,14,18.0,256.51,1,price,Yes
+C100359,2024-01-12,one-year,bank transfer,fiber,No,30,120.43,3761.44,2,N/A,No
+C100360,2024-03-12,month-to-month,electronic check,dsl,No,28,91.62,2596.5,2,competitor offer,Yes
+C100361,2022-07-21,month-to-month,card,none,No,48,18.0,837.48,0,N/A,No
+C100362,2023-01-17,month-to-month,mailed check,fiber,No,42,125.86,5152.15,2,moved,Yes
+C100363,2025-09-03,month-to-month,electronic check,none,No,10,51.93,526.67,1,competitor offer,Yes
+C100364,2022-12-18,one-year,card,dsl,Yes,43,61.31,2776.75,1,N/A,No
+C100365,2020-07-31,month-to-month,card,dsl,No,72,82.76,5892.38,3,N/A,No
+C100366,2025-08-04,month-to-month,electronic check,fiber,No,11,91.48,979.03,2,service quality,Yes
+C100367,2023-04-17,one-year,electronic check,fiber,No,39,66.63,2698.95,2,N/A,No
+C100368,2024-09-08,two-year,card,fiber,Yes,22,,986.98,0,N/A,No
+C100369,2023-12-13,month-to-month,mailed check,none,No,31,,568.43,0,N/A,No
+C100370,2020-07-31,month-to-month,bank transfer,dsl,Yes,72,65.09,4825.2,0,N/A,No
+C100371,2025-10-03,month-to-month,,fiber,No,9,75.47,659.53,1,competitor offer,Yes
+C100372,2024-06-10,two-year,electronic check,dsl,No,25,49.16,1215.21,0,N/A,No
+C100373,2025-10-03,two-year,bank transfer,fiber,No,9,104.34,923.24,2,service quality,Yes
+C100374,2024-11-07,month-to-month,bank transfer,dsl,No,20,42.11,853.95,3,price,Yes
+C100375,2022-10-19,two-year,card,dsl,No,45,84.52,3869.84,1,N/A,No
+C100376,2024-08-09,month-to-month,card,none,Yes,23,24.74,560.4,2,competitor offer,Yes
+C100377,2025-09-03,month-to-month,electronic check,dsl,No,10,67.56,685.56,0,N/A,No
+C100378,2022-09-19,month-to-month,electronic check,fiber,No,46,58.89,2568.78,3,N/A,No
+C100379,2023-11-13,two-year,mailed check,fiber,No,32,83.0,2679.45,1,N/A,No
+C100380,2025-07-05,month-to-month,bank transfer,dsl,No,12,48.21,583.53,1,N/A,No
+C100381,2023-09-14,month-to-month,mailed check,none,No,34,18.0,611.37,1,N/A,No
+C100382,2026-04-01,one-year,card,fiber,No,3,82.76,237.8,1,moved,Yes
+C100383,2024-04-11,month-to-month,mailed check,fiber,No,27,82.06,2206.86,,N/A,No
+C100384,2024-12-07,month-to-month,mailed check,fiber,No,19,101.15,1861.33,1,price,Yes
+C100385,2022-03-23,month-to-month,card,fiber,Yes,52,89.33,4830.9,1,N/A,No
+C100386,2024-10-08,two-year,mailed check,fiber,No,21,61.18,1272.82,0,N/A,No
+C100387,2026-03-02,one-year,electronic check,fiber,Yes,4,69.87,277.53,0,N/A,No
+C100388,2020-07-31,two-year,electronic check,fiber,No,72,29.28,2099.13,3,N/A,No
+C100389,2024-07-10,one-year,electronic check,,No,24,40.87,994.75,2,N/A,No
+C100390,2024-04-11,one-year,bank transfer,none,No,27,63.3,1710.9,2,price,Yes
+C100391,2026-01-01,two-year,bank transfer,none,No,6,68.02,413.85,3,N/A,No
+C100392,2020-07-31,one-year,bank transfer,fiber,No,72,99.7,6981.81,0,N/A,No
+C100393,2021-02-26,one-year,mailed check,dsl,Yes,65,71.71,4801.12,0,N/A,No
+C100394,2021-06-26,month-to-month,mailed check,dsl,Yes,61,77.9,4680.49,1,N/A,No
+C100395,2023-10-14,month-to-month,card,fiber,No,33,93.71,3155.12,4,price,Yes
+C100396,2022-08-20,one-year,electronic check,dsl,Yes,47,27.53,1301.1,2,N/A,No
+C100397,2022-12-18,month-to-month,card,,No,43,64.21,2841.52,2,N/A,No
+C100398,2026-01-01,two-year,card,fiber,No,6,108.86,651.06,3,N/A,No
+C100399,2021-09-24,one-year,card,fiber,No,58,108.75,6037.92,1,N/A,No
+C100400,2025-12-02,month-to-month,electronic check,dsl,No,7,70.35,475.9,2,N/A,No
+C100401,2023-05-17,two-year,card,fiber,Yes,38,76.41,2881.66,2,N/A,No
+C100402,2022-12-18,month-to-month,card,dsl,No,43,56.78,2534.18,2,N/A,No
+C100403,2026-03-02,month-to-month,card,dsl,No,4,53.34,210.59,0,N/A,No
+C100404,2022-08-20,month-to-month,bank transfer,fiber,No,47,63.03,2963.64,2,N/A,No
+C100405,2023-10-14,two-year,electronic check,none,No,33,18.0,614.33,2,N/A,No
+C100406,2023-12-13,one-year,card,fiber,No,31,86.36,2631.57,3,N/A,No
+C100407,2025-01-06,two-year,bank transfer,fiber,No,18,73.31,1329.49,2,N/A,No
+C100408,2024-03-12,month-to-month,electronic check,dsl,No,28,60.48,1704.98,2,N/A,No
+C100409,2022-10-19,two-year,card,dsl,Yes,45,102.35,4522.59,1,N/A,No
+C100410,2025-07-05,one-year,card,dsl,No,12,77.98,940.77,2,N/A,No
+C100411,2025-11-02,one-year,mailed check,fiber,No,8,67.88,558.46,1,N/A,No
+C100412,2022-06-21,two-year,mailed check,fiber,No,49,95.73,4824.08,3,N/A,No
+C100413,2026-05-01,month-to-month,mailed check,dsl,No,2,32.44,64.19,1,N/A,No
+C100414,2022-02-21,month-to-month,card,fiber,No,53,105.97,6071.16,1,N/A,No
+C100415,2026-05-01,one-year,,none,No,2,40.84,82.39,1,N/A,No
+C100416,2024-09-08,two-year,bank transfer,fiber,No,22,78.91,1720.53,0,N/A,No
+C100417,2021-10-24,month-to-month,card,fiber,Yes,57,95.53,5328.24,1,N/A,No
+C100418,2022-02-21,one-year,bank transfer,none,No,53,66.76,3436.09,0,N/A,No
+C100419,2025-03-07,month-to-month,,fiber,No,16,73.03,1194.08,1,moved,Yes
+C100420,2022-09-19,one-year,mailed check,fiber,No,46,61.65,2602.22,1,N/A,No
+C100421,2022-11-18,one-year,bank transfer,fiber,No,44,129.08,5648.58,5,N/A,No
+C100422,2026-05-31,month-to-month,card,dsl,Yes,1,65.45,62.84,1,N/A,No
+C100423,2023-10-14,one-year,mailed check,fiber,No,33,115.6,3792.11,1,N/A,No
+C100424,2025-10-03,month-to-month,mailed check,dsl,No,9,50.42,452.83,2,N/A,No
+C100425,2020-07-31,two-year,bank transfer,dsl,No,72,73.34,5079.89,3,N/A,No
+C100426,2025-06-05,month-to-month,card,dsl,No,13,51.17,645.96,1,price,Yes
+C100427,2020-07-31,month-to-month,bank transfer,dsl,No,72,78.89,5876.6,2,N/A,No
+C100428,2023-07-16,one-year,electronic check,none,No,36,29.09,1029.74,1,N/A,No
+C100429,2022-06-21,month-to-month,bank transfer,fiber,Yes,49,68.53,3353.52,3,N/A,No
+C100430,2022-10-19,one-year,bank transfer,none,No,45,68.86,3067.63,1,N/A,No
+C100431,2023-10-14,month-to-month,card,dsl,No,33,72.49,2445.35,1,N/A,No
+C100432,2025-04-06,one-year,card,fiber,No,15,38.93,603.35,0,N/A,No
+C100433,2025-04-06,one-year,card,fiber,No,15,77.97,1198.44,3,N/A,No
+C100434,2025-06-05,two-year,card,fiber,No,13,63.12,832.39,1,N/A,No
+C100435,2025-10-03,month-to-month,mailed check,fiber,No,9,56.56,516.52,2,N/A,No
+C100436,2025-02-05,month-to-month,card,dsl,Yes,17,52.38,859.66,0,N/A,No
+C100437,2024-05-11,one-year,electronic check,dsl,No,26,,1472.45,1,N/A,No
+C100438,2024-11-07,one-year,electronic check,fiber,No,20,83.81,1647.87,2,N/A,No
+C100439,2022-05-22,month-to-month,bank transfer,none,Yes,50,18.0,876.44,0,N/A,No
+C100440,2024-12-07,one-year,electronic check,,Yes,19,24.51,460.22,1,N/A,No
+C100441,2022-09-19,month-to-month,card,fiber,No,46,71.4,3207.12,0,N/A,No
+C100442,2023-09-14,month-to-month,electronic check,fiber,No,34,102.24,3512.51,1,N/A,No
+C100443,2020-12-28,two-year,electronic check,dsl,Yes,67,35.31,2411.21,0,N/A,No
+C100444,2023-07-16,month-to-month,electronic check,,Yes,36,48.56,1809.21,1,price,Yes
+C100445,2021-12-23,month-to-month,bank transfer,dsl,No,55,75.07,unknown,1,N/A,No
+C100446,2023-01-17,one-year,mailed check,dsl,No,42,55.29,2280.56,1,N/A,No
+C100447,2024-06-10,one-year,mailed check,dsl,No,25,71.81,1779.08,3,N/A,No
+C100448,2022-06-21,one-year,electronic check,dsl,No,49,48.72,2305.73,1,N/A,No
+C100449,2025-10-03,two-year,electronic check,dsl,No,9,56.33,495.88,0,N/A,No
+C100450,2024-03-12,month-to-month,card,fiber,No,28,60.77,1795.33,2,N/A,No
+C100451,2024-02-11,one-year,,fiber,Yes,29,93.2,2641.03,3,N/A,No
+C100452,2022-08-20,two-year,electronic check,fiber,No,47,112.96,5234.36,0,N/A,No
+C100453,2026-01-01,one-year,mailed check,dsl,No,6,50.23,306.37,3,N/A,No
+C100454,2024-07-10,one-year,card,fiber,No,24,109.17,2635.93,3,N/A,No
+C100455,2023-04-17,month-to-month,mailed check,fiber,No,39,36.45,1450.6,0,N/A,No
+C100456,2022-11-18,one-year,card,dsl,Yes,44,45.71,1959.78,0,N/A,No
+C100457,2025-03-07,month-to-month,bank transfer,dsl,Yes,16,42.94,665.6,1,N/A,No
+C100458,2025-11-02,one-year,card,none,Yes,8,72.64,602.03,1,N/A,No
+C100459,2023-10-14,month-to-month,card,fiber,No,33,70.12,2267.12,2,price,Yes
+C100460,2025-12-02,month-to-month,electronic check,fiber,No,7,100.07,697.75,1,price,Yes
+C100461,2024-05-11,one-year,card,fiber,No,26,38.26,999.58,1,N/A,No
+C100462,2024-07-10,month-to-month,bank transfer,dsl,No,24,67.53,1534.5,1,N/A,No
+C100463,2024-02-11,month-to-month,card,fiber,No,29,95.4,2748.44,5,moved,Yes
+C100464,2021-09-24,two-year,mailed check,dsl,No,58,64.22,3652.23,0,N/A,No
+C100465,2022-08-20,month-to-month,card,dsl,No,47,18.0,857.5,2,N/A,No
+C100466,2023-08-15,two-year,bank transfer,fiber,No,35,86.89,3010.98,2,N/A,No
+C100467,2023-02-16,one-year,mailed check,dsl,No,41,82.77,3174.65,0,N/A,No
+C100468,2024-09-08,month-to-month,electronic check,fiber,No,22,111.93,2514.24,6,competitor offer,Yes
+C100469,2023-10-14,one-year,electronic check,dsl,No,33,73.74,2255.45,1,N/A,No
+C100470,2023-12-13,month-to-month,mailed check,none,Yes,31,18.0,550.89,1,N/A,No
+C100471,2025-03-07,month-to-month,card,none,No,16,30.44,476.96,2,competitor offer,Yes
+C100472,2024-03-12,two-year,electronic check,dsl,No,28,84.8,2330.72,0,N/A,No
+C100473,2020-07-31,one-year,electronic check,none,No,72,18.0,1294.02,2,N/A,No
+C100474,2024-07-10,one-year,electronic check,fiber,No,24,95.39,2348.03,1,N/A,No
+C100475,2024-02-11,one-year,electronic check,fiber,No,29,72.53,2049.24,0,N/A,No
+C100476,2025-08-04,one-year,card,fiber,No,11,85.04,918.22,2,N/A,No
+C100477,2025-07-05,one-year,card,dsl,No,12,81.62,998.78,4,N/A,No
+C100478,2025-11-02,month-to-month,electronic check,dsl,No,8,49.48,401.03,1,N/A,No
+C100479,2025-05-06,month-to-month,electronic check,fiber,Yes,14,130.0,1854.6,0,moved,Yes
+C100480,2021-06-26,month-to-month,card,fiber,No,61,86.34,5309.99,1,N/A,No
+C100481,2024-05-11,month-to-month,card,dsl,Yes,26,72.53,1870.62,1,competitor offer,Yes
+C100482,2026-05-01,month-to-month,bank transfer,fiber,No,2,66.76,131.52,2,moved,Yes
+C100483,2021-11-23,two-year,card,none,No,56,36.37,2007.12,2,N/A,No
+C100484,2025-04-06,month-to-month,electronic check,fiber,No,15,77.13,1185.14,2,competitor offer,Yes
+C100485,2025-09-03,month-to-month,bank transfer,fiber,No,10,50.99,530.79,1,competitor offer,Yes
+C100486,2021-05-27,month-to-month,electronic check,fiber,No,62,49.4,3230.26,1,N/A,No
+C100487,2024-04-11,one-year,card,fiber,No,27,,unknown,2,N/A,No
+C100488,2020-07-31,two-year,bank transfer,dsl,No,72,63.08,4506.09,0,N/A,No
+C100489,2024-01-12,two-year,card,fiber,No,30,25.25,756.72,0,N/A,No
+C100490,2025-05-06,month-to-month,electronic check,fiber,No,14,35.9,499.69,2,competitor offer,Yes
+C100491,2025-05-06,month-to-month,electronic check,dsl,No,14,58.23,788.36,1,N/A,No
+C100492,2024-05-11,two-year,card,dsl,No,26,63.49,1750.37,2,N/A,No
+C100493,2025-03-07,month-to-month,mailed check,fiber,No,16,96.36,1605.68,1,competitor offer,Yes
+C100494,2023-05-17,one-year,electronic check,fiber,Yes,38,,2107.42,2,N/A,No
+C100495,2024-09-08,month-to-month,bank transfer,fiber,No,22,96.01,2082.76,1,price,Yes
+C100496,2020-07-31,two-year,mailed check,fiber,Yes,72,76.24,5481.8,3,N/A,No
+C100497,2025-03-07,month-to-month,,,No,16,71.85,1109.08,1,N/A,No
+C100498,2023-10-14,month-to-month,,fiber,No,33,79.89,2608.18,2,N/A,No
+C100499,2020-07-31,month-to-month,card,none,No,72,56.67,4164.71,0,N/A,No
+C100500,2023-01-17,month-to-month,mailed check,fiber,Yes,42,95.26,4183.48,2,N/A,No
+C100501,2020-11-28,two-year,card,dsl,No,68,84.56,5888.17,1,N/A,No
+C100502,2021-02-26,two-year,electronic check,dsl,No,65,,3357.38,1,N/A,No
+C100503,2024-09-08,month-to-month,card,,No,22,76.75,1636.3,1,N/A,No
+C100504,2025-01-06,one-year,bank transfer,dsl,No,18,39.43,644.01,1,N/A,No
+C100505,2026-05-01,month-to-month,electronic check,fiber,No,2,70.83,147.02,0,competitor offer,Yes
+C100506,2024-06-10,month-to-month,card,fiber,No,25,74.28,1864.63,3,N/A,No
+C100507,2024-08-09,month-to-month,card,fiber,No,23,72.76,1667.75,1,competitor offer,Yes
+C100508,2023-12-13,month-to-month,card,none,No,31,50.69,1643.94,1,N/A,No
+C100509,2020-09-29,month-to-month,electronic check,fiber,No,70,92.35,6281.38,1,N/A,No
+C100510,2024-10-08,one-year,card,fiber,No,21,99.7,2034.79,5,N/A,No
+C100511,2024-11-07,one-year,bank transfer,dsl,Yes,20,67.82,1326.39,1,N/A,No
+C100512,2023-07-16,month-to-month,bank transfer,,No,36,88.6,3332.15,0,N/A,No
+C100513,2024-09-08,one-year,card,dsl,No,22,67.5,1523.18,2,N/A,No
+C100514,2025-02-05,two-year,mailed check,fiber,No,17,104.24,1680.66,1,N/A,No
+C100515,2025-06-05,month-to-month,bank transfer,fiber,Yes,13,94.07,1279.0,4,service quality,Yes
+C100516,2024-06-10,month-to-month,electronic check,dsl,Yes,25,81.17,2027.85,1,N/A,No
+C100517,2023-11-13,one-year,electronic check,fiber,No,32,81.53,unknown,0,N/A,No
+C100518,2025-08-04,month-to-month,electronic check,fiber,Yes,11,55.75,599.15,,competitor offer,Yes
+C100519,2025-03-07,one-year,card,dsl,No,16,33.22,559.28,0,N/A,No
+C100520,2024-05-11,month-to-month,card,fiber,No,26,126.06,3314.7,1,price,Yes
+C100521,2025-08-04,one-year,bank transfer,none,Yes,11,43.53,496.2,0,N/A,No
+C100522,2022-11-18,month-to-month,card,fiber,No,44,92.76,3961.42,0,N/A,No
+C100523,2022-10-19,month-to-month,,,No,45,61.33,2811.62,0,N/A,No
+C100524,2024-11-07,month-to-month,mailed check,dsl,No,20,54.91,1099.83,2,competitor offer,Yes
+C100525,2020-07-31,one-year,electronic check,dsl,No,72,128.18,9159.83,1,N/A,No
+C100526,2022-07-21,month-to-month,bank transfer,dsl,No,48,,1890.42,2,N/A,No
+C100527,2023-07-16,two-year,card,fiber,No,36,81.62,2876.64,0,N/A,No
+C100528,2023-11-13,month-to-month,electronic check,dsl,No,32,63.87,1973.68,2,N/A,No
+C100529,2022-01-22,month-to-month,bank transfer,dsl,No,54,40.12,2123.23,0,N/A,No
+C100530,2021-03-28,month-to-month,card,fiber,Yes,64,55.02,3514.88,1,N/A,No
+C100531,2023-09-14,month-to-month,mailed check,dsl,No,34,49.53,1710.08,1,N/A,No
+C100532,2020-07-31,month-to-month,mailed check,fiber,No,72,75.44,5184.62,3,N/A,No
+C100533,2024-05-11,one-year,mailed check,fiber,No,26,72.32,1822.82,0,N/A,No
+C100534,2025-03-07,one-year,electronic check,dsl,Yes,16,82.89,1301.64,2,N/A,No
+C100535,2025-07-05,month-to-month,bank transfer,dsl,No,12,39.07,446.46,0,price,Yes
+C100536,2025-01-06,month-to-month,bank transfer,dsl,No,18,73.9,1317.78,2,N/A,No
+C100537,2024-09-08,month-to-month,electronic check,none,No,22,67.31,1468.0,2,service quality,Yes
+C100538,2024-12-07,one-year,card,dsl,Yes,19,84.65,1597.79,2,N/A,No
+C100539,2025-03-07,month-to-month,electronic check,none,No,16,18.0,291.05,6,N/A,No
+C100540,2023-05-17,two-year,card,dsl,No,38,18.0,701.59,0,N/A,No
+C100541,2025-11-02,one-year,card,fiber,No,8,101.6,830.43,3,moved,Yes
+C100542,2025-11-02,one-year,electronic check,fiber,No,8,93.93,756.57,4,N/A,No
+C100543,2024-06-10,one-year,bank transfer,fiber,No,25,70.12,1780.55,2,N/A,No
+C100544,2024-12-07,one-year,electronic check,fiber,No,19,111.17,2061.98,1,N/A,No
+C100545,2025-07-05,month-to-month,electronic check,fiber,Yes,12,74.1,864.33,3,service quality,Yes
+C100546,2020-07-31,month-to-month,electronic check,dsl,No,72,67.37,4934.56,1,N/A,No
+C100547,2024-11-07,month-to-month,electronic check,dsl,No,20,42.16,855.83,2,price,Yes
+C100548,2023-11-13,month-to-month,electronic check,dsl,No,32,72.02,2446.23,1,N/A,No
+C100549,2025-11-02,month-to-month,electronic check,fiber,No,8,73.53,583.8,3,service quality,Yes
+C100550,2020-07-31,month-to-month,mailed check,dsl,No,72,53.92,3768.56,2,N/A,No
+C100551,2024-12-07,one-year,mailed check,fiber,No,19,106.76,2043.02,4,price,Yes
+C100552,2022-09-19,month-to-month,,,Yes,46,39.72,1801.66,1,N/A,No
+C100553,2024-02-11,month-to-month,card,fiber,No,29,50.1,1414.35,1,N/A,No
+C100554,2023-05-17,month-to-month,bank transfer,fiber,No,38,98.21,3873.04,0,N/A,No
+C100555,2025-03-07,month-to-month,card,dsl,No,16,83.4,1406.24,1,N/A,No
+C100556,2026-05-31,two-year,card,fiber,No,1,64.69,65.3,4,N/A,No
+C100557,2026-01-01,month-to-month,mailed check,none,No,6,26.35,154.98,0,N/A,No
+C100558,2020-12-28,month-to-month,card,dsl,No,67,66.18,4461.47,1,N/A,No
+C100559,2023-07-16,month-to-month,card,fiber,No,36,77.51,2782.98,3,service quality,Yes
+C100560,2023-05-17,month-to-month,electronic check,fiber,No,38,85.73,3124.97,1,competitor offer,Yes
+C100561,2025-03-07,month-to-month,card,fiber,No,16,97.3,1592.18,2,service quality,Yes
+C100562,2024-12-07,month-to-month,card,dsl,No,19,54.18,1038.44,0,N/A,No
+C100563,2025-01-06,month-to-month,mailed check,fiber,No,18,128.78,2398.6,6,price,Yes
+C100564,2025-10-03,month-to-month,electronic check,fiber,Yes,9,67.34,595.81,3,competitor offer,Yes
+C100565,2023-03-18,one-year,,dsl,No,40,53.14,2122.34,3,N/A,No
+C100566,2025-05-06,month-to-month,,fiber,No,14,126.31,1760.62,0,moved,Yes
+C100567,2026-01-31,one-year,card,dsl,Yes,5,117.46,557.78,0,N/A,No
+C100568,2024-05-11,month-to-month,mailed check,dsl,Yes,26,65.83,1832.52,1,N/A,No
+C100569,2024-08-09,month-to-month,electronic check,dsl,Yes,23,60.88,1315.16,0,N/A,No
+C100570,2025-04-06,two-year,card,none,Yes,15,18.0,260.89,0,N/A,No
+C100571,2024-01-12,month-to-month,electronic check,dsl,Yes,30,90.14,2674.0,0,price,Yes
+C100572,2023-06-16,two-year,bank transfer,fiber,No,37,86.81,3065.23,4,N/A,No
+C100573,2022-04-22,two-year,electronic check,dsl,No,51,46.38,2391.5,0,N/A,No
+C100574,2025-03-07,one-year,card,fiber,No,16,91.93,1449.92,2,N/A,No
+C100575,2025-05-06,month-to-month,card,fiber,No,14,113.15,1585.96,2,moved,Yes
+C100576,2023-03-18,one-year,card,fiber,No,40,98.09,3946.18,2,N/A,No
+C100577,2024-05-11,one-year,,fiber,No,26,130.0,3384.19,0,N/A,No
+C100578,2025-01-06,one-year,mailed check,fiber,Yes,18,,1956.94,4,N/A,No
+C100579,2022-11-18,month-to-month,mailed check,fiber,No,44,92.69,4057.28,0,service quality,Yes
+C100580,2021-09-24,two-year,electronic check,dsl,No,58,64.28,3770.67,4,N/A,No
+C100581,2023-03-18,two-year,electronic check,fiber,No,40,95.1,3888.97,1,N/A,No
+C100582,2025-08-04,month-to-month,card,fiber,No,11,109.78,1197.76,2,N/A,No
+C100583,2026-05-31,month-to-month,bank transfer,fiber,No,1,101.89,100.51,5,competitor offer,Yes
+C100584,2022-10-19,month-to-month,mailed check,fiber,No,45,,4720.97,0,N/A,No
+C100585,2024-11-07,two-year,mailed check,dsl,No,20,69.9,1409.28,0,N/A,No
+C100586,2024-08-09,two-year,bank transfer,fiber,No,23,99.86,2270.88,1,N/A,No
+C100587,2020-07-31,two-year,electronic check,dsl,No,72,91.74,6528.27,2,service quality,Yes
+C100588,2022-11-18,one-year,mailed check,fiber,No,44,79.36,3338.61,2,N/A,No
+C100589,2024-03-12,one-year,mailed check,dsl,No,28,36.49,1077.53,3,N/A,No
+C100590,2024-06-10,one-year,card,none,No,25,72.98,1758.82,2,N/A,No
+C100591,2026-01-31,one-year,electronic check,fiber,No,5,95.83,501.94,2,price,Yes
+C100592,2023-06-16,two-year,bank transfer,dsl,No,37,55.33,2092.83,0,N/A,No
+C100593,2024-09-08,one-year,bank transfer,fiber,Yes,22,88.15,1995.24,3,N/A,No
+C100594,2023-11-13,month-to-month,bank transfer,fiber,No,32,77.57,2499.47,0,N/A,No
+C100595,2021-08-25,month-to-month,card,fiber,Yes,59,45.49,2720.48,4,service quality,Yes
+C100596,2025-06-05,month-to-month,card,dsl,No,13,60.96,798.71,0,N/A,No
+C100597,2023-08-15,one-year,electronic check,fiber,No,35,51.67,unknown,6,N/A,No
+C100598,2026-04-01,one-year,electronic check,dsl,No,3,69.46,213.31,2,N/A,No
+C100599,2026-03-02,month-to-month,electronic check,fiber,No,4,80.6,336.38,1,price,Yes
+C100600,2023-11-13,two-year,card,dsl,No,32,89.94,2794.96,0,N/A,No
+C100601,2022-12-18,one-year,card,fiber,Yes,43,80.36,3502.88,6,N/A,No
+C100602,2025-05-06,month-to-month,electronic check,,No,14,73.23,1072.53,0,N/A,No
+C100603,2022-03-23,month-to-month,mailed check,dsl,No,52,58.43,3159.43,3,N/A,No
+C100604,2024-07-10,month-to-month,,dsl,No,24,56.64,1318.92,2,N/A,No
+C100605,2022-05-22,month-to-month,card,fiber,No,50,52.26,2635.92,1,N/A,No
+C100606,2025-06-05,month-to-month,electronic check,fiber,No,13,104.79,1372.96,1,competitor offer,Yes
+C100607,2025-07-05,month-to-month,mailed check,dsl,No,12,68.76,830.87,0,price,Yes
+C100608,2022-01-22,two-year,mailed check,dsl,No,54,52.18,2634.4,1,N/A,No
+C100609,2021-09-24,month-to-month,mailed check,fiber,No,58,87.58,5205.7,3,N/A,No
+C100610,2025-08-04,two-year,bank transfer,dsl,No,11,55.88,586.11,3,N/A,No
+C100611,2021-06-26,one-year,card,dsl,No,61,49.07,3182.02,1,N/A,No
+C100612,2023-10-14,two-year,mailed check,dsl,No,33,70.49,2370.2,1,N/A,No
+C100613,2025-09-03,month-to-month,electronic check,fiber,Yes,10,109.73,1094.22,3,service quality,Yes
+C100614,2025-06-05,month-to-month,mailed check,fiber,No,13,77.07,1020.28,2,N/A,No
+C100615,2024-08-09,one-year,bank transfer,fiber,No,23,51.66,1193.18,1,moved,Yes
+C100616,2024-10-08,month-to-month,card,fiber,No,21,69.48,1436.77,1,N/A,No
+C100617,2022-11-18,month-to-month,card,fiber,No,44,122.54,5377.99,1,N/A,No
+C100618,2024-11-07,one-year,mailed check,,No,20,18.0,363.67,0,N/A,No
+C100619,2026-01-31,one-year,mailed check,fiber,No,5,109.14,533.11,2,competitor offer,Yes
+C100620,2022-09-19,month-to-month,bank transfer,none,No,46,29.74,1396.53,0,N/A,No
+C100621,2020-07-31,month-to-month,mailed check,fiber,No,72,99.28,7380.39,2,N/A,No
+C100622,2026-03-02,two-year,bank transfer,fiber,No,4,,332.73,2,N/A,No
+C100623,2022-08-20,month-to-month,bank transfer,fiber,No,47,48.3,2348.11,3,N/A,No
+C100624,2026-01-31,one-year,electronic check,,No,5,73.94,383.71,1,N/A,No
+C100625,2023-05-17,month-to-month,card,,No,38,81.47,3160.02,0,N/A,No
+C100626,2025-01-06,two-year,card,dsl,Yes,18,62.1,1160.55,1,N/A,No
+C100627,2025-11-02,month-to-month,card,none,No,8,47.43,380.26,1,N/A,No
+C100628,2024-05-11,month-to-month,card,fiber,No,26,75.6,1989.64,1,N/A,No
+C100629,2025-05-06,month-to-month,bank transfer,fiber,No,14,80.1,1167.95,0,N/A,No
+C100630,2020-10-29,one-year,card,dsl,No,69,72.09,5255.79,2,N/A,No
+C100631,2024-10-08,two-year,electronic check,none,No,21,45.43,944.73,3,N/A,No
+C100632,2023-12-13,month-to-month,card,fiber,No,31,130.0,3862.23,2,service quality,Yes
+C100633,2024-06-10,month-to-month,bank transfer,dsl,No,25,64.67,1718.05,0,N/A,No
+C100634,2022-12-18,one-year,electronic check,fiber,No,43,79.05,3514.85,0,N/A,No
+C100635,2025-05-06,one-year,card,dsl,No,14,50.45,744.07,2,N/A,No
+C100636,2020-07-31,month-to-month,bank transfer,dsl,No,72,36.13,2670.95,1,N/A,No
+C100637,2024-02-11,one-year,electronic check,none,No,29,18.0,525.93,0,N/A,No
+C100638,2024-02-11,month-to-month,electronic check,none,No,29,49.61,1412.91,3,N/A,No
+C100639,2024-05-11,two-year,mailed check,fiber,No,26,42.07,1063.9,5,N/A,No
+C100640,2024-02-11,month-to-month,electronic check,dsl,No,29,95.96,2901.78,1,N/A,No
+C100641,2024-11-07,one-year,card,fiber,No,20,101.93,2098.07,1,competitor offer,Yes
+C100642,2025-01-06,one-year,electronic check,fiber,No,18,76.54,1391.26,2,N/A,No
+C100643,2024-12-07,one-year,bank transfer,fiber,No,19,57.65,1060.52,3,N/A,No
+C100644,2023-12-13,month-to-month,electronic check,fiber,No,31,83.66,2555.51,2,service quality,Yes
+C100645,2022-07-21,one-year,card,fiber,No,48,83.53,3939.45,4,service quality,Yes
+C100646,2023-11-13,one-year,bank transfer,fiber,No,32,107.84,3422.59,2,N/A,No
+C100647,2024-09-08,month-to-month,electronic check,dsl,No,22,48.73,982.74,1,N/A,No
+C100648,2023-09-14,month-to-month,electronic check,none,No,34,26.74,915.68,1,N/A,No
+C100649,2022-09-19,two-year,electronic check,fiber,No,46,81.9,3941.02,2,N/A,No
+C100650,2023-07-16,one-year,card,none,No,36,,1026.64,0,N/A,No
+C100651,2020-08-30,month-to-month,electronic check,,No,71,51.33,3649.45,2,N/A,No
+C100652,2024-05-11,one-year,electronic check,fiber,No,26,45.34,1189.02,3,N/A,No
+C100653,2024-05-11,month-to-month,electronic check,none,No,26,18.0,454.67,1,N/A,No
+C100654,2025-03-07,month-to-month,mailed check,dsl,No,16,50.2,813.76,2,N/A,No
+C100655,2025-06-05,two-year,bank transfer,fiber,No,13,78.13,992.24,1,N/A,No
+C100656,2024-01-12,month-to-month,mailed check,fiber,No,30,105.04,3112.75,0,N/A,No
+C100657,2024-12-07,month-to-month,mailed check,none,No,19,85.87,1644.55,2,N/A,No
+C100658,2023-03-18,month-to-month,electronic check,fiber,No,40,120.78,4826.35,2,N/A,No
+C100659,2024-10-08,month-to-month,bank transfer,fiber,No,21,91.76,1933.55,2,N/A,No
+C100660,2024-04-11,month-to-month,bank transfer,fiber,No,27,124.39,3270.44,1,N/A,No
+C100661,2020-07-31,month-to-month,card,fiber,No,72,80.52,5924.16,0,N/A,No
+C100662,2022-10-19,month-to-month,electronic check,dsl,No,45,53.49,2332.34,0,N/A,No
+C100663,2022-05-22,month-to-month,mailed check,dsl,No,50,115.96,5944.69,0,N/A,No
+C100664,2025-05-06,month-to-month,card,dsl,Yes,14,41.61,574.71,0,N/A,No
+C100665,2025-07-05,month-to-month,electronic check,none,No,12,25.96,300.92,1,N/A,No
+C100666,2025-01-06,one-year,electronic check,dsl,No,18,59.29,1065.14,1,N/A,No
+C100667,2022-01-22,two-year,card,fiber,No,54,115.19,6032.14,1,N/A,No
+C100668,2025-08-04,month-to-month,mailed check,dsl,No,11,52.01,563.6,2,competitor offer,Yes
+C100669,2024-04-11,one-year,bank transfer,dsl,No,27,82.27,2212.9,0,N/A,No
+C100670,2020-12-28,month-to-month,card,fiber,No,67,74.13,5083.42,1,N/A,No
+C100671,2024-12-07,month-to-month,card,fiber,No,19,56.18,1092.93,3,N/A,No
+C100672,2024-05-11,month-to-month,electronic check,fiber,No,26,88.27,2328.6,1,moved,Yes
+C100673,2023-04-17,two-year,bank transfer,dsl,No,39,68.79,2662.3,0,N/A,No
+C100674,2026-01-01,month-to-month,bank transfer,fiber,No,6,57.66,330.77,0,N/A,No
+C100675,2021-10-24,two-year,card,none,No,57,18.0,1019.93,4,N/A,No
+C100676,2024-10-08,month-to-month,electronic check,,No,21,65.65,1366.58,2,competitor offer,Yes
+C100677,2024-10-08,one-year,bank transfer,fiber,No,21,104.29,2183.17,1,N/A,No
+C100678,2026-01-31,two-year,electronic check,fiber,Yes,5,93.25,459.35,3,N/A,No
+C100679,2025-05-06,two-year,electronic check,fiber,No,14,88.34,1218.6,2,N/A,No
+C100680,2026-05-31,month-to-month,electronic check,fiber,Yes,1,93.89,96.16,1,price,Yes
+C100681,2021-12-23,month-to-month,card,dsl,No,55,54.63,2889.3,1,N/A,No
+C100682,2021-06-26,month-to-month,card,none,No,61,45.61,2784.72,,N/A,No
+C100683,2025-06-05,one-year,mailed check,fiber,No,13,69.8,941.43,0,N/A,No
+C100684,2022-05-22,month-to-month,mailed check,dsl,No,50,35.81,1751.27,1,N/A,No
+C100685,2023-08-15,month-to-month,electronic check,fiber,No,35,67.65,2300.89,1,N/A,No
+C100686,2025-07-05,two-year,mailed check,fiber,No,12,87.75,1046.76,3,N/A,No
+C100687,2025-09-03,month-to-month,electronic check,fiber,Yes,10,85.1,842.99,1,N/A,No
+C100688,2026-01-31,month-to-month,electronic check,none,No,5,58.38,294.33,1,moved,Yes
+C100689,2026-01-01,two-year,bank transfer,fiber,No,6,45.98,286.99,1,N/A,No
+C100690,2023-06-16,month-to-month,bank transfer,,No,37,60.29,2223.86,1,N/A,No
+C100691,2020-07-31,month-to-month,bank transfer,fiber,No,72,,6722.47,1,N/A,No
+C100692,2023-07-16,month-to-month,card,dsl,No,36,43.96,1556.66,0,N/A,No
+C100693,2026-03-02,month-to-month,bank transfer,fiber,No,4,88.61,349.59,1,price,Yes
+C100694,2025-01-06,month-to-month,bank transfer,dsl,No,18,56.14,1019.83,1,moved,Yes
+C100695,2024-08-09,one-year,card,dsl,No,23,40.29,909.05,0,N/A,No
+C100696,2025-12-02,two-year,bank transfer,fiber,No,7,107.8,781.59,2,N/A,No
+C100697,2025-07-05,one-year,card,dsl,Yes,12,34.59,410.41,5,N/A,No
+C100698,2023-12-13,one-year,electronic check,dsl,No,31,,2690.16,2,N/A,No
+C100699,2024-12-07,month-to-month,electronic check,fiber,Yes,19,74.04,1364.67,3,N/A,No
+C100700,2025-06-05,one-year,electronic check,dsl,No,13,44.47,571.08,0,N/A,No
+C100701,2026-03-02,one-year,electronic check,fiber,No,4,63.69,247.43,0,N/A,No
+C100702,2022-11-18,one-year,electronic check,fiber,No,44,66.93,2904.52,2,N/A,No
+C100703,2023-10-14,two-year,card,dsl,No,33,46.51,1455.82,2,N/A,No
+C100704,2020-07-31,one-year,bank transfer,dsl,Yes,72,71.07,5118.4,1,N/A,No
+C100705,2025-12-02,month-to-month,electronic check,,No,7,24.07,177.21,0,service quality,Yes
+C100706,2023-05-17,one-year,mailed check,none,No,38,62.43,2243.15,1,N/A,No
+C100707,2023-04-17,month-to-month,card,dsl,No,39,83.52,3425.22,1,N/A,No
+C100708,2024-04-11,month-to-month,card,fiber,No,27,113.68,3060.17,2,competitor offer,Yes
+C100709,2025-06-05,one-year,mailed check,dsl,Yes,13,43.55,unknown,2,N/A,No
+C100710,2025-02-05,two-year,mailed check,dsl,No,17,18.0,297.11,0,N/A,No
+C100711,2024-06-10,month-to-month,electronic check,,Yes,25,51.45,1363.59,1,N/A,No
+C100712,2026-04-01,month-to-month,electronic check,dsl,No,3,61.48,178.7,1,N/A,No
+C100713,2023-04-17,one-year,electronic check,dsl,No,39,71.84,2796.91,1,N/A,No
+C100714,2024-05-11,month-to-month,mailed check,,No,26,71.78,1952.61,2,N/A,No
+C100715,2024-12-07,month-to-month,card,none,No,19,33.33,609.83,3,N/A,No
+C100716,2024-04-11,month-to-month,bank transfer,fiber,No,27,86.47,2175.54,1,N/A,No
+C100717,2024-04-11,month-to-month,electronic check,fiber,Yes,27,,1324.08,1,N/A,No
+C100718,2023-10-14,one-year,card,none,No,33,74.9,2417.03,1,N/A,No
+C100719,2024-03-12,one-year,electronic check,fiber,No,28,,1592.16,3,N/A,No
+C100720,2025-07-05,month-to-month,card,none,No,12,40.98,478.75,1,N/A,No
+C100721,2025-04-06,two-year,electronic check,fiber,Yes,15,106.92,1535.32,4,price,Yes
+C100722,2024-05-11,two-year,electronic check,fiber,No,26,65.99,1787.39,3,N/A,No
+C100723,2024-08-09,month-to-month,bank transfer,dsl,No,23,65.28,1556.11,3,N/A,No
+C100724,2021-05-27,month-to-month,mailed check,dsl,No,62,101.12,6020.07,4,N/A,No
+C100725,2025-04-06,month-to-month,electronic check,,No,15,77.03,1152.35,0,price,Yes
+C100726,2025-01-06,two-year,electronic check,dsl,No,18,88.21,1566.94,2,N/A,No
+C100727,2024-12-07,two-year,card,fiber,No,19,,1759.12,1,N/A,No
+C100728,2025-12-02,month-to-month,card,dsl,No,7,70.26,479.87,3,price,Yes
+C100729,2024-04-11,month-to-month,electronic check,fiber,No,27,99.02,2802.81,2,N/A,No
+C100730,2025-08-04,month-to-month,mailed check,fiber,Yes,11,78.16,860.22,4,service quality,Yes
+C100731,2025-02-05,month-to-month,electronic check,fiber,No,17,78.64,1306.3,4,service quality,Yes
+C100732,2025-07-05,two-year,mailed check,dsl,No,12,86.4,1034.49,0,N/A,No
+C100733,2024-10-08,month-to-month,card,dsl,No,21,71.01,1466.05,2,N/A,No
+C100734,2024-04-11,month-to-month,mailed check,dsl,No,27,76.21,2195.93,3,N/A,No
+C100735,2024-09-08,month-to-month,mailed check,fiber,No,22,56.97,1259.32,2,N/A,No
+C100736,2024-01-12,month-to-month,electronic check,dsl,No,30,65.64,1941.85,1,N/A,No
+C100737,2025-10-03,one-year,bank transfer,none,No,9,61.94,559.24,2,N/A,No
+C100738,2025-03-07,month-to-month,electronic check,fiber,No,16,103.06,1721.62,1,price,Yes
+C100739,2020-07-31,month-to-month,card,fiber,No,72,90.86,6357.8,0,N/A,No
+C100740,2025-02-05,month-to-month,electronic check,none,No,17,23.92,386.48,1,N/A,No
+C100741,2023-09-14,two-year,electronic check,none,No,34,21.84,771.7,1,N/A,No
+C100742,2022-09-19,one-year,bank transfer,none,No,46,44.94,2105.55,4,N/A,No
+C100743,2026-03-02,month-to-month,card,fiber,No,4,114.51,452.07,2,moved,Yes
+C100744,2024-04-11,two-year,card,dsl,No,27,66.27,1785.62,0,N/A,No
+C100745,2025-02-05,month-to-month,card,fiber,No,17,112.0,1967.16,3,competitor offer,Yes
+C100746,2024-04-11,one-year,electronic check,fiber,No,27,76.74,1905.04,1,N/A,No
+C100747,2024-08-09,month-to-month,card,dsl,Yes,23,91.73,2190.2,2,N/A,No
+C100748,2023-09-14,two-year,card,fiber,No,34,61.36,2075.95,0,N/A,No
+C100749,2025-11-02,month-to-month,card,fiber,No,8,87.44,713.8,0,N/A,No
+C100750,2025-12-02,month-to-month,bank transfer,fiber,Yes,7,59.87,418.56,2,moved,Yes
+C100751,2023-11-13,one-year,electronic check,fiber,No,32,97.84,3419.65,2,N/A,No
+C100752,2024-04-11,month-to-month,mailed check,fiber,No,27,95.93,2543.07,5,moved,Yes
+C100753,2026-05-01,month-to-month,mailed check,dsl,Yes,2,44.47,91.88,2,N/A,No
+C100754,2021-02-26,month-to-month,mailed check,,No,65,66.97,4016.52,1,N/A,No
+C100755,2024-11-07,month-to-month,mailed check,none,No,20,25.6,512.72,1,competitor offer,Yes
+C100756,2024-09-08,month-to-month,bank transfer,none,No,22,18.0,405.39,0,N/A,No
+C100757,2026-01-31,month-to-month,card,none,No,5,18.0,85.88,1,N/A,No
+C100758,2024-06-10,month-to-month,mailed check,dsl,Yes,25,46.34,1088.65,2,N/A,No
+C100759,2023-12-13,month-to-month,card,fiber,No,31,100.53,3126.07,1,competitor offer,Yes
+C100760,2023-06-16,month-to-month,electronic check,fiber,No,37,113.75,4336.79,3,N/A,No
+C100761,2025-09-03,one-year,card,fiber,No,10,73.58,761.97,4,N/A,No
+C100762,2020-07-31,month-to-month,electronic check,fiber,No,72,77.01,5432.49,5,competitor offer,Yes
+C100763,2023-03-18,month-to-month,card,fiber,No,40,88.03,3558.3,0,N/A,No
+C100764,2022-10-19,month-to-month,bank transfer,none,No,45,23.87,1029.06,2,N/A,No
+C100765,2020-07-31,one-year,card,none,Yes,72,29.22,2213.9,2,N/A,No
+C100766,2024-10-08,month-to-month,mailed check,dsl,No,21,83.74,1728.78,2,N/A,No
+C100767,2024-03-12,month-to-month,electronic check,fiber,No,28,88.39,2569.66,1,N/A,No
+C100768,2026-05-01,one-year,electronic check,none,No,2,33.47,66.41,0,N/A,No
+C100769,2026-03-02,month-to-month,bank transfer,dsl,Yes,4,52.75,208.95,3,competitor offer,Yes
+C100770,2024-10-08,two-year,card,fiber,Yes,21,115.67,2547.17,2,N/A,No
+C100771,2024-05-11,two-year,mailed check,,No,26,69.85,1769.09,3,N/A,No
+C100772,2024-10-08,month-to-month,electronic check,fiber,No,21,86.0,1876.1,0,moved,Yes
+C100773,2025-02-05,one-year,electronic check,fiber,Yes,17,60.64,1020.03,0,N/A,No
+C100774,2023-07-16,month-to-month,mailed check,dsl,No,36,52.27,1832.51,1,N/A,No
+C100775,2023-06-16,month-to-month,electronic check,fiber,Yes,37,85.41,3081.38,2,N/A,No
+C100776,2025-01-06,month-to-month,card,fiber,No,18,74.66,1389.37,3,N/A,No
+C100777,2024-06-10,one-year,electronic check,fiber,No,25,95.06,2371.07,2,moved,Yes
+C100778,2023-10-14,two-year,card,none,No,33,36.83,1202.63,1,N/A,No
+C100779,2024-03-12,month-to-month,bank transfer,fiber,Yes,28,52.94,1415.55,1,service quality,Yes
+C100780,2026-01-01,one-year,bank transfer,dsl,No,6,18.0,111.81,0,N/A,No
+C100781,2025-01-06,month-to-month,electronic check,fiber,No,18,105.2,1953.22,0,moved,Yes
+C100782,2025-03-07,month-to-month,mailed check,dsl,No,16,52.5,848.19,1,N/A,No
+C100783,2021-10-24,two-year,electronic check,dsl,No,57,97.84,5707.15,2,N/A,No
+C100784,2025-08-04,one-year,,dsl,No,11,65.64,651.83,0,N/A,No
+C100785,2024-11-07,month-to-month,electronic check,dsl,No,20,48.53,955.19,0,N/A,No
+C100786,2024-12-07,two-year,mailed check,fiber,No,19,95.58,1824.88,1,N/A,No
+C100787,2025-02-05,month-to-month,electronic check,fiber,No,17,,1319.32,2,N/A,No
+C100788,2026-01-31,month-to-month,electronic check,fiber,No,5,83.59,410.84,3,N/A,No
+C100789,2020-08-30,month-to-month,mailed check,fiber,No,71,62.9,4497.77,1,N/A,No
+C100790,2024-09-08,two-year,bank transfer,fiber,No,22,97.34,2094.68,0,N/A,No
+C100791,2023-10-14,month-to-month,card,dsl,No,33,89.38,2891.69,2,N/A,No
+C100792,2024-02-11,two-year,card,fiber,No,29,71.77,2003.65,3,N/A,No
+C100793,2025-02-05,one-year,,fiber,No,17,122.5,2091.11,1,competitor offer,Yes
+C100794,2024-10-08,month-to-month,bank transfer,dsl,Yes,21,52.81,1085.02,3,N/A,No
+C100795,2022-03-23,one-year,bank transfer,dsl,No,52,70.79,3625.59,0,N/A,No
+C100796,2026-01-01,month-to-month,bank transfer,none,No,6,18.0,112.49,0,N/A,No
+C100797,2024-09-08,one-year,card,fiber,No,22,41.05,901.93,1,N/A,No
+C100798,2024-03-12,one-year,card,fiber,No,28,129.48,3621.56,1,N/A,No
+C100799,2025-02-05,one-year,card,dsl,No,17,96.6,1566.58,3,N/A,No
+C100800,2025-02-05,two-year,electronic check,fiber,Yes,17,108.53,1816.04,2,N/A,No
+C100801,2023-08-15,month-to-month,bank transfer,dsl,Yes,35,28.0,1008.86,1,N/A,No
+C100802,2024-11-07,two-year,bank transfer,fiber,No,20,88.27,1794.6,3,N/A,No
+C100803,2020-07-31,month-to-month,mailed check,fiber,Yes,72,92.52,6672.06,3,N/A,No
+C100804,2023-08-15,one-year,electronic check,dsl,No,35,67.04,2334.01,0,N/A,No
+C100805,2021-07-26,two-year,electronic check,dsl,No,60,71.83,4318.35,1,N/A,No
+C100806,2023-06-16,two-year,electronic check,dsl,No,37,45.11,1688.98,1,N/A,No
+C100807,2025-08-04,month-to-month,mailed check,dsl,Yes,11,61.77,672.84,1,N/A,No
+C100808,2024-10-08,month-to-month,card,dsl,No,21,40.25,782.18,0,N/A,No
+C100809,2024-08-09,two-year,bank transfer,fiber,No,23,75.61,1841.56,1,N/A,No
+C100810,2024-08-09,two-year,mailed check,fiber,No,23,91.45,2175.02,1,N/A,No
+C100811,2023-08-15,month-to-month,bank transfer,,No,35,66.09,2302.42,3,N/A,No
+C100812,2023-10-14,two-year,mailed check,dsl,No,33,59.19,2035.93,0,N/A,No
+C100813,2024-07-10,month-to-month,card,fiber,No,24,73.81,1702.03,1,N/A,No
+C100814,2025-12-02,month-to-month,card,fiber,No,7,83.6,607.83,2,N/A,No
+C100815,2021-02-26,one-year,mailed check,fiber,No,65,103.49,6765.37,0,N/A,No
+C100816,2025-02-05,month-to-month,bank transfer,,Yes,17,88.46,1543.89,2,competitor offer,Yes
+C100817,2025-04-06,month-to-month,bank transfer,fiber,No,15,91.94,1364.79,3,price,Yes
+C100818,2026-05-01,month-to-month,mailed check,none,No,2,18.0,36.16,4,moved,Yes
+C100819,2023-06-16,month-to-month,card,,No,37,27.29,1027.42,2,N/A,No
+C100820,2022-09-19,month-to-month,mailed check,fiber,No,46,101.23,4802.98,4,service quality,Yes
+C100821,2022-10-19,month-to-month,bank transfer,dsl,No,45,46.34,2117.45,2,N/A,No
+C100822,2026-05-01,one-year,card,fiber,Yes,2,73.73,149.42,2,N/A,No
+C100823,2022-06-21,one-year,card,fiber,No,49,61.95,2981.59,0,N/A,No
+C100824,2025-01-06,one-year,bank transfer,fiber,No,18,112.55,2130.21,,N/A,No
+C100825,2025-01-06,two-year,bank transfer,fiber,No,18,73.3,1327.63,0,N/A,No
+C100826,2025-06-05,month-to-month,mailed check,fiber,No,13,67.21,867.8,1,N/A,No
+C100827,2023-09-14,month-to-month,card,fiber,No,34,96.8,3259.14,0,N/A,No
+C100828,2022-09-19,month-to-month,card,dsl,No,46,89.39,3963.52,0,N/A,No
+C100829,2024-07-10,month-to-month,card,fiber,No,24,94.09,2208.08,4,service quality,Yes
+C100830,2025-01-06,one-year,electronic check,none,No,18,56.79,975.49,1,N/A,No
+C100831,2022-06-21,month-to-month,electronic check,dsl,No,49,69.86,3444.01,1,N/A,No
+C100832,2024-10-08,month-to-month,bank transfer,fiber,No,21,80.38,1683.83,3,competitor offer,Yes
+C100833,2024-04-11,one-year,electronic check,dsl,No,27,55.53,1509.12,0,N/A,No
+C100834,2025-03-07,month-to-month,electronic check,none,Yes,16,24.04,370.21,2,N/A,No
+C100835,2024-02-11,month-to-month,card,fiber,No,29,70.09,2006.83,3,competitor offer,Yes
+C100836,2023-11-13,one-year,,dsl,No,32,73.28,2299.77,2,N/A,No
+C100837,2025-07-05,one-year,mailed check,dsl,No,12,62.71,774.88,2,N/A,No
+C100838,2025-12-02,month-to-month,bank transfer,fiber,No,7,85.11,569.1,1,price,Yes
+C100839,2024-11-07,one-year,mailed check,fiber,No,20,96.49,1841.8,5,price,Yes
+C100840,2025-12-02,month-to-month,bank transfer,fiber,No,7,82.0,596.09,3,moved,Yes
+C100841,2024-10-08,month-to-month,card,dsl,No,21,35.09,744.85,1,N/A,No
+C100842,2022-08-20,one-year,card,fiber,No,47,65.8,2947.01,3,N/A,No
+C100843,2025-01-06,month-to-month,card,fiber,Yes,18,,1097.27,6,N/A,No
+C100844,2026-05-31,month-to-month,bank transfer,none,Yes,1,18.0,18.81,2,moved,Yes
+C100845,2025-09-03,one-year,bank transfer,fiber,Yes,10,,883.95,1,moved,Yes
+C100846,2024-04-11,one-year,bank transfer,fiber,No,27,56.83,1439.4,3,N/A,No
+C100847,2024-04-11,month-to-month,bank transfer,none,No,27,18.0,487.74,3,N/A,No
+C100848,2025-07-05,one-year,bank transfer,dsl,No,12,41.5,485.06,2,N/A,No
+C100849,2023-09-14,month-to-month,card,dsl,No,34,84.35,2844.89,0,N/A,No
+C100850,2025-07-05,two-year,card,fiber,No,12,76.33,872.5,1,N/A,No
+C100851,2021-05-27,month-to-month,mailed check,dsl,No,62,87.11,5681.54,,N/A,No
+C100852,2022-12-18,month-to-month,card,fiber,No,43,81.18,3418.05,1,moved,Yes
+C100853,2020-07-31,month-to-month,,dsl,No,72,55.57,4034.13,1,N/A,No
+C100854,2023-08-15,two-year,bank transfer,fiber,Yes,35,95.56,3425.17,2,N/A,No
+C100855,2024-03-12,month-to-month,electronic check,fiber,No,28,96.25,2744.46,2,competitor offer,Yes
+C100856,2025-11-02,one-year,bank transfer,none,No,8,37.67,305.07,2,N/A,No
+C100857,2024-06-10,two-year,bank transfer,dsl,No,25,42.35,1046.28,0,N/A,No
+C100858,2025-10-03,two-year,bank transfer,none,No,9,25.09,227.29,0,N/A,No
+C100859,2022-09-19,month-to-month,mailed check,fiber,Yes,46,57.16,2611.8,3,N/A,No
+C100860,2025-07-05,month-to-month,bank transfer,fiber,No,12,,865.95,3,service quality,Yes
+C100861,2020-07-31,one-year,card,fiber,Yes,72,85.17,6315.86,0,N/A,No
+C100862,2024-09-08,one-year,card,fiber,No,22,115.71,2497.52,2,N/A,No
+C100863,2020-07-31,month-to-month,mailed check,fiber,No,72,114.16,8090.32,3,service quality,Yes
+C100864,2026-01-01,month-to-month,bank transfer,fiber,No,6,97.99,580.62,1,N/A,No
+C100865,2025-03-07,month-to-month,card,fiber,No,16,104.08,1595.74,2,service quality,Yes
+C100866,2025-12-02,month-to-month,electronic check,fiber,No,7,,594.63,0,service quality,Yes
+C100867,2025-11-02,one-year,electronic check,none,No,8,96.02,726.53,,N/A,No
+C100868,2024-08-09,month-to-month,electronic check,fiber,No,23,116.67,2720.9,0,competitor offer,Yes
+C100869,2026-03-02,month-to-month,card,dsl,No,4,123.25,510.43,0,competitor offer,Yes
+C100870,2023-07-16,month-to-month,bank transfer,fiber,Yes,36,91.47,3300.0,1,N/A,No
+C100871,2024-10-08,month-to-month,card,fiber,No,21,92.16,1868.66,1,N/A,No
+C100872,2025-04-06,month-to-month,card,none,No,15,58.22,907.45,1,service quality,Yes
+C100873,2025-02-05,two-year,mailed check,fiber,Yes,17,87.22,1468.38,1,N/A,No
+C100874,2025-03-07,month-to-month,bank transfer,fiber,Yes,16,89.91,1369.6,,N/A,No
+C100875,2020-07-31,month-to-month,card,dsl,No,72,43.36,2945.27,1,N/A,No
+C100876,2024-12-07,one-year,mailed check,fiber,Yes,19,103.73,1981.39,4,competitor offer,Yes
+C100877,2024-10-08,month-to-month,mailed check,fiber,No,21,86.04,1884.91,0,price,Yes
+C100878,2025-03-07,month-to-month,electronic check,dsl,No,16,82.85,1310.15,0,N/A,No
+C100879,2022-09-19,two-year,card,dsl,Yes,46,60.2,2716.09,5,N/A,No
+C100880,2024-02-11,two-year,card,,No,29,44.0,1265.35,4,N/A,No
+C100881,2024-04-11,one-year,bank transfer,dsl,No,27,76.07,2001.27,0,N/A,No
+C100882,2026-03-02,month-to-month,electronic check,dsl,No,4,90.66,356.64,2,competitor offer,Yes
+C100883,2024-09-08,month-to-month,mailed check,dsl,Yes,22,36.9,817.83,3,N/A,No
+C100884,2022-07-21,month-to-month,mailed check,fiber,No,48,61.69,2896.41,0,N/A,No
+C100885,2025-08-04,month-to-month,mailed check,fiber,Yes,11,76.41,863.89,3,moved,Yes
+C100886,2022-04-22,month-to-month,bank transfer,dsl,No,51,,2949.97,1,N/A,No
+C100887,2024-02-11,month-to-month,electronic check,fiber,No,29,45.64,1351.49,5,N/A,No
+C100888,2024-02-11,one-year,card,dsl,No,29,,3036.54,3,N/A,No
+C100889,2023-07-16,month-to-month,bank transfer,none,No,36,57.26,2037.12,1,N/A,No
+C100890,2025-04-06,month-to-month,card,fiber,No,15,69.47,1032.57,1,price,Yes
+C100891,2024-10-08,two-year,card,dsl,No,21,25.17,523.32,1,N/A,No
+C100892,2022-07-21,month-to-month,card,,No,48,90.99,4586.73,0,N/A,No
+C100893,2021-08-25,month-to-month,bank transfer,none,No,59,78.65,4526.79,0,N/A,No
+C100894,2022-04-22,month-to-month,bank transfer,fiber,No,51,101.23,5345.83,3,N/A,No
+C100895,2021-04-27,one-year,electronic check,fiber,No,63,108.4,7034.75,5,N/A,No
+C100896,2022-03-23,one-year,card,fiber,No,52,62.3,3206.12,0,N/A,No
+C100897,2026-01-31,month-to-month,card,dsl,No,5,70.12,367.55,1,N/A,No
+C100898,2023-09-14,one-year,electronic check,fiber,Yes,34,50.01,1578.68,2,N/A,No
+C100899,2026-01-31,month-to-month,electronic check,,No,5,78.53,395.47,0,N/A,No
+C100900,2025-09-03,month-to-month,electronic check,dsl,No,10,77.53,778.15,1,N/A,No
+C100901,2025-11-02,one-year,electronic check,dsl,No,8,18.69,149.58,1,N/A,No
+C100902,2025-08-04,two-year,electronic check,dsl,No,11,24.35,274.53,0,N/A,No
+C100903,2024-05-11,two-year,electronic check,fiber,No,26,93.55,2402.63,5,N/A,No
+C100904,2025-09-03,one-year,electronic check,none,No,10,38.03,unknown,1,N/A,No
+C100905,2024-04-11,month-to-month,card,dsl,No,27,58.16,1624.2,0,N/A,No
+C100906,2022-07-21,month-to-month,card,fiber,Yes,48,96.54,4616.9,4,N/A,No
+C100907,2023-12-13,two-year,electronic check,fiber,No,31,127.16,3818.91,1,N/A,No
+C100908,2026-03-02,month-to-month,card,fiber,Yes,4,91.04,370.31,1,price,Yes
+C100909,2024-12-07,month-to-month,bank transfer,fiber,No,19,43.31,820.68,2,price,Yes
+C100910,2023-05-17,one-year,card,fiber,Yes,38,79.49,2968.89,2,N/A,No
+C100911,2025-01-06,two-year,bank transfer,fiber,No,18,54.14,990.47,1,N/A,No
+C100912,2023-11-13,one-year,electronic check,none,No,32,18.0,562.56,0,N/A,No
+C100913,2025-08-04,month-to-month,electronic check,fiber,Yes,11,90.13,962.05,2,price,Yes
+C100914,2024-12-07,month-to-month,bank transfer,dsl,No,19,61.21,1153.64,0,N/A,No
+C100915,2023-03-18,month-to-month,card,fiber,No,40,59.52,2366.71,0,N/A,No
+C100916,2025-11-02,two-year,electronic check,dsl,Yes,8,64.34,515.43,,service quality,Yes
+C100917,2024-09-08,two-year,electronic check,dsl,No,22,46.96,995.58,0,N/A,No
+C100918,2024-11-07,month-to-month,bank transfer,fiber,No,20,94.55,1988.18,1,competitor offer,Yes
+C100919,2025-02-05,two-year,mailed check,none,No,17,29.55,512.43,0,N/A,No
+C100920,2023-12-13,month-to-month,electronic check,fiber,No,31,91.47,2847.12,,N/A,No
+C100921,2022-02-21,month-to-month,mailed check,fiber,No,53,76.98,4107.23,2,N/A,No
+C100922,2024-12-07,month-to-month,electronic check,dsl,Yes,19,81.32,1428.78,1,price,Yes
+C100923,2025-05-06,month-to-month,mailed check,fiber,No,14,79.86,1148.82,0,moved,Yes
+C100924,2024-12-07,month-to-month,electronic check,none,Yes,19,34.56,636.35,2,competitor offer,Yes
+C100925,2021-11-23,month-to-month,electronic check,fiber,No,56,70.4,4001.12,2,N/A,No
+C100926,2025-08-04,one-year,electronic check,fiber,No,11,85.95,911.36,4,price,Yes
+C100927,2025-10-03,month-to-month,card,dsl,No,9,25.8,239.01,0,N/A,No
+C100928,2025-04-06,two-year,bank transfer,none,No,15,93.47,1379.25,1,N/A,No
+C100929,2023-05-17,two-year,electronic check,none,No,38,19.83,748.58,0,N/A,No
+C100930,2024-08-09,month-to-month,card,fiber,No,23,84.97,2043.53,0,N/A,No
+C100931,2023-05-17,month-to-month,electronic check,dsl,No,38,54.36,2126.59,1,N/A,No
+C100932,2025-11-02,two-year,electronic check,fiber,No,8,72.05,552.49,1,N/A,No
+C100933,2024-11-07,month-to-month,mailed check,dsl,No,20,,1441.24,2,price,Yes
+C100934,2025-10-03,month-to-month,bank transfer,fiber,Yes,9,71.53,647.38,3,N/A,No
+C100935,2025-09-03,month-to-month,bank transfer,dsl,No,10,55.34,549.4,1,N/A,No
+C100936,2024-01-12,two-year,mailed check,dsl,No,30,34.44,1058.03,1,N/A,No
+C100937,2024-11-07,one-year,bank transfer,fiber,No,20,62.43,1222.7,,N/A,No
+C100938,2020-07-31,month-to-month,electronic check,fiber,No,72,57.02,3873.47,1,N/A,No
+C100939,2022-04-22,month-to-month,bank transfer,fiber,No,51,122.37,6068.78,3,N/A,No
+C100940,2024-07-10,month-to-month,bank transfer,none,No,24,18.0,429.51,0,N/A,No
+C100941,2024-12-07,month-to-month,card,dsl,No,19,41.11,793.77,,N/A,No
+C100942,2026-01-01,two-year,card,dsl,No,6,68.96,422.91,0,N/A,No
+C100943,2026-03-02,two-year,bank transfer,none,No,4,66.13,274.35,1,N/A,No
+C100944,2022-06-21,month-to-month,,fiber,No,49,45.45,2242.31,3,N/A,No
+C100945,2025-05-06,month-to-month,electronic check,none,No,14,18.0,250.41,1,N/A,No
+C100946,2024-03-12,month-to-month,mailed check,fiber,No,28,85.44,2444.28,4,competitor offer,Yes
+C100947,2024-06-10,two-year,card,fiber,Yes,25,90.11,2245.53,0,N/A,No
+C100948,2023-04-17,one-year,card,fiber,No,39,51.54,1981.36,0,N/A,No
+C100949,2020-07-31,one-year,card,dsl,No,72,25.05,1777.9,1,N/A,No
+C100950,2023-01-17,one-year,mailed check,fiber,No,42,61.52,2655.28,1,N/A,No
+C100951,2024-10-08,month-to-month,card,dsl,No,21,81.1,1778.65,1,service quality,Yes
+C100952,2021-09-24,two-year,electronic check,dsl,No,58,63.7,3839.71,0,N/A,No
+C100953,2023-09-14,month-to-month,bank transfer,dsl,No,34,81.04,2622.61,2,N/A,No
+C100954,2024-10-08,one-year,card,fiber,Yes,21,80.28,1740.81,1,N/A,No
+C100955,2024-04-11,month-to-month,card,dsl,No,27,63.9,1666.93,2,N/A,No
+C100956,2022-11-18,month-to-month,electronic check,dsl,No,44,78.13,3401.78,3,N/A,No
+C100957,2021-10-24,two-year,card,fiber,No,57,,4639.84,3,N/A,No
+C100958,2025-05-06,month-to-month,mailed check,dsl,No,14,69.8,937.89,2,competitor offer,Yes
+C100959,2025-01-06,month-to-month,electronic check,dsl,No,18,44.55,772.22,1,N/A,No
+C100960,2026-01-01,month-to-month,card,none,No,6,21.4,125.48,1,N/A,No
+C100961,2022-12-18,one-year,card,fiber,No,43,92.9,4196.22,2,N/A,No
+C100962,2024-11-07,month-to-month,electronic check,fiber,No,20,77.31,1595.83,1,N/A,No
+C100963,2021-01-27,month-to-month,electronic check,dsl,No,66,48.14,3090.96,0,N/A,No
+C100964,2021-07-26,month-to-month,bank transfer,fiber,No,60,97.04,5845.38,2,N/A,No
+C100965,2024-04-11,month-to-month,bank transfer,none,No,27,46.6,1263.07,2,N/A,No
+C100966,2024-02-11,month-to-month,bank transfer,dsl,No,29,64.41,1885.05,1,N/A,No
+C100967,2025-06-05,month-to-month,mailed check,,No,13,65.87,837.89,3,N/A,No
+C100968,2025-06-05,month-to-month,bank transfer,none,No,13,54.29,736.15,3,N/A,No
+C100969,2024-07-10,one-year,electronic check,dsl,No,24,119.49,2834.57,2,N/A,No
+C100970,2024-11-07,month-to-month,electronic check,dsl,No,20,46.47,952.07,0,N/A,No
+C100971,2020-09-29,two-year,electronic check,none,No,70,18.0,1196.1,1,N/A,No
+C100972,2025-05-06,two-year,bank transfer,dsl,No,14,47.39,671.13,0,N/A,No
+C100973,2023-06-16,month-to-month,electronic check,none,No,37,18.0,668.77,1,N/A,No
+C100974,2024-11-07,month-to-month,bank transfer,fiber,No,20,54.72,1138.78,2,N/A,No
+C100975,2024-05-11,two-year,electronic check,fiber,No,26,56.51,1354.51,0,N/A,No
+C100976,2023-11-13,month-to-month,card,dsl,No,32,83.17,2705.28,4,price,Yes
+C100977,2025-10-03,two-year,bank transfer,fiber,No,9,101.42,934.89,1,N/A,No
+C100978,2023-03-18,month-to-month,mailed check,dsl,No,40,97.08,3851.59,2,N/A,No
+C100979,2021-12-23,one-year,bank transfer,dsl,No,55,80.93,4626.04,2,N/A,No
+C100980,2022-05-22,month-to-month,electronic check,dsl,No,50,54.0,2869.87,1,N/A,No
+C100981,2024-10-08,one-year,mailed check,dsl,Yes,21,88.36,1904.27,2,N/A,No
+C100982,2025-07-05,two-year,electronic check,dsl,No,12,51.04,627.25,1,N/A,No
+C100983,2022-11-18,month-to-month,card,none,No,44,26.84,1228.57,2,N/A,No
+C100984,2025-03-07,two-year,electronic check,dsl,No,16,38.68,626.94,2,N/A,No
+C100985,2024-03-12,month-to-month,electronic check,none,No,28,61.46,1784.02,,N/A,No
+C100986,2026-03-02,month-to-month,card,fiber,Yes,4,,426.27,2,service quality,Yes
+C100987,2026-01-01,month-to-month,mailed check,fiber,No,6,72.26,424.59,2,service quality,Yes
+C100988,2024-11-07,month-to-month,bank transfer,dsl,Yes,20,57.62,1115.89,2,N/A,No
+C100989,2024-11-07,month-to-month,card,fiber,No,20,83.23,1723.07,1,N/A,No
+C100990,2025-09-03,one-year,card,none,No,10,38.87,395.63,2,N/A,No
+C100991,2026-03-02,month-to-month,card,fiber,No,4,101.02,395.9,0,N/A,No
+C100992,2023-12-13,one-year,electronic check,dsl,No,31,65.89,2043.95,0,N/A,No
+C100993,2026-01-31,two-year,electronic check,fiber,No,5,91.24,476.19,2,N/A,No
+C100994,2025-06-05,two-year,card,dsl,Yes,13,31.43,387.52,2,N/A,No
+C100995,2023-04-17,two-year,card,none,No,39,27.79,1054.33,0,N/A,No
+C100996,2024-08-09,two-year,electronic check,none,Yes,23,18.0,422.62,0,N/A,No
+C100997,2024-01-12,month-to-month,bank transfer,fiber,No,30,121.62,3738.37,2,competitor offer,Yes
+C100998,2024-05-11,two-year,bank transfer,dsl,No,26,95.09,2385.1,1,N/A,No
+C100999,2024-04-11,month-to-month,electronic check,dsl,No,27,80.14,2098.85,2,N/A,No
+C101000,2024-11-07,two-year,mailed check,fiber,No,20,,2146.96,2,N/A,No
+C101001,2025-09-03,two-year,mailed check,dsl,No,10,108.47,1130.33,0,N/A,No
+C101002,2022-06-21,one-year,electronic check,none,No,49,55.04,2697.6,0,N/A,No
+C101003,2024-04-11,month-to-month,card,none,No,27,18.0,452.06,1,N/A,No
+C101004,2024-05-11,month-to-month,card,fiber,No,26,77.83,2085.87,1,service quality,Yes
+C101005,2020-07-31,month-to-month,electronic check,dsl,No,72,18.0,1295.01,0,N/A,No
+C101006,2025-09-03,month-to-month,mailed check,none,No,10,18.0,177.5,2,N/A,No
+C101007,2022-05-22,month-to-month,card,fiber,No,50,54.99,2653.35,1,N/A,No
+C101008,2024-03-12,month-to-month,bank transfer,dsl,No,28,64.16,1860.7,3,N/A,No
+C101009,2025-12-02,two-year,bank transfer,dsl,No,7,72.9,514.34,1,N/A,No
+C101010,2025-04-06,two-year,bank transfer,none,Yes,15,18.0,273.25,0,N/A,No
+C101011,2025-02-05,month-to-month,card,fiber,Yes,17,76.09,1306.98,2,N/A,No
+C101012,2026-01-01,month-to-month,card,none,No,6,40.46,245.91,2,competitor offer,Yes
+C101013,2025-03-07,month-to-month,card,none,No,16,30.85,505.94,1,N/A,No
+C101014,2023-01-17,month-to-month,card,fiber,No,42,78.37,3460.54,3,N/A,No
+C101015,2021-11-23,month-to-month,electronic check,dsl,No,56,18.0,975.71,0,N/A,No
+C101016,2024-01-12,one-year,bank transfer,fiber,Yes,30,72.58,2172.22,4,N/A,No
+C101017,2024-05-11,month-to-month,electronic check,dsl,No,26,81.7,2095.03,0,service quality,Yes
+C101018,2024-10-08,month-to-month,electronic check,dsl,No,21,69.94,1542.77,1,price,Yes
+C101019,2025-06-05,month-to-month,mailed check,dsl,No,13,31.64,407.71,0,N/A,No
+C101020,2025-02-05,one-year,bank transfer,none,No,17,28.25,456.96,0,N/A,No
+C101021,2023-12-13,month-to-month,mailed check,fiber,No,31,88.1,2728.53,4,N/A,No
+C101022,2026-01-01,month-to-month,bank transfer,fiber,No,6,,356.79,,service quality,Yes
+C101023,2024-11-07,month-to-month,electronic check,dsl,No,20,79.07,1546.06,1,moved,Yes
+C101024,2024-05-11,two-year,electronic check,fiber,No,26,64.6,1656.85,4,N/A,No
+C101025,2024-03-12,month-to-month,bank transfer,fiber,No,28,74.94,2015.66,2,moved,Yes
+C101026,2026-01-01,one-year,bank transfer,fiber,No,6,79.82,451.05,2,price,Yes
+C101027,2021-04-27,month-to-month,electronic check,dsl,Yes,63,113.19,7547.65,1,competitor offer,Yes
+C101028,2023-08-15,two-year,card,fiber,No,35,75.16,2620.24,3,N/A,No
+C101029,2025-08-04,month-to-month,bank transfer,dsl,No,11,51.65,552.11,1,N/A,No
+C101030,2025-03-07,month-to-month,card,dsl,No,16,79.95,1302.96,0,N/A,No
+C101031,2023-03-18,two-year,card,dsl,No,40,53.84,2239.57,0,N/A,No
+C101032,2022-10-19,one-year,electronic check,dsl,No,45,68.45,2918.13,2,N/A,No
+C101033,2025-06-05,month-to-month,mailed check,none,No,13,18.0,230.83,0,moved,Yes
+C101034,2025-09-03,month-to-month,mailed check,fiber,No,10,88.75,894.87,2,N/A,No
+C101035,2022-01-22,two-year,card,,No,54,81.77,4303.0,,N/A,No
+C101036,2023-09-14,month-to-month,card,dsl,No,34,35.81,1233.84,1,competitor offer,Yes
+C101037,2024-09-08,month-to-month,bank transfer,dsl,No,22,94.04,1991.69,1,moved,Yes
+C101038,2025-03-07,two-year,bank transfer,dsl,Yes,16,58.94,924.03,0,N/A,No
+C101039,2024-10-08,month-to-month,bank transfer,dsl,Yes,21,59.88,1252.7,1,N/A,No
+C101040,2025-09-03,month-to-month,electronic check,fiber,No,10,53.28,539.58,0,N/A,No
+C101041,2022-10-19,month-to-month,electronic check,fiber,No,45,46.43,2091.47,3,moved,Yes
+C101042,2024-03-12,month-to-month,electronic check,dsl,No,28,51.68,1417.2,0,N/A,No
+C101043,2024-01-12,month-to-month,electronic check,dsl,No,30,30.68,910.06,2,N/A,No
+C101044,2020-07-31,one-year,electronic check,fiber,No,72,92.97,6267.51,0,N/A,No
+C101045,2023-12-13,month-to-month,electronic check,fiber,No,31,101.29,3340.78,1,price,Yes
+C101046,2025-10-03,month-to-month,mailed check,fiber,No,9,68.21,606.24,,N/A,No
+C101047,2025-04-06,two-year,mailed check,fiber,No,15,46.77,695.21,2,N/A,No
+C101048,2022-07-21,two-year,mailed check,fiber,No,48,73.5,3555.5,1,N/A,No
+C101049,2021-12-23,one-year,mailed check,fiber,No,55,58.84,3291.16,1,N/A,No
+C101050,2024-03-12,month-to-month,card,fiber,Yes,28,85.83,2427.58,3,service quality,Yes
+C101051,2025-01-06,month-to-month,bank transfer,fiber,No,18,86.11,1518.14,,service quality,Yes
+C101052,2022-11-18,one-year,electronic check,fiber,Yes,44,72.77,3041.83,2,N/A,No
+C101053,2025-09-03,month-to-month,card,fiber,No,10,83.76,833.05,3,N/A,No
+C101054,2025-08-04,two-year,electronic check,fiber,No,11,105.04,1127.51,1,competitor offer,Yes
+C101055,2024-10-08,month-to-month,card,fiber,No,21,119.62,2469.8,3,N/A,No
+C101056,2023-10-14,month-to-month,card,dsl,No,33,52.66,1737.32,2,N/A,No
+C101057,2024-04-11,month-to-month,bank transfer,none,No,27,50.02,1360.03,2,N/A,No
+C101058,2024-02-11,one-year,card,fiber,No,29,76.9,2316.19,0,N/A,No
+C101059,2025-11-02,one-year,bank transfer,,No,8,58.86,468.69,0,N/A,No
+C101060,2025-02-05,one-year,card,fiber,No,17,110.32,1777.75,2,competitor offer,Yes
+C101061,2024-09-08,month-to-month,mailed check,dsl,No,22,72.75,1628.26,,competitor offer,Yes
+C101062,2025-02-05,two-year,bank transfer,fiber,No,17,85.21,1488.58,1,N/A,No
+C101063,2025-04-06,one-year,bank transfer,dsl,No,15,71.91,1025.1,0,N/A,No
+C101064,2023-08-15,month-to-month,electronic check,dsl,No,35,60.53,2156.63,1,N/A,No
+C101065,2024-12-07,month-to-month,electronic check,dsl,Yes,19,40.94,782.04,2,price,Yes
+C101066,2025-08-04,one-year,card,none,No,11,,791.43,1,N/A,No
+C101067,2022-06-21,month-to-month,card,fiber,No,49,101.89,5017.04,2,N/A,No
+C101068,2024-05-11,one-year,electronic check,fiber,Yes,26,87.89,2311.28,3,N/A,No
+C101069,2026-01-31,one-year,card,fiber,No,5,103.33,525.71,3,N/A,No
+C101070,2023-11-13,month-to-month,card,dsl,No,32,92.38,3057.34,4,N/A,No
+C101071,2020-07-31,two-year,electronic check,dsl,No,72,59.7,4295.62,1,N/A,No
+C101072,2022-10-19,month-to-month,bank transfer,fiber,No,45,95.01,4273.52,1,N/A,No
+C101073,2022-03-23,month-to-month,card,fiber,No,52,74.96,4179.76,2,N/A,No
+C101074,2021-10-24,month-to-month,electronic check,dsl,No,57,78.27,4316.84,0,N/A,No
+C101075,2023-11-13,two-year,electronic check,fiber,No,32,76.5,2427.18,2,N/A,No
+C101076,2025-06-05,month-to-month,card,fiber,No,13,130.0,1671.54,3,service quality,Yes
+C101077,2022-07-21,one-year,card,fiber,Yes,48,74.23,3644.32,0,N/A,No
+C101078,2025-11-02,month-to-month,bank transfer,none,No,8,45.43,375.43,3,N/A,No
+C101079,2024-05-11,two-year,mailed check,fiber,No,26,92.28,2303.38,1,N/A,No
+C101080,2023-06-16,two-year,card,dsl,Yes,37,56.72,2175.73,3,N/A,No
+C101081,2024-01-12,month-to-month,bank transfer,fiber,No,30,102.68,2969.56,1,N/A,No
+C101082,2025-01-06,two-year,card,fiber,No,18,80.25,1557.38,5,N/A,No
+C101083,2025-10-03,one-year,electronic check,,No,9,73.02,643.77,3,N/A,No
+C101084,2020-07-31,month-to-month,electronic check,fiber,No,72,82.12,6107.46,1,N/A,No
+C101085,2023-03-18,month-to-month,card,dsl,No,40,47.57,1887.02,0,N/A,No
+C101086,2025-04-06,month-to-month,mailed check,fiber,No,15,108.41,1660.42,2,N/A,No
+C101087,2025-10-03,month-to-month,electronic check,fiber,No,9,95.84,842.95,5,moved,Yes
+C101088,2024-04-11,month-to-month,card,none,No,27,55.69,1509.26,0,N/A,No
+C101089,2024-05-11,month-to-month,mailed check,none,No,26,18.0,468.21,0,N/A,No
+C101090,2024-04-11,month-to-month,card,fiber,No,27,88.04,2383.14,3,N/A,No
+C101091,2021-07-26,one-year,electronic check,fiber,Yes,60,65.17,4002.65,0,N/A,No
+C101092,2025-06-05,two-year,card,dsl,No,13,65.98,846.18,3,N/A,No
+C101093,2023-10-14,two-year,bank transfer,fiber,No,33,110.11,3597.42,2,N/A,No
+C101094,2026-01-31,month-to-month,bank transfer,fiber,No,5,87.74,421.26,1,price,Yes
+C101095,2024-11-07,one-year,mailed check,fiber,Yes,20,,1557.51,3,N/A,No
+C101096,2021-05-27,month-to-month,electronic check,dsl,No,62,88.72,5418.16,3,N/A,No
+C101097,2025-12-02,month-to-month,bank transfer,fiber,No,7,104.32,749.47,0,moved,Yes
+C101098,2023-01-17,two-year,card,none,Yes,42,74.75,3202.07,1,N/A,No
+C101099,2025-01-06,month-to-month,bank transfer,fiber,No,18,41.15,724.43,1,N/A,No
+C101100,2024-10-08,two-year,bank transfer,fiber,No,21,89.29,1899.61,2,N/A,No
+C101101,2025-04-06,one-year,mailed check,fiber,No,15,72.93,1136.91,2,service quality,Yes
+C101102,2023-09-14,month-to-month,electronic check,none,No,34,18.0,608.01,3,N/A,No
+C101103,2023-07-16,one-year,bank transfer,dsl,No,36,66.62,2313.29,1,N/A,No
+C101104,2022-09-19,month-to-month,bank transfer,fiber,No,46,56.51,2791.16,0,N/A,No
+C101105,2025-01-06,two-year,,dsl,No,18,,329.32,1,N/A,No
+C101106,2025-06-05,month-to-month,card,fiber,No,13,62.24,826.06,2,price,Yes
+C101107,2022-02-21,month-to-month,electronic check,dsl,No,53,58.34,unknown,1,N/A,No
+C101108,2025-04-06,one-year,electronic check,fiber,No,15,123.15,1802.57,2,competitor offer,Yes
+C101109,2023-07-16,month-to-month,bank transfer,none,No,36,18.22,661.81,,N/A,No
+C101110,2025-05-06,month-to-month,electronic check,fiber,No,14,56.38,744.22,0,N/A,No
+C101111,2023-08-15,month-to-month,bank transfer,dsl,No,35,20.59,731.18,1,N/A,No
+C101112,2020-07-31,month-to-month,card,,No,72,74.35,5415.79,1,N/A,No
+C101113,2023-01-17,month-to-month,bank transfer,dsl,No,42,58.81,2411.44,2,N/A,No
+C101114,2025-06-05,one-year,card,fiber,No,13,85.35,1080.93,1,N/A,No
+C101115,2024-06-10,two-year,card,dsl,No,25,32.28,802.58,1,N/A,No
+C101116,2024-02-11,month-to-month,bank transfer,dsl,No,29,47.32,1362.51,0,N/A,No
+C101117,2024-08-09,one-year,electronic check,dsl,No,23,18.0,433.61,0,N/A,No
+C101118,2023-01-17,two-year,card,fiber,No,42,85.79,3576.05,2,N/A,No
+C101119,2023-01-17,month-to-month,bank transfer,fiber,Yes,42,47.57,1988.04,2,N/A,No
+C101120,2024-02-11,one-year,mailed check,none,No,29,18.0,519.13,0,N/A,No
+C101121,2020-10-29,month-to-month,electronic check,fiber,No,69,107.62,7067.57,1,N/A,No
+C101122,2025-07-05,two-year,mailed check,fiber,No,12,93.21,1101.93,5,service quality,Yes
+C101123,2025-04-06,one-year,electronic check,fiber,No,15,89.82,1292.31,2,competitor offer,Yes
+C101124,2026-05-01,two-year,electronic check,dsl,No,2,,144.12,3,service quality,Yes
+C101125,2024-03-12,one-year,electronic check,none,Yes,28,18.0,470.68,1,N/A,No
+C101126,2024-12-07,two-year,electronic check,fiber,No,19,105.71,1940.19,0,N/A,No
+C101127,2023-10-14,month-to-month,bank transfer,fiber,No,33,59.04,1962.8,2,price,Yes
+C101128,2025-06-05,one-year,bank transfer,,No,13,124.15,1511.75,3,N/A,No
+C101129,2025-07-05,month-to-month,card,fiber,No,12,87.07,995.68,,competitor offer,Yes
+C101130,2024-06-10,month-to-month,card,fiber,No,25,41.52,1068.78,0,N/A,No
+C101131,2025-05-06,month-to-month,bank transfer,fiber,No,14,101.22,1360.06,,service quality,Yes
+C101132,2023-12-13,one-year,electronic check,fiber,Yes,31,125.51,3888.82,2,N/A,No
+C101133,2024-01-12,one-year,electronic check,none,No,30,28.5,862.69,2,N/A,No
+C101134,2024-08-09,two-year,card,fiber,No,23,105.57,2350.14,1,N/A,No
+C101135,2023-02-16,month-to-month,electronic check,dsl,No,41,59.44,2312.79,2,N/A,No
+C101136,2024-04-11,month-to-month,card,fiber,No,27,68.3,1928.25,2,N/A,No
+C101137,2025-01-06,month-to-month,mailed check,fiber,No,18,25.31,447.83,4,price,Yes
+C101138,2025-08-04,two-year,electronic check,dsl,No,11,91.31,1019.75,2,N/A,No
+C101139,2023-11-13,month-to-month,electronic check,fiber,No,32,72.32,2260.82,2,N/A,No
+C101140,2025-06-05,month-to-month,bank transfer,,No,13,90.48,1188.82,0,N/A,No
+C101141,2022-08-20,one-year,electronic check,dsl,No,47,39.18,1768.35,0,N/A,No
+C101142,2023-12-13,one-year,card,fiber,No,31,62.13,1845.98,1,N/A,No
+C101143,2025-03-07,month-to-month,card,fiber,No,16,106.71,1653.26,2,competitor offer,Yes
+C101144,2025-10-03,month-to-month,bank transfer,none,No,9,25.63,226.26,0,N/A,No
+C101145,2025-11-02,month-to-month,card,fiber,Yes,8,73.3,575.18,2,competitor offer,Yes
+C101146,2021-08-25,two-year,bank transfer,dsl,No,59,36.4,2125.72,5,N/A,No
+C101147,2026-04-01,one-year,bank transfer,fiber,No,3,86.76,unknown,1,N/A,No
+C101148,2025-06-05,month-to-month,card,dsl,No,13,,1039.33,2,N/A,No
+C101149,2020-07-31,month-to-month,mailed check,fiber,No,72,72.01,5328.91,0,N/A,No
+C101150,2022-10-19,month-to-month,electronic check,fiber,No,45,78.02,3440.03,,N/A,No
+C101151,2020-08-30,one-year,card,none,No,71,18.0,1303.09,2,N/A,No
+C101152,2023-06-16,one-year,electronic check,none,Yes,37,65.03,2500.27,1,N/A,No
+C101153,2024-04-11,two-year,bank transfer,fiber,No,27,68.54,1946.87,,N/A,No
+C101154,2023-08-15,month-to-month,electronic check,dsl,No,35,60.74,1998.38,3,N/A,No
+C101155,2025-12-02,month-to-month,electronic check,,No,7,119.26,877.87,1,moved,Yes
+C101156,2025-06-05,one-year,mailed check,fiber,Yes,13,,949.88,2,N/A,No
+C101157,2025-09-03,two-year,card,fiber,No,10,47.99,500.23,5,N/A,No
+C101158,2025-10-03,one-year,mailed check,dsl,No,9,43.78,393.77,1,N/A,No
+C101159,2020-07-31,month-to-month,bank transfer,dsl,No,72,56.28,4093.94,1,N/A,No
+C101160,2025-07-05,two-year,card,dsl,No,12,103.49,1206.3,0,N/A,No
+C101161,2022-08-20,month-to-month,bank transfer,dsl,No,47,69.14,3340.06,1,N/A,No
+C101162,2026-04-01,two-year,bank transfer,fiber,Yes,3,77.26,236.5,2,N/A,No
+C101163,2026-05-01,month-to-month,mailed check,fiber,No,2,100.51,197.63,1,N/A,No
+C101164,2024-05-11,month-to-month,bank transfer,fiber,No,26,111.01,2832.12,0,N/A,No
+C101165,2023-04-17,two-year,card,fiber,No,39,65.5,2619.67,3,N/A,No
+C101166,2025-11-02,month-to-month,electronic check,none,No,8,65.9,543.43,1,price,Yes
+C101167,2024-11-07,two-year,bank transfer,fiber,No,20,101.22,2070.69,0,N/A,No
+C101168,2021-07-26,one-year,electronic check,dsl,Yes,60,74.18,4398.92,0,N/A,No
+C101169,2021-12-23,month-to-month,card,none,No,55,18.0,989.88,1,N/A,No
+C101170,2025-08-04,month-to-month,mailed check,none,Yes,11,38.62,436.7,1,N/A,No
+C101171,2020-07-31,one-year,mailed check,dsl,No,72,95.1,7018.0,1,N/A,No
+C101172,2020-12-28,month-to-month,card,dsl,No,67,58.25,4034.23,0,N/A,No
+C101173,2022-07-21,two-year,bank transfer,fiber,No,48,130.0,6265.45,5,N/A,No
+C101174,2026-01-01,two-year,card,dsl,No,6,65.95,387.26,1,N/A,No
+C101175,2025-06-05,month-to-month,bank transfer,fiber,No,13,59.85,784.66,2,service quality,Yes
+C101176,2023-09-14,month-to-month,card,dsl,No,34,77.46,2668.95,1,N/A,No
+C101177,2024-08-09,two-year,mailed check,fiber,No,23,88.85,2010.51,2,N/A,No
+C101178,2024-05-11,month-to-month,card,none,No,26,52.78,1390.5,0,N/A,No
+C101179,2023-08-15,month-to-month,electronic check,fiber,Yes,35,77.44,2641.71,0,N/A,No
+C101180,2024-02-11,month-to-month,electronic check,dsl,No,29,93.2,2723.18,0,N/A,No
+C101181,2023-01-17,month-to-month,bank transfer,none,No,42,22.08,910.35,1,N/A,No
+C101182,2020-10-29,month-to-month,card,fiber,No,69,85.3,6258.61,2,N/A,No
+C101183,2024-01-12,one-year,mailed check,none,No,30,18.0,559.21,1,N/A,No
+C101184,2025-01-06,two-year,card,dsl,No,18,46.69,846.89,1,N/A,No
+C101185,2024-06-10,two-year,card,dsl,No,25,68.91,1654.49,2,N/A,No
+C101186,2025-10-03,month-to-month,bank transfer,fiber,No,9,67.86,588.1,,competitor offer,Yes
+C101187,2024-04-11,month-to-month,electronic check,fiber,No,27,72.45,1996.79,0,competitor offer,Yes
+C101188,2021-12-23,month-to-month,bank transfer,fiber,No,55,77.84,4261.0,1,N/A,No
+C101189,2026-04-01,two-year,card,fiber,No,3,88.04,266.51,3,N/A,No
+C101190,2026-03-02,month-to-month,electronic check,dsl,No,4,81.42,310.21,3,competitor offer,Yes
+C101191,2022-06-21,month-to-month,electronic check,dsl,No,49,81.47,3810.94,1,N/A,No
+C101192,2025-05-06,two-year,electronic check,dsl,No,14,87.15,1224.08,0,N/A,No
+C101193,2024-08-09,month-to-month,bank transfer,fiber,No,23,87.0,1988.11,2,price,Yes
+C101194,2023-09-14,month-to-month,bank transfer,fiber,No,34,70.36,2296.08,3,N/A,No
+C101195,2020-07-31,one-year,card,dsl,No,72,29.27,2056.42,1,N/A,No
+C101196,2022-07-21,month-to-month,bank transfer,none,No,48,26.75,1313.99,2,N/A,No
+C101197,2022-07-21,two-year,electronic check,fiber,No,48,64.8,3069.21,1,N/A,No
+C101198,2023-02-16,month-to-month,bank transfer,fiber,No,41,42.16,1758.06,4,N/A,No
+C101199,2025-07-05,month-to-month,mailed check,fiber,No,12,119.08,1499.55,2,service quality,Yes
+C101200,2023-09-14,month-to-month,card,none,No,34,18.0,618.08,0,N/A,No
+C101201,2020-12-28,one-year,electronic check,fiber,No,67,90.39,6078.35,3,N/A,No
+C101202,2026-05-31,month-to-month,electronic check,none,No,1,46.83,45.98,1,N/A,No
+C101203,2026-04-01,two-year,mailed check,dsl,No,3,59.28,184.3,2,N/A,No
+C101204,2023-05-17,two-year,mailed check,fiber,No,38,130.0,4724.86,1,N/A,No
+C101205,2025-11-02,two-year,card,dsl,No,8,64.96,502.45,1,N/A,No
+C101206,2024-12-07,month-to-month,mailed check,fiber,No,19,65.46,1242.82,0,N/A,No
+C101207,2023-12-13,month-to-month,bank transfer,dsl,No,31,103.66,3070.75,1,N/A,No
+C101208,2020-07-31,month-to-month,electronic check,fiber,No,72,64.71,4795.32,2,N/A,No
+C101209,2024-07-10,two-year,mailed check,none,No,24,18.0,423.81,0,N/A,No
+C101210,2024-02-11,one-year,electronic check,dsl,No,29,42.13,1240.94,1,N/A,No
+C101211,2021-07-26,month-to-month,electronic check,dsl,No,60,50.22,2984.62,1,N/A,No
+C101212,2025-06-05,one-year,card,dsl,Yes,13,65.52,845.15,0,N/A,No
+C101213,2025-12-02,two-year,electronic check,fiber,No,7,90.02,630.27,2,N/A,No
+C101214,2021-08-25,two-year,card,none,No,59,18.0,999.23,2,N/A,No
+C101215,2026-05-01,one-year,bank transfer,fiber,No,2,90.3,174.66,2,N/A,No
+C101216,2026-01-31,two-year,bank transfer,none,No,5,,415.18,3,N/A,No
+C101217,2025-11-02,two-year,mailed check,none,No,8,18.59,158.6,1,N/A,No
+C101218,2023-01-17,month-to-month,electronic check,dsl,No,42,61.57,2648.57,0,service quality,Yes
+C101219,2022-12-18,month-to-month,electronic check,dsl,No,43,80.01,3514.42,2,N/A,No
+C101220,2023-06-16,one-year,card,dsl,No,37,91.36,3274.34,2,N/A,No
+C101221,2022-04-22,month-to-month,bank transfer,none,No,51,,1027.21,1,N/A,No
+C101222,2025-07-05,month-to-month,mailed check,fiber,No,12,61.05,759.82,0,competitor offer,Yes
+C101223,2024-11-07,two-year,card,dsl,Yes,20,42.01,858.99,1,N/A,No
+C101224,2025-04-06,one-year,mailed check,dsl,No,15,88.96,1439.2,0,N/A,No
+C101225,2024-06-10,month-to-month,bank transfer,none,Yes,25,54.59,1309.27,1,N/A,No
+C101226,2024-06-10,two-year,bank transfer,fiber,No,25,34.22,827.69,2,N/A,No
+C101227,2025-11-02,month-to-month,bank transfer,,Yes,8,18.0,142.83,0,N/A,No
+C101228,2023-11-13,two-year,bank transfer,fiber,No,32,54.9,1704.99,0,N/A,No
+C101229,2023-05-17,two-year,bank transfer,fiber,Yes,38,49.04,1866.0,2,N/A,No
+C101230,2023-02-16,month-to-month,bank transfer,fiber,No,41,91.64,3815.07,2,N/A,No
+C101231,2024-10-08,month-to-month,electronic check,dsl,No,21,69.41,1456.71,1,price,Yes
+C101232,2024-02-11,month-to-month,card,fiber,No,29,126.24,3671.21,0,service quality,Yes
+C101233,2024-12-07,two-year,card,none,No,19,52.24,1004.4,1,N/A,No
+C101234,2026-03-02,month-to-month,bank transfer,fiber,No,4,85.23,348.76,3,moved,Yes
+C101235,2021-12-23,month-to-month,card,fiber,No,55,108.86,5867.28,1,competitor offer,Yes
+C101236,2021-11-23,two-year,bank transfer,dsl,Yes,56,44.6,2446.83,2,N/A,No
+C101237,2025-08-04,one-year,bank transfer,fiber,No,11,51.31,584.47,4,N/A,No
+C101238,2024-11-07,one-year,electronic check,fiber,Yes,20,83.25,1647.61,0,N/A,No
+C101239,2024-02-11,one-year,card,dsl,No,29,85.48,2416.35,1,N/A,No
+C101240,2023-09-14,month-to-month,bank transfer,fiber,No,34,46.36,1589.24,1,price,Yes
+C101241,2024-04-11,month-to-month,electronic check,none,Yes,27,54.49,1455.3,1,N/A,No
+C101242,2024-07-10,month-to-month,bank transfer,fiber,No,24,101.7,2448.86,3,competitor offer,Yes
+C101243,2024-01-12,month-to-month,electronic check,none,No,30,23.33,698.36,1,N/A,No
+C101244,2026-01-01,month-to-month,electronic check,dsl,No,6,68.29,417.39,2,price,Yes
+C101245,2024-02-11,one-year,card,none,No,29,28.4,845.97,0,N/A,No
+C101246,2024-10-08,one-year,bank transfer,fiber,No,21,84.33,1726.34,0,N/A,No
+C101247,2020-07-31,one-year,electronic check,none,No,72,52.55,3644.55,1,N/A,No
+C101248,2020-07-31,month-to-month,bank transfer,fiber,No,72,64.57,4870.29,1,N/A,No
+C101249,2023-09-14,month-to-month,electronic check,fiber,No,34,105.75,3520.48,1,service quality,Yes
+C101250,2025-01-06,two-year,mailed check,,No,18,83.96,1440.46,1,N/A,No
+C101251,2022-11-18,month-to-month,electronic check,dsl,No,44,84.79,3517.25,3,moved,Yes
+C101252,2025-08-04,month-to-month,bank transfer,dsl,No,11,20.51,225.29,,N/A,No
+C101253,2021-05-27,month-to-month,electronic check,dsl,No,62,22.92,1393.1,1,N/A,No
+C101254,2024-11-07,two-year,bank transfer,fiber,No,20,97.98,1851.27,3,N/A,No
+C101255,2024-04-11,month-to-month,card,fiber,Yes,27,69.41,1820.14,0,N/A,No
+C101256,2025-08-04,month-to-month,card,dsl,No,11,49.08,522.53,0,N/A,No
+C101257,2025-06-05,month-to-month,electronic check,dsl,No,13,47.43,634.79,1,N/A,No
+C101258,2020-07-31,one-year,mailed check,dsl,No,72,34.52,2502.03,0,N/A,No
+C101259,2023-06-16,two-year,electronic check,dsl,No,37,58.1,2148.1,1,N/A,No
+C101260,2024-11-07,one-year,card,none,No,20,18.36,353.05,1,N/A,No
+C101261,2022-05-22,month-to-month,mailed check,fiber,No,50,67.86,3373.19,2,N/A,No
+C101262,2024-10-08,month-to-month,bank transfer,none,No,21,45.21,967.88,0,price,Yes
+C101263,2024-01-12,one-year,card,fiber,No,30,56.08,1689.71,1,N/A,No
+C101264,2023-11-13,two-year,electronic check,dsl,No,32,89.64,2958.13,1,N/A,No
+C101265,2025-05-06,month-to-month,bank transfer,none,No,14,18.0,252.48,3,N/A,No
+C101266,2024-06-10,one-year,card,fiber,No,25,130.0,3316.06,5,price,Yes
+C101267,2022-10-19,month-to-month,electronic check,dsl,No,45,34.1,1554.85,0,service quality,Yes
+C101268,2023-09-14,month-to-month,electronic check,fiber,No,34,95.54,3191.64,0,price,Yes
+C101269,2025-12-02,month-to-month,mailed check,fiber,No,7,,748.94,4,service quality,Yes
+C101270,2024-12-07,one-year,card,fiber,No,19,82.41,1582.07,1,N/A,No
+C101271,2020-07-31,two-year,,dsl,No,72,81.15,5984.61,1,N/A,No
+C101272,2025-08-04,one-year,electronic check,fiber,No,11,80.08,852.34,0,N/A,No
+C101273,2025-04-06,month-to-month,card,none,No,15,18.0,261.08,0,N/A,No
+C101274,2024-05-11,one-year,bank transfer,fiber,No,26,90.21,2331.71,1,N/A,No
+C101275,2025-11-02,month-to-month,electronic check,fiber,No,8,108.1,843.51,0,moved,Yes
+C101276,2026-03-02,month-to-month,bank transfer,fiber,No,4,70.16,285.72,6,competitor offer,Yes
+C101277,2021-07-26,month-to-month,card,fiber,No,60,44.51,2702.13,1,N/A,No
+C101278,2026-01-31,month-to-month,electronic check,fiber,No,5,69.02,357.63,0,N/A,No
+C101279,2022-03-23,month-to-month,card,fiber,No,52,89.77,4748.29,2,N/A,No
+C101280,2024-02-11,month-to-month,bank transfer,fiber,No,29,89.26,2499.62,5,price,Yes
+C101281,2023-11-13,month-to-month,bank transfer,fiber,No,32,107.24,3527.67,3,service quality,Yes
+C101282,2020-07-31,month-to-month,mailed check,dsl,No,72,76.98,5431.9,1,N/A,No
+C101283,2025-10-03,month-to-month,electronic check,fiber,No,9,93.85,825.67,2,moved,Yes
+C101284,2026-01-01,two-year,bank transfer,dsl,No,6,19.67,118.18,2,N/A,No
+C101285,2022-03-23,two-year,mailed check,fiber,No,52,130.0,6755.02,2,N/A,No
+C101286,2022-02-21,month-to-month,bank transfer,fiber,Yes,53,83.6,4566.54,3,N/A,No
+C101287,2023-10-14,one-year,electronic check,fiber,No,33,101.83,3643.73,3,N/A,No
+C101288,2025-07-05,two-year,card,fiber,No,12,74.74,907.85,3,N/A,No
+C101289,2025-11-02,month-to-month,electronic check,none,No,8,31.1,259.54,1,N/A,No
+C101290,2024-11-07,one-year,electronic check,dsl,No,20,65.84,1307.84,1,N/A,No
+C101291,2023-10-14,month-to-month,electronic check,fiber,No,33,117.81,3925.17,1,N/A,No
+C101292,2025-10-03,one-year,bank transfer,fiber,No,9,116.5,1031.74,1,N/A,No
+C101293,2022-04-22,two-year,card,,No,51,48.38,2434.93,0,N/A,No
+C101294,2025-04-06,month-to-month,electronic check,dsl,No,15,,1700.55,0,N/A,No
+C101295,2024-12-07,two-year,mailed check,dsl,Yes,19,55.69,1071.98,1,N/A,No
+C101296,2022-04-22,one-year,bank transfer,dsl,No,51,76.16,3934.25,2,N/A,No
+C101297,2025-02-05,one-year,card,fiber,No,17,72.34,1199.68,1,N/A,No
+C101298,2022-06-21,one-year,card,dsl,No,49,93.61,4819.73,,N/A,No
+C101299,2024-02-11,two-year,mailed check,fiber,No,29,83.4,2404.59,0,N/A,No
+C101300,2025-06-05,month-to-month,card,dsl,No,13,,1102.43,,N/A,No
+C101301,2025-04-06,one-year,card,fiber,No,15,121.27,1817.15,0,N/A,No
+C101302,2023-08-15,month-to-month,card,dsl,No,35,18.12,646.71,2,N/A,No
+C101303,2023-01-17,month-to-month,mailed check,fiber,No,42,130.0,5580.03,3,competitor offer,Yes
+C101304,2022-12-18,one-year,bank transfer,fiber,No,43,89.79,4029.28,2,N/A,No
+C101305,2021-10-24,month-to-month,electronic check,dsl,No,57,57.48,3170.74,2,N/A,No
+C101306,2023-02-16,month-to-month,electronic check,none,No,41,18.0,728.15,0,N/A,No
+C101307,2023-05-17,one-year,bank transfer,fiber,No,38,75.86,3016.12,0,N/A,No
+C101308,2024-10-08,two-year,electronic check,fiber,No,21,31.01,695.27,2,N/A,No
+C101309,2024-07-10,one-year,bank transfer,fiber,Yes,24,84.65,1992.47,0,N/A,No
+C101310,2025-09-03,month-to-month,bank transfer,dsl,Yes,10,60.85,606.48,1,N/A,No
+C101311,2025-03-07,one-year,bank transfer,none,No,16,75.65,1153.86,0,N/A,No
+C101312,2024-06-10,month-to-month,card,fiber,No,25,75.34,1836.25,2,N/A,No
+C101313,2024-12-07,one-year,electronic check,fiber,Yes,19,106.8,1974.64,2,moved,Yes
+C101314,2026-03-02,one-year,card,fiber,Yes,4,108.91,434.11,1,N/A,No
+C101315,2025-10-03,one-year,card,none,No,9,81.1,703.56,0,N/A,No
+C101316,2021-03-28,month-to-month,mailed check,fiber,Yes,64,77.14,5072.5,1,N/A,No
+C101317,2025-11-02,month-to-month,bank transfer,fiber,No,8,99.83,796.94,1,service quality,Yes
+C101318,2021-10-24,one-year,card,dsl,No,57,30.54,1726.88,,N/A,No
+C101319,2023-11-13,month-to-month,electronic check,none,No,32,18.0,591.66,2,price,Yes
+C101320,2023-05-17,one-year,bank transfer,dsl,No,38,58.59,2207.74,0,N/A,No
+C101321,2023-04-17,month-to-month,card,fiber,No,39,82.22,3086.23,1,N/A,No
+C101322,2025-02-05,month-to-month,bank transfer,fiber,No,17,55.4,942.2,0,N/A,No
+C101323,2025-06-05,month-to-month,electronic check,dsl,No,13,55.48,767.83,4,N/A,No
+C101324,2025-03-07,one-year,card,none,No,16,50.55,810.91,0,N/A,No
+C101325,2023-02-16,two-year,mailed check,dsl,No,41,54.49,2268.24,0,N/A,No
+C101326,2025-09-03,two-year,electronic check,fiber,Yes,10,79.29,787.92,1,N/A,No
+C101327,2024-05-11,month-to-month,bank transfer,dsl,Yes,26,44.74,1155.16,0,N/A,No
+C101328,2024-01-12,one-year,mailed check,dsl,No,30,95.92,2919.98,1,N/A,No
+C101329,2023-07-16,month-to-month,card,dsl,No,36,104.89,3475.66,2,N/A,No
+C101330,2023-10-14,one-year,card,dsl,No,33,69.43,2205.27,0,N/A,No
+C101331,2025-12-02,month-to-month,mailed check,none,Yes,7,32.23,221.51,1,moved,Yes
+C101332,2020-07-31,month-to-month,bank transfer,none,No,72,72.35,5165.28,2,N/A,No
+C101333,2025-04-06,month-to-month,card,dsl,No,15,75.62,1183.21,0,N/A,No
+C101334,2023-03-18,month-to-month,electronic check,dsl,No,40,49.73,2134.51,2,N/A,No
+C101335,2024-08-09,one-year,electronic check,,No,23,52.43,1228.19,3,N/A,No
+C101336,2024-09-08,one-year,electronic check,,No,22,69.55,1547.76,2,N/A,No
+C101337,2025-03-07,one-year,card,fiber,Yes,16,,2121.69,1,N/A,No
+C101338,2021-03-28,month-to-month,card,dsl,No,64,51.47,3441.38,3,N/A,No
+C101339,2024-12-07,one-year,bank transfer,dsl,No,19,130.0,2396.35,2,N/A,No
+C101340,2025-11-02,month-to-month,card,none,No,8,34.81,274.27,2,N/A,No
+C101341,2025-12-02,one-year,card,none,No,7,,210.83,1,N/A,No
+C101342,2025-04-06,month-to-month,electronic check,fiber,No,15,112.71,1705.08,0,price,Yes
+C101343,2022-05-22,one-year,bank transfer,fiber,No,50,77.34,3645.8,5,N/A,No
+C101344,2025-01-06,month-to-month,,fiber,No,18,91.42,1666.1,2,moved,Yes
+C101345,2024-05-11,month-to-month,mailed check,,No,26,41.42,1025.29,,N/A,No
+C101346,2022-03-23,month-to-month,bank transfer,none,No,52,18.0,957.08,0,N/A,No
+C101347,2022-12-18,month-to-month,mailed check,dsl,No,43,48.24,2126.03,,N/A,No
+C101348,2022-09-19,month-to-month,electronic check,fiber,No,46,87.91,3768.65,0,N/A,No
+C101349,2023-04-17,one-year,electronic check,fiber,No,39,67.9,2686.9,1,N/A,No
+C101350,2024-05-11,two-year,bank transfer,dsl,Yes,26,20.59,538.27,0,N/A,No
+C101351,2024-02-11,month-to-month,electronic check,none,No,29,45.65,1298.84,0,price,Yes
+C101352,2023-07-16,month-to-month,card,dsl,No,36,61.19,2264.66,1,moved,Yes
+C101353,2024-01-12,one-year,card,fiber,Yes,30,76.6,2434.78,1,N/A,No
+C101354,2024-04-11,month-to-month,mailed check,fiber,No,27,69.07,1891.84,2,N/A,No
+C101355,2025-02-05,two-year,card,dsl,No,17,18.0,295.87,2,N/A,No
+C101356,2025-07-05,month-to-month,bank transfer,none,No,12,70.79,812.48,2,N/A,No
+C101357,2024-10-08,month-to-month,electronic check,fiber,No,21,72.08,1460.08,2,service quality,Yes
+C101358,2025-06-05,month-to-month,bank transfer,fiber,No,13,94.82,1194.61,2,competitor offer,Yes
+C101359,2026-01-01,month-to-month,bank transfer,fiber,No,6,114.36,708.92,,service quality,Yes
+C101360,2022-08-20,month-to-month,mailed check,fiber,No,47,108.42,5137.39,2,N/A,No
+C101361,2025-09-03,month-to-month,card,fiber,No,10,87.5,873.91,1,competitor offer,Yes
+C101362,2022-09-19,one-year,card,dsl,No,46,65.15,3073.82,2,N/A,No
+C101363,2023-05-17,two-year,mailed check,dsl,No,38,71.86,2730.99,0,N/A,No
+C101364,2024-06-10,month-to-month,card,dsl,No,25,85.42,2136.78,4,competitor offer,Yes
+C101365,2020-11-28,one-year,bank transfer,fiber,No,68,96.02,6362.14,1,N/A,No
+C101366,2025-12-02,month-to-month,,fiber,No,7,72.86,500.29,3,service quality,Yes
+C101367,2024-05-11,one-year,bank transfer,dsl,No,26,75.11,1953.76,1,N/A,No
+C101368,2021-07-26,month-to-month,mailed check,dsl,Yes,60,73.48,4252.66,2,N/A,No
+C101369,2023-12-13,month-to-month,electronic check,fiber,No,31,98.64,3208.33,1,service quality,Yes
+C101370,2025-06-05,two-year,electronic check,dsl,No,13,69.58,907.47,2,N/A,No
+C101371,2025-11-02,one-year,card,none,No,8,65.89,518.23,1,N/A,No
+C101372,2024-05-11,month-to-month,card,fiber,No,26,87.51,2340.6,0,competitor offer,Yes
+C101373,2026-01-01,month-to-month,electronic check,none,Yes,6,55.02,319.52,1,service quality,Yes
+C101374,2022-12-18,two-year,electronic check,fiber,No,43,83.95,3722.43,,N/A,No
+C101375,2023-05-17,two-year,card,fiber,No,38,70.0,2665.53,0,N/A,No
+C101376,2026-05-01,one-year,card,none,No,2,18.0,38.01,0,N/A,No
+C101377,2025-03-07,two-year,card,none,No,16,31.38,493.6,1,N/A,No
+C101378,2021-07-26,two-year,card,fiber,No,60,95.07,5633.83,0,N/A,No
+C101379,2023-02-16,one-year,bank transfer,dsl,No,41,93.59,3738.54,3,N/A,No
+C101380,2025-09-03,one-year,bank transfer,dsl,No,10,,605.62,2,N/A,No
+C101381,2025-11-02,month-to-month,electronic check,fiber,No,8,71.23,573.84,2,N/A,No
+C101382,2025-11-02,month-to-month,card,dsl,Yes,8,53.5,414.25,2,N/A,No
+C101383,2025-07-05,one-year,card,dsl,Yes,12,94.11,1139.55,0,N/A,No
+C101384,2023-08-15,two-year,card,fiber,No,35,85.37,2929.36,1,N/A,No
+C101385,2024-02-11,month-to-month,card,dsl,Yes,29,53.67,1604.73,1,N/A,No
+C101386,2021-05-27,month-to-month,card,dsl,No,62,81.68,4675.22,1,N/A,No
+C101387,2023-09-14,month-to-month,mailed check,dsl,No,34,35.16,1209.73,2,N/A,No
+C101388,2022-06-21,one-year,bank transfer,dsl,No,49,67.61,3315.89,2,N/A,No
+C101389,2024-10-08,month-to-month,card,dsl,No,21,64.01,1343.56,1,N/A,No
+C101390,2025-02-05,one-year,electronic check,fiber,No,17,79.95,1332.71,1,N/A,No
+C101391,2025-06-05,month-to-month,mailed check,fiber,No,13,56.93,778.38,0,N/A,No
+C101392,2025-11-02,one-year,electronic check,,No,8,105.13,830.28,1,N/A,No
+C101393,2020-07-31,one-year,electronic check,dsl,No,72,102.95,7502.84,0,N/A,No
+C101394,2025-08-04,month-to-month,bank transfer,fiber,No,11,53.1,579.2,1,moved,Yes
+C101395,2022-04-22,month-to-month,bank transfer,dsl,No,51,67.69,3413.16,0,N/A,No
+C101396,2025-02-05,month-to-month,bank transfer,none,No,17,49.54,843.94,2,N/A,No
+C101397,2023-07-16,one-year,electronic check,fiber,No,36,130.0,4771.96,0,N/A,No
+C101398,2023-05-17,month-to-month,electronic check,fiber,No,38,73.59,2701.55,2,N/A,No
+C101399,2021-09-24,month-to-month,bank transfer,fiber,No,58,,3519.42,3,N/A,No
+C101400,2025-05-06,month-to-month,mailed check,dsl,No,14,64.89,869.69,0,N/A,No
+C101401,2024-03-12,month-to-month,electronic check,none,No,28,80.42,2277.31,1,N/A,No
+C101402,2025-01-06,two-year,electronic check,dsl,No,18,66.56,1166.83,0,N/A,No
+C101403,2023-05-17,two-year,card,fiber,No,38,88.96,3303.22,3,N/A,No
+C101404,2022-01-22,two-year,card,dsl,No,54,105.04,5779.28,1,N/A,No
+C101405,2025-08-04,two-year,card,fiber,No,11,34.81,382.55,1,N/A,No
+C101406,2022-11-18,one-year,mailed check,dsl,No,44,18.0,801.12,1,N/A,No
+C101407,2024-12-07,month-to-month,electronic check,fiber,No,19,103.46,1956.31,2,service quality,Yes
+C101408,2026-01-31,two-year,mailed check,dsl,No,5,82.47,417.15,1,N/A,No
+C101409,2025-08-04,one-year,electronic check,dsl,No,11,33.72,371.66,1,N/A,No
+C101410,2023-09-14,one-year,electronic check,dsl,No,34,76.67,2518.27,1,N/A,No
+C101411,2024-03-12,one-year,bank transfer,dsl,No,28,65.92,1856.35,1,N/A,No
+C101412,2025-06-05,two-year,electronic check,dsl,No,13,69.89,898.67,1,N/A,No
+C101413,2025-01-06,month-to-month,card,dsl,No,18,46.85,836.74,2,N/A,No
+C101414,2024-05-11,one-year,electronic check,fiber,No,26,72.77,1906.69,1,N/A,No
+C101415,2022-12-18,month-to-month,card,dsl,No,43,45.21,1910.84,2,N/A,No
+C101416,2025-09-03,month-to-month,mailed check,dsl,No,10,66.15,640.13,3,N/A,No
+C101417,2025-10-03,month-to-month,mailed check,dsl,No,9,59.78,556.73,0,N/A,No
+C101418,2022-06-21,month-to-month,card,fiber,No,49,120.95,6249.05,0,N/A,No
+C101419,2024-11-07,month-to-month,electronic check,fiber,Yes,20,97.16,1921.98,2,N/A,No
+C101420,2025-10-03,month-to-month,electronic check,none,No,9,18.0,167.46,2,N/A,No
+C101421,2022-01-22,month-to-month,card,dsl,No,54,74.38,4060.36,0,N/A,No
+C101422,2023-11-13,two-year,electronic check,none,No,32,67.3,2110.9,4,N/A,No
+C101423,2025-05-06,one-year,bank transfer,dsl,Yes,14,71.35,973.32,1,N/A,No
+C101424,2024-08-09,one-year,electronic check,none,No,23,59.5,1356.17,1,N/A,No
+C101425,2024-06-10,two-year,mailed check,none,No,25,34.23,844.23,0,N/A,No
+C101426,2025-09-03,month-to-month,electronic check,dsl,No,10,80.89,800.35,3,N/A,No
+C101427,2025-07-05,month-to-month,card,none,No,12,18.0,215.07,1,N/A,No
+C101428,2021-05-27,month-to-month,electronic check,dsl,No,62,82.74,4953.19,0,N/A,No
+C101429,2023-12-13,month-to-month,electronic check,fiber,No,31,51.9,1649.51,2,competitor offer,Yes
+C101430,2024-04-11,two-year,card,fiber,No,27,112.15,2923.83,1,N/A,No
+C101431,2024-04-11,month-to-month,card,fiber,No,27,48.86,1276.22,1,N/A,No
+C101432,2024-12-07,one-year,bank transfer,dsl,No,19,18.0,351.24,6,N/A,No
+C101433,2024-07-10,two-year,card,dsl,No,24,76.96,1887.92,2,N/A,No
+C101434,2022-07-21,month-to-month,card,dsl,No,48,61.1,3058.65,1,N/A,No
+C101435,2024-12-07,one-year,electronic check,none,No,19,37.57,716.3,2,N/A,No
+C101436,2023-05-17,month-to-month,mailed check,dsl,No,38,74.65,2780.31,1,N/A,No
+C101437,2026-03-02,month-to-month,bank transfer,fiber,No,4,82.38,340.61,1,N/A,No
+C101438,2024-08-09,month-to-month,electronic check,fiber,No,23,63.03,1444.67,2,N/A,No
+C101439,2023-03-18,month-to-month,electronic check,none,Yes,40,39.76,1583.51,2,N/A,No
+C101440,2024-02-11,month-to-month,electronic check,dsl,Yes,29,,2057.49,1,service quality,Yes
+C101441,2025-06-05,month-to-month,electronic check,fiber,Yes,13,94.11,1237.43,0,N/A,No
+C101442,2023-08-15,two-year,card,,No,35,109.81,3568.88,2,N/A,No
+C101443,2021-02-26,month-to-month,mailed check,fiber,No,65,66.42,4382.63,2,N/A,No
+C101444,2026-05-01,month-to-month,card,dsl,Yes,2,66.51,124.97,0,N/A,No
+C101445,2024-04-11,two-year,card,none,Yes,27,47.63,1318.82,0,N/A,No
+C101446,2024-05-11,month-to-month,bank transfer,fiber,No,26,72.91,1806.16,0,N/A,No
+C101447,2024-03-12,two-year,electronic check,dsl,No,28,37.96,1083.88,2,N/A,No
+C101448,2025-10-03,two-year,electronic check,dsl,Yes,9,52.2,504.29,0,N/A,No
+C101449,2021-09-24,one-year,card,none,No,58,59.01,3391.98,1,N/A,No
+C101450,2025-09-03,month-to-month,mailed check,none,Yes,10,28.92,278.92,0,N/A,No
+C101451,2024-08-09,month-to-month,electronic check,fiber,No,23,96.81,2354.85,0,moved,Yes
+C101452,2023-05-17,month-to-month,electronic check,dsl,No,38,48.43,1814.89,1,N/A,No
+C101453,2022-12-18,month-to-month,bank transfer,none,No,43,45.06,1871.77,0,N/A,No
+C101454,2021-02-26,month-to-month,card,fiber,No,65,67.75,4566.6,1,N/A,No
+C101455,2025-09-03,month-to-month,card,dsl,No,10,45.99,420.43,1,price,Yes
+C101456,2025-06-05,two-year,electronic check,fiber,Yes,13,85.53,1061.8,0,moved,Yes
+C101457,2023-01-17,month-to-month,bank transfer,,Yes,42,84.17,3393.63,2,N/A,No
+C101458,2023-07-16,two-year,bank transfer,fiber,No,36,116.25,4095.31,1,N/A,No
+C101459,2024-08-09,one-year,bank transfer,fiber,No,23,46.34,1000.5,2,N/A,No
+C101460,2024-08-09,month-to-month,card,none,No,23,46.48,1094.75,,N/A,No
+C101461,2024-09-08,one-year,bank transfer,fiber,Yes,22,119.37,2705.04,4,N/A,No
+C101462,2024-11-07,month-to-month,card,fiber,No,20,113.73,2269.38,4,moved,Yes
+C101463,2026-01-31,month-to-month,mailed check,dsl,No,5,,278.03,2,N/A,No
+C101464,2021-11-23,two-year,card,dsl,No,56,49.62,2646.73,0,N/A,No
+C101465,2026-01-01,month-to-month,mailed check,none,No,6,23.83,144.9,1,N/A,No
+C101466,2023-09-14,month-to-month,mailed check,dsl,No,34,71.79,2388.06,2,N/A,No
+C101467,2025-05-06,month-to-month,bank transfer,none,No,14,,559.58,4,N/A,No
+C101468,2022-01-22,one-year,electronic check,,No,54,90.89,5055.1,2,N/A,No
+C101469,2025-07-05,month-to-month,electronic check,,No,12,78.51,942.84,0,moved,Yes
+C101470,2025-06-05,month-to-month,bank transfer,fiber,No,13,58.85,716.09,1,N/A,No
+C101471,2022-10-19,one-year,electronic check,none,No,45,18.0,786.75,1,N/A,No
+C101472,2025-09-03,month-to-month,electronic check,,No,10,37.32,388.25,2,N/A,No
+C101473,2023-05-17,one-year,card,fiber,No,38,52.71,2018.3,2,N/A,No
+C101474,2025-02-05,month-to-month,mailed check,none,No,17,32.76,580.32,2,N/A,No
+C101475,2024-09-08,month-to-month,card,dsl,No,22,72.03,unknown,1,N/A,No
+C101476,2022-06-21,month-to-month,card,dsl,No,49,122.14,5961.11,0,N/A,No
+C101477,2022-12-18,one-year,bank transfer,fiber,No,43,95.04,4062.74,1,N/A,No
+C101478,2025-03-07,two-year,bank transfer,none,No,16,35.38,538.16,0,N/A,No
+C101479,2023-09-14,one-year,bank transfer,dsl,Yes,34,97.02,3232.99,1,N/A,No
+C101480,2023-08-15,month-to-month,bank transfer,none,Yes,35,18.43,663.6,2,N/A,No
+C101481,2023-03-18,month-to-month,bank transfer,fiber,No,40,90.66,3683.22,1,price,Yes
+C101482,2025-04-06,month-to-month,,dsl,No,15,86.97,1282.85,0,N/A,No
+C101483,2020-07-31,month-to-month,mailed check,fiber,No,72,100.75,7320.9,2,N/A,No
+C101484,2025-06-05,month-to-month,bank transfer,dsl,No,13,74.11,997.34,2,N/A,No
+C101485,2025-12-02,month-to-month,card,dsl,Yes,7,57.13,386.74,1,N/A,No
+C101486,2024-12-07,two-year,electronic check,dsl,Yes,19,36.98,708.4,3,N/A,No
+C101487,2024-05-11,one-year,card,none,Yes,26,31.54,845.27,1,N/A,No
+C101488,2020-07-31,two-year,bank transfer,fiber,Yes,72,69.56,4902.06,1,N/A,No
+C101489,2025-08-04,one-year,electronic check,none,No,11,,577.36,0,N/A,No
+C101490,2024-09-08,month-to-month,card,fiber,No,22,79.92,1752.54,1,competitor offer,Yes
+C101491,2025-05-06,month-to-month,electronic check,fiber,Yes,14,95.67,1383.26,2,service quality,Yes
+C101492,2024-06-10,month-to-month,electronic check,fiber,No,25,46.69,1198.98,1,price,Yes
+C101493,2024-11-07,month-to-month,bank transfer,fiber,No,20,104.95,2114.56,2,price,Yes
+C101494,2022-01-22,month-to-month,card,dsl,No,54,45.77,2448.68,0,N/A,No
+C101495,2025-07-05,one-year,bank transfer,dsl,Yes,12,29.76,349.91,1,N/A,No
+C101496,2025-05-06,month-to-month,card,fiber,No,14,51.95,730.64,2,N/A,No
+C101497,2023-09-14,month-to-month,electronic check,dsl,No,34,50.83,1738.3,1,N/A,No
+C101498,2024-07-10,month-to-month,electronic check,,No,24,60.34,1508.46,3,N/A,No
+C101499,2022-06-21,one-year,bank transfer,dsl,No,49,81.09,3961.23,0,N/A,No
+C101500,2025-04-06,one-year,electronic check,dsl,No,15,38.53,583.8,0,N/A,No
+C101501,2022-10-19,one-year,electronic check,none,No,45,36.95,1746.05,1,N/A,No
+C101502,2025-03-07,month-to-month,,fiber,Yes,16,80.63,1302.01,1,N/A,No
+C101503,2025-07-05,month-to-month,bank transfer,none,No,12,18.0,218.86,5,N/A,No
+C101504,2023-01-17,month-to-month,bank transfer,fiber,No,42,60.65,2669.11,1,N/A,No
+C101505,2024-02-11,month-to-month,mailed check,fiber,No,29,37.04,1076.62,0,moved,Yes
+C101506,2024-03-12,one-year,bank transfer,dsl,No,28,45.38,1285.3,2,N/A,No
+C101507,2025-10-03,two-year,bank transfer,fiber,No,9,23.22,213.62,,N/A,No
+C101508,2025-04-06,one-year,mailed check,fiber,No,15,65.06,972.04,0,N/A,No
+C101509,2024-02-11,month-to-month,bank transfer,dsl,Yes,29,43.89,1229.73,2,N/A,No
+C101510,2025-05-06,month-to-month,electronic check,fiber,No,14,65.03,870.06,4,competitor offer,Yes
+C101511,2025-09-03,two-year,card,fiber,Yes,10,64.43,640.1,3,N/A,No
+C101512,2025-05-06,two-year,bank transfer,fiber,No,14,109.07,1577.83,2,N/A,No
+C101513,2024-09-08,one-year,card,fiber,No,22,75.15,1701.96,4,N/A,No
+C101514,2025-11-02,month-to-month,mailed check,dsl,No,8,70.44,590.82,1,competitor offer,Yes
+C101515,2022-12-18,month-to-month,electronic check,dsl,No,43,82.02,3621.18,1,N/A,No
+C101516,2026-01-01,one-year,card,fiber,No,6,103.3,607.47,1,moved,Yes
+C101517,2024-12-07,two-year,card,dsl,No,19,80.33,1458.97,0,N/A,No
+C101518,2024-05-11,month-to-month,bank transfer,fiber,Yes,26,70.52,1804.3,0,N/A,No
+C101519,2025-05-06,month-to-month,card,fiber,No,14,58.27,808.93,2,service quality,Yes
+C101520,2024-09-08,month-to-month,bank transfer,none,No,22,18.0,387.0,2,N/A,No
+C101521,2026-03-02,month-to-month,electronic check,fiber,No,4,72.35,297.27,3,competitor offer,Yes
+C101522,2025-04-06,two-year,bank transfer,fiber,No,15,83.11,1216.46,3,N/A,No
+C101523,2023-08-15,one-year,card,fiber,No,35,81.06,2885.19,1,N/A,No
+C101524,2024-04-11,two-year,bank transfer,fiber,No,27,107.69,2974.5,3,N/A,No
+C101525,2025-01-06,month-to-month,card,fiber,Yes,18,80.68,1375.77,3,competitor offer,Yes
+C101526,2023-12-13,month-to-month,electronic check,fiber,No,31,123.38,3774.5,1,N/A,No
+C101527,2025-02-05,one-year,card,fiber,Yes,17,106.2,1872.59,2,service quality,Yes
+C101528,2025-02-05,one-year,electronic check,fiber,No,17,72.14,1256.85,3,competitor offer,Yes
+C101529,2023-04-17,month-to-month,bank transfer,,No,39,84.38,3301.32,2,N/A,No
+C101530,2025-02-05,month-to-month,electronic check,fiber,Yes,17,18.25,299.8,2,N/A,No
+C101531,2025-06-05,one-year,electronic check,fiber,Yes,13,114.02,1450.34,0,service quality,Yes
+C101532,2023-02-16,one-year,card,fiber,No,41,92.27,3791.2,2,N/A,No
+C101533,2020-07-31,month-to-month,,fiber,No,72,91.94,6866.97,3,N/A,No
+C101534,2026-04-01,month-to-month,mailed check,fiber,No,3,45.08,137.17,2,price,Yes
+C101535,2021-11-23,two-year,,dsl,No,56,121.75,6797.0,1,N/A,No
+C101536,2020-12-28,month-to-month,electronic check,none,No,67,,1973.89,0,N/A,No
+C101537,2025-06-05,one-year,bank transfer,dsl,No,13,61.77,821.37,,N/A,No
+C101538,2025-12-02,month-to-month,card,dsl,No,7,90.34,598.83,0,N/A,No
+C101539,2025-09-03,month-to-month,electronic check,dsl,No,10,60.63,588.01,2,N/A,No
+C101540,2023-06-16,month-to-month,electronic check,dsl,No,37,45.84,1696.82,2,N/A,No
+C101541,2025-07-05,month-to-month,card,dsl,No,12,79.82,992.1,4,service quality,Yes
+C101542,2026-03-02,month-to-month,card,dsl,No,4,42.17,174.06,0,N/A,No
+C101543,2026-01-31,month-to-month,bank transfer,fiber,No,5,99.71,486.65,3,price,Yes
+C101544,2023-11-13,month-to-month,electronic check,dsl,No,32,68.09,2179.38,0,N/A,No
+C101545,2024-08-09,month-to-month,bank transfer,dsl,Yes,23,90.36,2031.06,2,moved,Yes
+C101546,2024-08-09,month-to-month,mailed check,dsl,No,23,37.74,857.41,0,N/A,No
+C101547,2025-01-06,two-year,electronic check,dsl,Yes,18,93.02,1680.74,2,N/A,No
+C101548,2022-05-22,month-to-month,mailed check,fiber,No,50,89.61,4429.55,4,N/A,No
+C101549,2025-01-06,month-to-month,electronic check,dsl,No,18,109.42,1935.56,0,price,Yes
+C101550,2024-07-10,two-year,electronic check,fiber,No,24,68.34,1582.02,1,N/A,No
+C101551,2022-06-21,month-to-month,mailed check,fiber,No,49,124.78,5820.45,1,N/A,No
+C101552,2023-10-14,month-to-month,card,dsl,No,33,80.83,2650.56,1,N/A,No
+C101553,2025-12-02,month-to-month,electronic check,dsl,No,7,82.75,582.26,0,N/A,No
+C101554,2021-03-28,month-to-month,card,fiber,No,64,66.63,4340.87,4,N/A,No
+C101555,2025-08-04,month-to-month,electronic check,dsl,No,11,77.56,831.78,0,moved,Yes
+C101556,2025-11-02,two-year,card,fiber,No,8,98.07,767.12,0,N/A,No
+C101557,2023-11-13,two-year,electronic check,fiber,No,32,64.3,2134.28,3,N/A,No
+C101558,2026-01-01,month-to-month,bank transfer,fiber,No,6,56.96,345.82,2,N/A,No
+C101559,2025-05-06,month-to-month,electronic check,dsl,No,14,47.6,683.69,1,N/A,No
+C101560,2022-11-18,two-year,electronic check,fiber,No,44,115.9,5009.82,1,N/A,No
+C101561,2023-11-13,month-to-month,mailed check,dsl,No,32,68.52,2144.41,0,N/A,No
+C101562,2024-08-09,one-year,mailed check,fiber,No,23,,2309.66,3,N/A,No
+C101563,2022-02-21,two-year,bank transfer,fiber,No,53,89.5,4881.55,2,N/A,No
+C101564,2025-04-06,one-year,electronic check,fiber,No,15,85.61,1239.71,1,N/A,No
+C101565,2025-09-03,two-year,card,fiber,No,10,,833.77,2,N/A,No
+C101566,2022-05-22,month-to-month,card,none,No,50,25.75,1257.87,,N/A,No
+C101567,2021-08-25,two-year,electronic check,none,No,59,62.47,3823.28,0,N/A,No
+C101568,2024-06-10,month-to-month,mailed check,none,No,25,38.89,972.48,0,N/A,No
+C101569,2023-10-14,month-to-month,,fiber,No,33,88.06,2924.63,1,moved,Yes
+C101570,2023-07-16,month-to-month,bank transfer,dsl,No,36,33.86,1222.5,3,N/A,No
+C101571,2024-10-08,month-to-month,electronic check,fiber,No,21,89.95,1885.25,1,moved,Yes
+C101572,2026-05-01,one-year,electronic check,fiber,No,2,67.81,134.86,1,moved,Yes
+C101573,2023-07-16,two-year,electronic check,dsl,Yes,36,53.72,1851.52,2,N/A,No
+C101574,2025-02-05,month-to-month,bank transfer,fiber,No,17,106.32,1896.39,1,service quality,Yes
+C101575,2024-03-12,month-to-month,mailed check,fiber,No,28,58.43,1627.59,1,service quality,Yes
+C101576,2024-09-08,month-to-month,bank transfer,none,No,22,30.5,694.96,2,N/A,No
+C101577,2022-05-22,month-to-month,mailed check,fiber,No,50,97.14,4626.88,3,N/A,No
+C101578,2023-12-13,two-year,electronic check,dsl,No,31,90.91,2862.18,4,N/A,No
+C101579,2024-08-09,two-year,electronic check,fiber,Yes,23,,1581.64,3,N/A,No
+C101580,2026-05-01,two-year,electronic check,fiber,No,2,90.18,173.27,2,N/A,No
+C101581,2025-03-07,one-year,mailed check,dsl,No,16,71.42,1151.14,2,N/A,No
+C101582,2021-05-27,one-year,mailed check,fiber,Yes,62,57.6,3679.21,2,N/A,No
+C101583,2020-07-31,month-to-month,bank transfer,fiber,Yes,72,34.86,2611.15,0,N/A,No
+C101584,2023-02-16,month-to-month,bank transfer,fiber,No,41,39.64,1689.0,1,N/A,No
+C101585,2024-05-11,month-to-month,electronic check,fiber,No,26,96.48,2486.57,1,moved,Yes
+C101586,2024-11-07,two-year,mailed check,fiber,No,20,85.3,1745.04,2,N/A,No
+C101587,2026-04-01,month-to-month,electronic check,fiber,No,3,52.85,155.62,1,price,Yes
+C101588,2025-08-04,month-to-month,card,none,No,11,20.6,222.8,1,N/A,No
+C101589,2023-12-13,month-to-month,card,dsl,Yes,31,56.0,1747.61,2,N/A,No
+C101590,2025-02-05,month-to-month,bank transfer,dsl,No,17,56.94,963.98,2,N/A,No
+C101591,2023-08-15,one-year,electronic check,fiber,No,35,82.31,2952.3,3,N/A,No
+C101592,2023-10-14,month-to-month,mailed check,dsl,No,33,114.62,3572.81,3,service quality,Yes
+C101593,2021-08-25,month-to-month,bank transfer,dsl,No,59,47.4,2890.02,1,N/A,No
+C101594,2022-03-23,two-year,bank transfer,dsl,Yes,52,68.21,3483.09,2,N/A,No
+C101595,2023-08-15,two-year,bank transfer,fiber,No,35,65.67,2398.69,1,N/A,No
+C101596,2023-05-17,one-year,card,fiber,No,38,68.85,2704.34,0,N/A,No
+C101597,2021-11-23,one-year,card,fiber,No,56,63.19,3414.65,1,N/A,No
+C101598,2023-05-17,month-to-month,bank transfer,fiber,No,38,77.8,2950.28,3,competitor offer,Yes
+C101599,2025-06-05,two-year,bank transfer,none,Yes,13,22.55,298.93,2,N/A,No
+C101600,2024-06-10,one-year,mailed check,dsl,Yes,25,72.84,1776.81,0,N/A,No
+C101601,2023-10-14,month-to-month,card,dsl,No,33,69.77,2250.07,0,N/A,No
+C101602,2020-08-30,month-to-month,mailed check,none,No,71,18.0,1265.64,2,N/A,No
+C101603,2024-07-10,month-to-month,card,dsl,No,24,108.09,2650.56,1,service quality,Yes
+C101604,2025-10-03,month-to-month,bank transfer,fiber,No,9,56.69,523.79,2,N/A,No
+C101605,2020-09-29,month-to-month,electronic check,fiber,No,70,90.98,6284.79,0,N/A,No
+C101606,2026-01-31,month-to-month,card,none,No,5,83.73,428.8,1,N/A,No
+C101607,2024-04-11,month-to-month,mailed check,fiber,No,27,66.95,1886.34,2,N/A,No
+C101608,2025-01-06,month-to-month,mailed check,fiber,No,18,112.79,2085.03,3,N/A,No
+C101609,2024-10-08,month-to-month,mailed check,dsl,No,21,96.89,1989.11,2,service quality,Yes
+C101610,2020-07-31,month-to-month,card,none,No,72,42.59,2987.86,1,N/A,No
+C101611,2025-06-05,month-to-month,electronic check,dsl,No,13,23.43,307.04,1,N/A,No
+C101612,2025-12-02,month-to-month,electronic check,dsl,Yes,7,96.91,694.7,1,price,Yes
+C101613,2024-10-08,one-year,mailed check,dsl,No,21,67.06,1425.64,5,N/A,No
+C101614,2024-12-07,month-to-month,card,fiber,Yes,19,70.69,1327.04,1,moved,Yes
+C101615,2023-11-13,month-to-month,card,fiber,No,32,111.67,3472.72,2,competitor offer,Yes
+C101616,2025-03-07,one-year,electronic check,dsl,No,16,48.69,808.23,0,N/A,No
+C101617,2025-06-05,month-to-month,card,fiber,No,13,106.91,1383.03,0,N/A,No
+C101618,2024-08-09,month-to-month,card,dsl,No,23,52.66,1278.13,2,N/A,No
+C101619,2024-11-07,one-year,card,fiber,No,20,95.03,1834.74,1,N/A,No
+C101620,2025-08-04,one-year,electronic check,fiber,No,11,58.79,640.04,2,N/A,No
+C101621,2025-09-03,two-year,bank transfer,none,Yes,10,26.08,255.7,3,N/A,No
+C101622,2024-08-09,two-year,electronic check,fiber,No,23,62.4,1513.61,0,N/A,No
+C101623,2023-02-16,one-year,electronic check,dsl,No,41,48.98,2081.56,0,N/A,No
+C101624,2024-06-10,one-year,card,fiber,No,25,,2146.55,3,N/A,No
+C101625,2025-07-05,month-to-month,mailed check,none,No,12,31.14,352.06,1,N/A,No
+C101626,2025-06-05,one-year,mailed check,fiber,No,13,87.21,1172.35,2,N/A,No
+C101627,2025-05-06,month-to-month,mailed check,dsl,No,14,93.81,1318.03,0,N/A,No
+C101628,2025-03-07,month-to-month,electronic check,dsl,No,16,62.4,964.49,1,N/A,No
+C101629,2020-07-31,month-to-month,bank transfer,fiber,No,72,41.18,2831.19,2,N/A,No
+C101630,2023-08-15,month-to-month,card,fiber,No,35,76.51,2709.03,1,N/A,No
+C101631,2025-01-06,month-to-month,mailed check,fiber,No,18,84.78,1516.24,3,service quality,Yes
+C101632,2025-12-02,one-year,bank transfer,fiber,No,7,105.87,744.07,,N/A,No
+C101633,2022-03-23,one-year,bank transfer,dsl,No,52,88.21,4639.71,1,N/A,No
+C101634,2024-03-12,one-year,electronic check,,No,28,86.33,2389.9,0,N/A,No
+C101635,2020-12-28,month-to-month,electronic check,none,Yes,67,29.87,1984.48,4,N/A,No
+C101636,2022-03-23,one-year,electronic check,,No,52,79.48,4213.22,1,N/A,No
+C101637,2024-12-07,two-year,electronic check,dsl,No,19,32.57,616.64,0,N/A,No
+C101638,2023-06-16,month-to-month,bank transfer,fiber,No,37,112.03,4109.81,2,N/A,No
+C101639,2026-04-01,month-to-month,electronic check,fiber,No,3,92.83,283.73,2,moved,Yes
+C101640,2024-10-08,month-to-month,bank transfer,none,No,21,46.39,916.53,2,N/A,No
+C101641,2024-08-09,month-to-month,card,none,Yes,23,26.46,630.99,1,N/A,No
+C101642,2024-11-07,month-to-month,mailed check,fiber,Yes,20,84.24,1706.8,4,moved,Yes
+C101643,2025-07-05,month-to-month,electronic check,dsl,No,12,49.95,585.61,2,service quality,Yes
+C101644,2025-03-07,month-to-month,electronic check,dsl,No,16,77.71,1236.59,0,N/A,No
+C101645,2026-01-31,one-year,card,fiber,No,5,53.14,275.38,1,N/A,No
+C101646,2021-12-23,month-to-month,card,fiber,Yes,55,104.81,5858.62,0,N/A,No
+C101647,2025-12-02,one-year,mailed check,dsl,Yes,7,77.2,511.66,3,competitor offer,Yes
+C101648,2025-08-04,month-to-month,mailed check,none,No,11,80.49,858.47,1,N/A,No
+C101649,2020-07-31,one-year,card,none,Yes,72,34.12,2469.66,1,N/A,No
+C101650,2025-04-06,one-year,electronic check,fiber,No,15,80.9,1277.89,3,N/A,No
+C101651,2022-01-22,one-year,card,fiber,No,54,87.33,4822.59,1,N/A,No
+C101652,2022-01-22,month-to-month,bank transfer,fiber,No,54,83.81,4498.6,3,N/A,No
+C101653,2025-06-05,two-year,electronic check,fiber,No,13,80.58,1065.49,3,N/A,No
+C101654,2024-10-08,one-year,bank transfer,none,No,21,18.0,378.15,3,N/A,No
+C101655,2026-01-01,month-to-month,electronic check,fiber,No,6,58.14,345.67,1,price,Yes
+C101656,2023-08-15,month-to-month,mailed check,dsl,No,35,52.26,1849.75,1,N/A,No
+C101657,2020-07-31,month-to-month,card,fiber,No,72,76.46,5154.26,1,N/A,No
+C101658,2023-03-18,month-to-month,electronic check,none,No,40,18.0,741.63,1,N/A,No
+C101659,2026-01-31,month-to-month,bank transfer,dsl,No,5,38.9,197.6,1,price,Yes
+C101660,2020-07-31,month-to-month,card,dsl,Yes,72,58.61,4164.46,1,N/A,No
+C101661,2024-10-08,month-to-month,bank transfer,dsl,Yes,21,81.65,1670.93,1,moved,Yes
+C101662,2022-06-21,one-year,bank transfer,dsl,No,49,60.7,2867.37,0,N/A,No
+C101663,2024-06-10,month-to-month,mailed check,fiber,No,25,98.23,2475.59,3,service quality,Yes
+C101664,2024-08-09,month-to-month,electronic check,fiber,No,23,104.83,2421.69,0,service quality,Yes
+C101665,2021-10-24,month-to-month,card,fiber,No,57,100.25,5744.19,1,moved,Yes
+C101666,2020-07-31,month-to-month,card,none,No,72,25.53,1931.77,0,N/A,No
+C101667,2023-08-15,month-to-month,mailed check,none,No,35,25.9,847.09,1,N/A,No
+C101668,2021-11-23,two-year,electronic check,dsl,No,56,23.1,1265.83,0,N/A,No
+C101669,2025-08-04,month-to-month,electronic check,dsl,No,11,,533.46,,price,Yes
+C101670,2024-10-08,month-to-month,bank transfer,fiber,Yes,21,93.51,2019.08,3,N/A,No
+C101671,2024-12-07,month-to-month,electronic check,none,Yes,19,18.0,339.44,0,N/A,No
+C101672,2025-07-05,month-to-month,electronic check,dsl,Yes,12,95.41,1112.8,1,N/A,No
+C101673,2023-01-17,two-year,electronic check,dsl,No,42,97.21,4108.06,3,N/A,No
+C101674,2025-02-05,two-year,card,dsl,No,17,56.71,975.72,0,N/A,No
+C101675,2025-05-06,month-to-month,electronic check,,No,14,103.72,1521.73,1,competitor offer,Yes
+C101676,2024-06-10,month-to-month,card,dsl,No,25,33.15,835.03,2,N/A,No
+C101677,2025-05-06,month-to-month,card,dsl,No,14,41.43,572.43,2,N/A,No
+C101678,2026-04-01,month-to-month,electronic check,dsl,No,3,56.63,167.35,2,N/A,No
+C101679,2024-12-07,one-year,electronic check,fiber,No,19,83.19,1542.41,1,N/A,No
+C101680,2026-03-02,one-year,card,dsl,Yes,4,60.82,246.82,2,N/A,No
+C101681,2021-09-24,one-year,bank transfer,none,No,58,18.0,1069.4,2,N/A,No
+C101682,2023-05-17,one-year,card,dsl,No,38,109.17,4120.56,0,N/A,No
+C101683,2023-09-14,month-to-month,electronic check,fiber,No,34,89.54,3032.14,1,N/A,No
+C101684,2024-08-09,month-to-month,electronic check,none,No,23,41.43,992.0,1,N/A,No
+C101685,2025-06-05,month-to-month,card,fiber,No,13,98.3,1281.75,1,moved,Yes
+C101686,2022-04-22,one-year,bank transfer,fiber,No,51,86.94,4499.74,2,N/A,No
+C101687,2024-10-08,month-to-month,bank transfer,none,No,21,29.8,605.61,2,N/A,No
+C101688,2023-01-17,month-to-month,card,dsl,No,42,52.49,2164.92,0,N/A,No
+C101689,2024-07-10,two-year,bank transfer,fiber,No,24,46.21,1038.56,2,N/A,No
+C101690,2023-09-14,month-to-month,card,dsl,No,34,98.57,3215.12,1,N/A,No
+C101691,2024-01-12,month-to-month,card,dsl,No,30,44.31,1343.88,0,N/A,No
+C101692,2025-10-03,month-to-month,mailed check,fiber,No,9,45.64,426.0,2,price,Yes
+C101693,2025-10-03,two-year,card,fiber,No,9,64.85,579.02,1,N/A,No
+C101694,2024-06-10,month-to-month,bank transfer,dsl,No,25,29.01,699.51,0,N/A,No
+C101695,2025-12-02,month-to-month,electronic check,dsl,No,7,109.79,770.67,0,service quality,Yes
+C101696,2025-03-07,month-to-month,bank transfer,fiber,Yes,16,91.2,1508.91,0,N/A,No
+C101697,2024-12-07,one-year,,dsl,No,19,96.64,1827.27,1,N/A,No
+C101698,2024-03-12,month-to-month,mailed check,dsl,No,28,97.67,2809.61,1,N/A,No
+C101699,2024-11-07,two-year,card,fiber,No,20,95.77,1911.85,0,N/A,No
+C101700,2022-09-19,month-to-month,bank transfer,fiber,Yes,46,95.87,4248.57,1,N/A,No
+C101701,2024-08-09,one-year,mailed check,fiber,No,23,66.77,1494.32,1,N/A,No
+C101702,2026-01-01,month-to-month,mailed check,none,No,6,33.11,197.15,2,N/A,No
+C101703,2025-04-06,two-year,mailed check,dsl,No,15,51.43,823.84,3,N/A,No
+C101704,2026-01-31,month-to-month,bank transfer,fiber,No,5,83.96,427.12,2,moved,Yes
+C101705,2024-01-12,one-year,electronic check,dsl,No,30,49.29,1468.26,1,N/A,No
+C101706,2021-02-26,two-year,electronic check,dsl,No,65,93.45,6126.9,3,N/A,No
+C101707,2025-02-05,month-to-month,card,fiber,No,17,100.17,1713.72,2,competitor offer,Yes
+C101708,2023-07-16,month-to-month,mailed check,,No,36,80.61,2863.83,1,N/A,No
+C101709,2021-09-24,one-year,card,fiber,No,58,45.47,2629.1,1,N/A,No
+C101710,2024-12-07,month-to-month,electronic check,fiber,Yes,19,98.38,1855.14,0,price,Yes
+C101711,2022-10-19,month-to-month,card,fiber,No,45,102.86,4731.07,3,N/A,No
+C101712,2022-08-20,one-year,card,fiber,Yes,47,81.47,4006.93,1,N/A,No
+C101713,2023-04-17,month-to-month,card,none,Yes,39,18.0,729.76,2,N/A,No
+C101714,2023-04-17,month-to-month,mailed check,dsl,Yes,39,74.71,2886.21,0,moved,Yes
+C101715,2023-11-13,month-to-month,card,dsl,No,32,88.59,2881.7,2,N/A,No
+C101716,2026-01-31,month-to-month,,none,No,5,18.0,88.06,0,N/A,No
+C101717,2025-11-02,month-to-month,card,dsl,Yes,8,77.72,601.58,1,service quality,Yes
+C101718,2025-04-06,month-to-month,bank transfer,none,No,15,18.0,270.62,0,N/A,No
+C101719,2025-06-05,month-to-month,card,dsl,No,13,66.77,883.78,1,N/A,No
+C101720,2022-07-21,month-to-month,mailed check,dsl,No,48,104.21,4993.04,0,N/A,No
+C101721,2023-02-16,month-to-month,card,dsl,Yes,41,67.06,2817.34,2,price,Yes
+C101722,2024-05-11,one-year,mailed check,dsl,No,26,,2018.95,0,N/A,No
+C101723,2023-06-16,month-to-month,bank transfer,dsl,No,37,57.78,2186.16,0,N/A,No
+C101724,2024-10-08,month-to-month,mailed check,none,No,21,34.85,728.54,0,N/A,No
+C101725,2025-01-06,month-to-month,electronic check,fiber,No,18,130.0,2245.44,0,price,Yes
+C101726,2025-03-07,month-to-month,card,fiber,No,16,112.93,1903.82,1,N/A,No
+C101727,2024-10-08,month-to-month,bank transfer,fiber,No,21,75.95,1572.46,1,N/A,No
+C101728,2025-08-04,month-to-month,card,none,No,11,26.45,297.31,3,N/A,No
+C101729,2024-12-07,month-to-month,bank transfer,none,No,19,35.41,682.57,2,N/A,No
+C101730,2022-04-22,one-year,card,fiber,No,51,130.0,6562.14,2,N/A,No
+C101731,2026-05-01,two-year,electronic check,fiber,No,2,87.69,184.92,2,N/A,No
+C101732,2025-03-07,two-year,electronic check,fiber,Yes,16,107.96,1762.13,1,N/A,No
+C101733,2020-07-31,month-to-month,card,none,No,72,26.83,1931.12,0,N/A,No
+C101734,2023-06-16,month-to-month,card,dsl,No,37,36.45,1332.02,0,N/A,No
+C101735,2024-05-11,month-to-month,mailed check,none,No,26,64.7,1633.92,2,N/A,No
+C101736,2025-05-06,month-to-month,card,dsl,No,14,63.29,852.78,1,price,Yes
+C101737,2025-03-07,two-year,bank transfer,,Yes,16,47.42,771.67,1,N/A,No
+C101738,2020-12-28,month-to-month,card,dsl,Yes,67,49.47,3271.31,0,N/A,No
+C101739,2022-02-21,month-to-month,bank transfer,none,No,53,19.95,1043.19,1,N/A,No
+C101740,2022-05-22,one-year,bank transfer,dsl,No,50,,2608.29,2,N/A,No
+C101741,2022-08-20,one-year,bank transfer,fiber,No,47,,2254.71,2,N/A,No
+C101742,2024-12-07,month-to-month,bank transfer,dsl,No,19,91.93,1780.63,0,N/A,No
+C101743,2024-04-11,two-year,card,none,No,27,43.57,1154.1,2,N/A,No
+C101744,2025-02-05,month-to-month,electronic check,dsl,No,17,86.86,1453.94,0,N/A,No
+C101745,2026-05-01,one-year,card,dsl,No,2,57.29,117.71,1,N/A,No
+C101746,2025-05-06,month-to-month,bank transfer,dsl,No,14,72.77,998.24,1,N/A,No
+C101747,2026-03-02,two-year,,dsl,No,4,68.74,279.97,0,N/A,No
+C101748,2023-11-13,month-to-month,card,fiber,No,32,109.32,3551.06,1,N/A,No
+C101749,2021-07-26,month-to-month,electronic check,fiber,No,60,101.26,6077.43,2,service quality,Yes
+C101750,2022-06-21,two-year,card,fiber,No,49,91.03,4241.64,1,N/A,No
+C101751,2025-12-02,two-year,bank transfer,fiber,No,7,68.45,460.55,6,N/A,No
+C101752,2026-03-02,two-year,bank transfer,fiber,No,4,56.09,217.08,4,N/A,No
+C101753,2024-10-08,two-year,card,none,No,21,18.0,363.58,1,N/A,No
+C101754,2024-03-12,month-to-month,electronic check,none,No,28,20.81,597.62,2,N/A,No
+C101755,2025-04-06,month-to-month,bank transfer,fiber,No,15,70.93,1036.52,0,N/A,No
+C101756,2024-01-12,month-to-month,bank transfer,dsl,No,30,37.31,1078.15,5,price,Yes
+C101757,2025-06-05,month-to-month,bank transfer,dsl,No,13,,1308.42,0,N/A,No
+C101758,2024-02-11,two-year,electronic check,dsl,No,29,71.04,2054.29,2,N/A,No
+C101759,2022-03-23,month-to-month,card,fiber,No,52,37.86,1871.35,1,N/A,No
+C101760,2024-04-11,month-to-month,electronic check,dsl,No,27,40.56,1114.8,0,N/A,No
+C101761,2024-06-10,month-to-month,mailed check,fiber,No,25,53.0,1353.44,2,N/A,No
+C101762,2024-11-07,month-to-month,card,dsl,No,20,70.34,1381.98,2,N/A,No
+C101763,2022-06-21,month-to-month,card,fiber,Yes,49,106.86,5361.64,2,N/A,No
+C101764,2025-06-05,month-to-month,electronic check,fiber,No,13,60.93,755.6,3,competitor offer,Yes
+C101765,2024-08-09,two-year,bank transfer,fiber,No,23,96.85,2191.12,1,N/A,No
+C101766,2025-03-07,one-year,card,fiber,Yes,16,76.82,1223.17,1,N/A,No
+C101767,2025-01-06,month-to-month,card,dsl,No,18,90.7,1636.0,0,N/A,No
+C101768,2024-10-08,two-year,electronic check,dsl,No,21,95.54,2074.59,1,N/A,No
+C101769,2026-03-02,one-year,mailed check,dsl,No,4,71.95,284.99,0,N/A,No
+C101770,2023-06-16,month-to-month,mailed check,dsl,No,37,81.06,2909.46,2,N/A,No
+C101771,2021-06-26,two-year,electronic check,none,Yes,61,34.93,2144.26,,N/A,No
+C101772,2021-03-28,two-year,bank transfer,dsl,No,64,56.65,3642.22,1,N/A,No
+C101773,2020-08-30,one-year,mailed check,fiber,No,71,57.01,4101.29,3,N/A,No
+C101774,2026-05-01,month-to-month,electronic check,dsl,No,2,72.31,143.19,1,N/A,No
+C101775,2024-12-07,two-year,mailed check,fiber,No,19,81.43,1555.04,3,N/A,No
+C101776,2024-11-07,two-year,electronic check,fiber,No,20,74.42,1463.24,1,N/A,No
+C101777,2023-06-16,month-to-month,electronic check,fiber,No,37,81.3,3058.14,3,service quality,Yes
+C101778,2024-12-07,month-to-month,electronic check,fiber,Yes,19,78.86,1468.98,2,service quality,Yes
+C101779,2024-06-10,two-year,card,dsl,Yes,25,41.82,1026.3,0,N/A,No
+C101780,2025-09-03,one-year,card,fiber,No,10,71.21,736.64,1,N/A,No
+C101781,2022-04-22,month-to-month,card,dsl,Yes,51,90.5,4511.56,1,service quality,Yes
+C101782,2025-10-03,one-year,mailed check,,Yes,9,77.8,700.25,4,price,Yes
+C101783,2024-06-10,month-to-month,mailed check,fiber,Yes,25,114.16,2901.79,1,competitor offer,Yes
+C101784,2020-07-31,two-year,electronic check,fiber,No,72,57.25,4083.11,1,N/A,No
+C101785,2024-03-12,month-to-month,card,none,No,28,18.0,517.45,1,N/A,No
+C101786,2024-12-07,month-to-month,card,dsl,No,19,67.84,1266.8,2,N/A,No
+C101787,2022-03-23,month-to-month,bank transfer,fiber,No,52,,5373.21,0,N/A,No
+C101788,2022-11-18,month-to-month,bank transfer,dsl,No,44,50.36,2113.79,3,N/A,No
+C101789,2024-09-08,two-year,card,dsl,No,22,78.94,1667.22,4,N/A,No
+C101790,2024-07-10,month-to-month,card,fiber,Yes,24,103.82,2496.47,4,service quality,Yes
+C101791,2023-10-14,month-to-month,electronic check,fiber,No,33,106.93,3677.48,,moved,Yes
+C101792,2020-11-28,two-year,electronic check,fiber,Yes,68,80.53,5736.46,2,N/A,No
+C101793,2025-02-05,month-to-month,card,dsl,No,17,63.85,1057.85,1,N/A,No
+C101794,2023-07-16,month-to-month,bank transfer,dsl,No,36,28.2,1014.25,0,N/A,No
+C101795,2025-05-06,two-year,bank transfer,fiber,Yes,14,83.51,1152.1,2,N/A,No
+C101796,2026-01-31,month-to-month,bank transfer,fiber,No,5,89.26,418.05,2,service quality,Yes
+C101797,2023-10-14,two-year,electronic check,fiber,No,33,114.49,3858.72,2,N/A,No
+C101798,2025-09-03,two-year,bank transfer,dsl,No,10,,362.51,0,N/A,No
+C101799,2024-11-07,month-to-month,mailed check,fiber,Yes,20,64.14,1334.58,1,N/A,No
